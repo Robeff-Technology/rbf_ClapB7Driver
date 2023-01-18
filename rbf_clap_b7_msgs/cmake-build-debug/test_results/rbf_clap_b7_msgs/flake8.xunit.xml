@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite
+  name="rbf_clap_b7_msgs.flake8"
+  tests="1"
+  errors="0"
+  failures="1"
+  time="0.265"
+>
+  <testcase
+    name="E501 (./cmake-build-debug/rosidl_generator_py/rbf_clap_b7_msgs/msg/_clap_data.py:259:100)"
+    classname="rbf_clap_b7_msgs.flake8"
+  >
+      <failure message="line too long (134 &gt; 99 characters):&#10;                t.value_type.typename in ['float', 'double', 'int8', 'uint8', 'int16', 'uint16', 'int32', 'uint32', 'int64', 'uint64']&#10;"/>
+  </testcase>
+  <system-out>Checked files:
+* ./cmake-build-debug/rosidl_generator_py/rbf_clap_b7_msgs/__init__.py
+* ./cmake-build-debug/rosidl_generator_py/rbf_clap_b7_msgs/msg/__init__.py
+* ./cmake-build-debug/rosidl_generator_py/rbf_clap_b7_msgs/msg/_clap_data.py</system-out>
+</testsuite>

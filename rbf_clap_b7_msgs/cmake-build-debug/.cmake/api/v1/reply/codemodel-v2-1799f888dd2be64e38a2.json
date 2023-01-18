@@ -1,0 +1,215 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-fe0e5dff6f1da07df95c.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.8"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15
+					]
+				},
+				{
+					"build" : "rbf_clap_b7_msgs__py",
+					"jsonFile" : "directory-rbf_clap_b7_msgs__py-Debug-138583c4288e789f0efb.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.8"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "cmake-build-debug/rbf_clap_b7_msgs__py",
+					"targetIndexes" : 
+					[
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1
+					],
+					"name" : "rbf_clap_b7_msgs",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "rbf_clap_b7_msgs::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-rbf_clap_b7_msgs-Debug-8864411a0d960d9f73aa.json",
+					"name" : "rbf_clap_b7_msgs",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "rbf_clap_b7_msgs__cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-rbf_clap_b7_msgs__cpp-Debug-6eda31602ee03bd781d3.json",
+					"name" : "rbf_clap_b7_msgs__cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "rbf_clap_b7_msgs__py::@a4009bc035bbffa771f0",
+					"jsonFile" : "target-rbf_clap_b7_msgs__py-Debug-34f2b483ecdeaf153e08.json",
+					"name" : "rbf_clap_b7_msgs__py",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "rbf_clap_b7_msgs__python::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-rbf_clap_b7_msgs__python-Debug-602e72e0d7ddfd71fe88.json",
+					"name" : "rbf_clap_b7_msgs__python",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "rbf_clap_b7_msgs__rosidl_generator_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-rbf_clap_b7_msgs__rosidl_generator_c-Debug-346abaa37edba17cb20d.json",
+					"name" : "rbf_clap_b7_msgs__rosidl_generator_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "rbf_clap_b7_msgs__rosidl_typesupport_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-rbf_clap_b7_msgs__rosidl_typesupport_c-Debug-4b5fda0be5f4921c0cbf.json",
+					"name" : "rbf_clap_b7_msgs__rosidl_typesupport_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "rbf_clap_b7_msgs__rosidl_typesupport_c__pyext::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-rbf_clap_b7_msgs__rosidl_typesupport_c__pyext-Debug-f708d81c7acd35d59c8d.json",
+					"name" : "rbf_clap_b7_msgs__rosidl_typesupport_c__pyext",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "rbf_clap_b7_msgs__rosidl_typesupport_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-rbf_clap_b7_msgs__rosidl_typesupport_cpp-Debug-d70372447335122be4c1.json",
+					"name" : "rbf_clap_b7_msgs__rosidl_typesupport_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "rbf_clap_b7_msgs__rosidl_typesupport_fastrtps_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-rbf_clap_b7_msgs__rosidl_typesupport_fastrtps_c-Debug-7c318af8d51df910132f.json",
+					"name" : "rbf_clap_b7_msgs__rosidl_typesupport_fastrtps_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "rbf_clap_b7_msgs__rosidl_typesupport_fastrtps_c__pyext::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-rbf_clap_b7_msgs__rosidl_typesupport_fastrtps_c__pyext-Debug-5d8ad142aabbcdd59abf.json",
+					"name" : "rbf_clap_b7_msgs__rosidl_typesupport_fastrtps_c__pyext",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "rbf_clap_b7_msgs__rosidl_typesupport_fastrtps_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-rbf_clap_b7_msgs__rosidl_typesupport_fastrtps_cpp-Debug-f7b0f261a21cd6491fda.json",
+					"name" : "rbf_clap_b7_msgs__rosidl_typesupport_fastrtps_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "rbf_clap_b7_msgs__rosidl_typesupport_introspection_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-rbf_clap_b7_msgs__rosidl_typesupport_introspection_c-Debug-0dbef41584456157334d.json",
+					"name" : "rbf_clap_b7_msgs__rosidl_typesupport_introspection_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "rbf_clap_b7_msgs__rosidl_typesupport_introspection_c__pyext::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-rbf_clap_b7_msgs__rosidl_typesupport_introspection_c__pyext-Debug-38088617650b8c98ae57.json",
+					"name" : "rbf_clap_b7_msgs__rosidl_typesupport_introspection_c__pyext",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "rbf_clap_b7_msgs__rosidl_typesupport_introspection_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-rbf_clap_b7_msgs__rosidl_typesupport_introspection_cpp-Debug-6c589d6eeafa7e806d0c.json",
+					"name" : "rbf_clap_b7_msgs__rosidl_typesupport_introspection_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "rbf_clap_b7_msgs_uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-rbf_clap_b7_msgs_uninstall-Debug-53b1ec36d9b5ecc92c96.json",
+					"name" : "rbf_clap_b7_msgs_uninstall",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-uninstall-Debug-659a5046cf0ff948c636.json",
+					"name" : "uninstall",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/coskun/projects/delivery_robot_ws/src/rbf_clap_b7_driver/rbf_clap_b7_msgs/cmake-build-debug",
+		"source" : "/home/coskun/projects/delivery_robot_ws/src/rbf_clap_b7_driver/rbf_clap_b7_msgs"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

@@ -1,0 +1,14 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "rbf_clap_b7_msgs__py",
+		"source" : "cmake-build-debug/rbf_clap_b7_msgs__py"
+	}
+}

@@ -1,0 +1,910 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite
+  name="rbf_clap_b7_msgs.cpplint"
+  tests="145"
+  failures="145"
+  errors="0"
+  time="1.314"
+>
+  <testcase
+    name="legal/copyright [5] (/home/coskun/projects/delivery_robot_ws/src/rbf_clap_b7_driver/rbf_clap_b7_msgs/cmake-build-debug/CMakeFiles/3.22.3/CompilerIdC/CMakeCCompilerId.c:0)"
+    classname="rbf_clap_b7_msgs.cpplint"
+  >
+      <failure message='No copyright message found.  You should have a line: "Copyright [year] &lt;Copyright Owner&gt;"'/>
+  </testcase>
+  <testcase
+    name="whitespace/line_length [2] (/home/coskun/projects/delivery_robot_ws/src/rbf_clap_b7_driver/rbf_clap_b7_msgs/cmake-build-debug/CMakeFiles/3.22.3/CompilerIdC/CMakeCCompilerId.c:352)"
+    classname="rbf_clap_b7_msgs.cpplint"
+  >
+      <failure message="Lines should be &lt;= 100 characters long"/>
+  </testcase>
+  <testcase
+    name="whitespace/line_length [2] (/home/coskun/projects/delivery_robot_ws/src/rbf_clap_b7_driver/rbf_clap_b7_msgs/cmake-build-debug/CMakeFiles/3.22.3/CompilerIdC/CMakeCCompilerId.c:368)"
+    classname="rbf_clap_b7_msgs.cpplint"
+  >
+      <failure message="Lines should be &lt;= 100 characters long"/>
+  </testcase>
+  <testcase
+    name="whitespace/comma [3] (/home/coskun/projects/delivery_robot_ws/src/rbf_clap_b7_driver/rbf_clap_b7_msgs/cmake-build-debug/CMakeFiles/3.22.3/CompilerIdC/CMakeCCompilerId.c:685)"
+    classname="rbf_clap_b7_msgs.cpplint"
+  >
+      <failure message="Missing space after ,"/>
+  </testcase>
+  <testcase
+    name="whitespace/comma [3] (/home/coskun/projects/delivery_robot_ws/src/rbf_clap_b7_driver/rbf_clap_b7_msgs/cmake-build-debug/CMakeFiles/3.22.3/CompilerIdC/CMakeCCompilerId.c:696)"
+    classname="rbf_clap_b7_msgs.cpplint"
+  >
+      <failure message="Missing space after ,"/>
+  </testcase>
+  <testcase
+    name="whitespace/comma [3] (/home/coskun/projects/delivery_robot_ws/src/rbf_clap_b7_driver/rbf_clap_b7_msgs/cmake-build-debug/CMakeFiles/3.22.3/CompilerIdC/CMakeCCompilerId.c:703)"
+    classname="rbf_clap_b7_msgs.cpplint"
+  >
+      <failure message="Missing space after ,"/>
+  </testcase>
+  <testcase
+    name="whitespace/comma [3] (/home/coskun/projects/delivery_robot_ws/src/rbf_clap_b7_driver/rbf_clap_b7_msgs/cmake-build-debug/CMakeFiles/3.22.3/CompilerIdC/CMakeCCompilerId.c:704)"
+    classname="rbf_clap_b7_msgs.cpplint"
+  >
+      <failure message="Missing space after ,"/>
+  </testcase>
+  <testcase
+    name="whitespace/comma [3] (/home/coskun/projects/delivery_robot_ws/src/rbf_clap_b7_driver/rbf_clap_b7_msgs/cmake-build-debug/CMakeFiles/3.22.3/CompilerIdC/CMakeCCompilerId.c:705)"
+    classname="rbf_clap_b7_msgs.cpplint"
+  >
+      <failure message="Missing space after ,"/>
+  </testcase>
+  <testcase
+    name="whitespace/line_length [2] (/home/coskun/projects/delivery_robot_ws/src/rbf_clap_b7_driver/rbf_clap_b7_msgs/cmake-build-debug/CMakeFiles/3.22.3/CompilerIdC/CMakeCCompilerId.c:707)"
+    classname="rbf_clap_b7_msgs.cpplint"
+  >
+      <failure message="Lines should be &lt;= 100 characters long"/>
+  </testcase>
+  <testcase
+    name="whitespace/comma [3] (/home/coskun/projects/delivery_robot_ws/src/rbf_clap_b7_driver/rbf_clap_b7_msgs/cmake-build-debug/CMakeFiles/3.22.3/CompilerIdC/CMakeCCompilerId.c:714)"
+    classname="rbf_clap_b7_msgs.cpplint"
+  >
+      <failure message="Missing space after ,"/>
+  </testcase>
+  <testcase
+    name="whitespace/comma [3] (/home/coskun/projects/delivery_robot_ws/src/rbf_clap_b7_driver/rbf_clap_b7_msgs/cmake-build-debug/CMakeFiles/3.22.3/CompilerIdC/CMakeCCompilerId.c:725)"
+    classname="rbf_clap_b7_msgs.cpplint"
+  >
+      <failure message="Missing space after ,"/>
+  </testcase>
+  <testcase
+    name="legal/copyright [5] (/home/coskun/projects/delivery_robot_ws/src/rbf_clap_b7_driver/rbf_clap_b7_msgs/cmake-build-debug/CMakeFiles/3.22.3/CompilerIdCXX/CMakeCXXCompilerId.cpp:0)"
+    classname="rbf_clap_b7_msgs.cpplint"
+  >
+      <failure message='No copyright message found.  You should have a line: "Copyright [year] &lt;Copyright Owner&gt;"'/>
+  </testcase>
+  <testcase
+    name="whitespace/line_length [2] (/home/coskun/projects/delivery_robot_ws/src/rbf_clap_b7_driver/rbf_clap_b7_msgs/cmake-build-debug/CMakeFiles/3.22.3/CompilerIdCXX/CMakeCXXCompilerId.cpp:350)"
+    classname="rbf_clap_b7_msgs.cpplint"
+  >
+      <failure message="Lines should be &lt;= 100 characters long"/>
+  </testcase>
+  <testcase
+    name="whitespace/line_length [2] (/home/coskun/projects/delivery_robot_ws/src/rbf_clap_b7_driver/rbf_clap_b7_msgs/cmake-build-debug/CMakeFiles/3.22.3/CompilerIdCXX/CMakeCXXCompilerId.cpp:366)"
+    classname="rbf_clap_b7_msgs.cpplint"
+  >
+      <failure message="Lines should be &lt;= 100 characters long"/>
+  </testcase>
+  <testcase
+    name="whitespace/comma [3] (/home/coskun/projects/delivery_robot_ws/src/rbf_clap_b7_driver/rbf_clap_b7_msgs/cmake-build-debug/CMakeFiles/3.22.3/CompilerIdCXX/CMakeCXXCompilerId.cpp:670)"
+    classname="rbf_clap_b7_msgs.cpplint"
+  >
+      <failure message="Missing space after ,"/>
+  </testcase>
+  <testcase
+    name="whitespace/comma [3] (/home/coskun/projects/delivery_robot_ws/src/rbf_clap_b7_driver/rbf_clap_b7_msgs/cmake-build-debug/CMakeFiles/3.22.3/CompilerIdCXX/CMakeCXXCompilerId.cpp:681)"
+    classname="rbf_clap_b7_msgs.cpplint"
+  >
+      <failure message="Missing space after ,"/>
+  </testcase>
+  <testcase
+    name="whitespace/comma [3] (/home/coskun/projects/delivery_robot_ws/src/rbf_clap_b7_driver/rbf_clap_b7_msgs/cmake-build-debug/CMakeFiles/3.22.3/CompilerIdCXX/CMakeCXXCompilerId.cpp:688)"
+    classname="rbf_clap_b7_msgs.cpplint"
+  >
+      <failure message="Missing space after ,"/>
+  </testcase>
+  <testcase
+    name="whitespace/comma [3] (/home/coskun/projects/delivery_robot_ws/src/rbf_clap_b7_driver/rbf_clap_b7_msgs/cmake-build-debug/CMakeFiles/3.22.3/CompilerIdCXX/CMakeCXXCompilerId.cpp:689)"
+    classname="rbf_clap_b7_msgs.cpplint"
+  >
+      <failure message="Missing space after ,"/>
+  </testcase>
+  <testcase
+    name="whitespace/comma [3] (/home/coskun/projects/delivery_robot_ws/src/rbf_clap_b7_driver/rbf_clap_b7_msgs/cmake-build-debug/CMakeFiles/3.22.3/CompilerIdCXX/CMakeCXXCompilerId.cpp:690)"
+    classname="rbf_clap_b7_msgs.cpplint"
+  >
+      <failure message="Missing space after ,"/>
+  </testcase>
+  <testcase
+    name="whitespace/line_length [2] (/home/coskun/projects/delivery_robot_ws/src/rbf_clap_b7_driver/rbf_clap_b7_msgs/cmake-build-debug/CMakeFiles/3.22.3/CompilerIdCXX/CMakeCXXCompilerId.cpp:692)"
+    classname="rbf_clap_b7_msgs.cpplint"
+  >
+      <failure message="Lines should be &lt;= 100 characters long"/>
+  </testcase>
+  <testcase
+    name="whitespace/comma [3] (/home/coskun/projects/delivery_robot_ws/src/rbf_clap_b7_driver/rbf_clap_b7_msgs/cmake-build-debug/CMakeFiles/3.22.3/CompilerIdCXX/CMakeCXXCompilerId.cpp:699)"
+    classname="rbf_clap_b7_msgs.cpplint"
+  >
+      <failure message="Missing space after ,"/>
+  </testcase>
+  <testcase
+    name="whitespace/comma [3] (/home/coskun/projects/delivery_robot_ws/src/rbf_clap_b7_driver/rbf_clap_b7_msgs/cmake-build-debug/CMakeFiles/3.22.3/CompilerIdCXX/CMakeCXXCompilerId.cpp:710)"
+    classname="rbf_clap_b7_msgs.cpplint"
+  >
+      <failure message="Missing space after ,"/>
+  </testcase>
+  <testcase
+    name="build/header_guard [5] (/home/coskun/projects/delivery_robot_ws/src/rbf_clap_b7_driver/rbf_clap_b7_msgs/cmake-build-debug/rosidl_generator_c/rbf_clap_b7_msgs/msg/clap_data.h:5)"
+    classname="rbf_clap_b7_msgs.cpplint"
+  >
+      <failure message="#ifndef header guard has wrong style, please use: RBF_CLAP_B7_MSGS__CMAKE_BUILD_DEBUG__ROSIDL_GENERATOR_C__RBF_CLAP_B7_MSGS__MSG__CLAP_DATA_H_"/>
+  </testcase>
+  <testcase
+    name="build/header_guard [5] (/home/coskun/projects/delivery_robot_ws/src/rbf_clap_b7_driver/rbf_clap_b7_msgs/cmake-build-debug/rosidl_generator_c/rbf_clap_b7_msgs/msg/clap_data.h:12)"
+    classname="rbf_clap_b7_msgs.cpplint"
+  >
+      <failure message='#endif line should be "#endif  // RBF_CLAP_B7_MSGS__CMAKE_BUILD_DEBUG__ROSIDL_GENERATOR_C__RBF_CLAP_B7_MSGS__MSG__CLAP_DATA_H_"'/>
+  </testcase>
+  <testcase
+    name="build/header_guard [5] (/home/coskun/projects/delivery_robot_ws/src/rbf_clap_b7_driver/rbf_clap_b7_msgs/cmake-build-debug/rosidl_generator_c/rbf_clap_b7_msgs/msg/rosidl_generator_c__visibility_control.h:4)"
+    classname="rbf_clap_b7_msgs.cpplint"
+  >
+      <failure message="#ifndef header guard has wrong style, please use: RBF_CLAP_B7_MSGS__CMAKE_BUILD_DEBUG__ROSIDL_GENERATOR_C__RBF_CLAP_B7_MSGS__MSG__ROSIDL_GENERATOR_C__VISIBILITY_CONTROL_H_"/>
+  </testcase>
+  <testcase
+    name="build/header_guard [5] (/home/coskun/projects/delivery_robot_ws/src/rbf_clap_b7_driver/rbf_clap_b7_msgs/cmake-build-debug/rosidl_generator_c/rbf_clap_b7_msgs/msg/rosidl_generator_c__visibility_control.h:42)"
+    classname="rbf_clap_b7_msgs.cpplint"
+  >
+      <failure message='#endif line should be "#endif  // RBF_CLAP_B7_MSGS__CMAKE_BUILD_DEBUG__ROSIDL_GENERATOR_C__RBF_CLAP_B7_MSGS__MSG__ROSIDL_GENERATOR_C__VISIBILITY_CONTROL_H_"'/>
+  </testcase>
+  <testcase
+    name="whitespace/line_length [2] (/home/coskun/projects/delivery_robot_ws/src/rbf_clap_b7_driver/rbf_clap_b7_msgs/cmake-build-debug/rosidl_generator_c/rbf_clap_b7_msgs/msg/detail/clap_data__functions.c:118)"
+    classname="rbf_clap_b7_msgs.cpplint"
+  >
+      <failure message="Lines should be &lt;= 100 characters long"/>
+  </testcase>
+  <testcase
+    name="whitespace/line_length [2] (/home/coskun/projects/delivery_robot_ws/src/rbf_clap_b7_driver/rbf_clap_b7_msgs/cmake-build-debug/rosidl_generator_c/rbf_clap_b7_msgs/msg/detail/clap_data__functions.c:404)"
+    classname="rbf_clap_b7_msgs.cpplint"
+  >
+      <failure message="Lines should be &lt;= 100 characters long"/>
+  </testcase>
+  <testcase
+    name="whitespace/line_length [2] (/home/coskun/projects/delivery_robot_ws/src/rbf_clap_b7_driver/rbf_clap_b7_msgs/cmake-build-debug/rosidl_generator_c/rbf_clap_b7_msgs/msg/detail/clap_data__functions.c:428)"
+    classname="rbf_clap_b7_msgs.cpplint"
+  >
+      <failure message="Lines should be &lt;= 100 characters long"/>
+  </testcase>
+  <testcase
+    name="whitespace/line_length [2] (/home/coskun/projects/delivery_robot_ws/src/rbf_clap_b7_driver/rbf_clap_b7_msgs/cmake-build-debug/rosidl_generator_c/rbf_clap_b7_msgs/msg/detail/clap_data__functions.c:489)"
+    classname="rbf_clap_b7_msgs.cpplint"
+  >
+      <failure message="Lines should be &lt;= 100 characters long"/>
+  </testcase>
+  <testcase
+    name="whitespace/line_length [2] (/home/coskun/projects/delivery_robot_ws/src/rbf_clap_b7_driver/rbf_clap_b7_msgs/cmake-build-debug/rosidl_generator_c/rbf_clap_b7_msgs/msg/detail/clap_data__functions.c:502)"
+    classname="rbf_clap_b7_msgs.cpplint"
+  >
+      <failure message="Lines should be &lt;= 100 characters long"/>
+  </testcase>
+  <testcase
+    name="whitespace/line_length [2] (/home/coskun/projects/delivery_robot_ws/src/rbf_clap_b7_driver/rbf_clap_b7_msgs/cmake-build-debug/rosidl_generator_c/rbf_clap_b7_msgs/msg/detail/clap_data__functions.c:511)"
+    classname="rbf_clap_b7_msgs.cpplint"
+  >
+      <failure message="Lines should be &lt;= 100 characters long"/>
+  </testcase>
+  <testcase
+    name="build/header_guard [5] (/home/coskun/projects/delivery_robot_ws/src/rbf_clap_b7_driver/rbf_clap_b7_msgs/cmake-build-debug/rosidl_generator_c/rbf_clap_b7_msgs/msg/detail/clap_data__functions.h:5)"
+    classname="rbf_clap_b7_msgs.cpplint"
+  >
+      <failure message="#ifndef header guard has wrong style, please use: RBF_CLAP_B7_MSGS__CMAKE_BUILD_DEBUG__ROSIDL_GENERATOR_C__RBF_CLAP_B7_MSGS__MSG__DETAIL__CLAP_DATA__FUNCTIONS_H_"/>
+  </testcase>
+  <testcase
+    name="build/header_guard [5] (/home/coskun/projects/delivery_robot_ws/src/rbf_clap_b7_driver/rbf_clap_b7_msgs/cmake-build-debug/rosidl_generator_c/rbf_clap_b7_msgs/msg/detail/clap_data__functions.h:177)"
+    classname="rbf_clap_b7_msgs.cpplint"
+  >
+      <failure message='#endif line should be "#endif  // RBF_CLAP_B7_MSGS__CMAKE_BUILD_DEBUG__ROSIDL_GENERATOR_C__RBF_CLAP_B7_MSGS__MSG__DETAIL__CLAP_DATA__FUNCTIONS_H_"'/>
+  </testcase>
+  <testcase
+    name="whitespace/line_length [2] (/home/coskun/projects/delivery_robot_ws/src/rbf_clap_b7_driver/rbf_clap_b7_msgs/cmake-build-debug/rosidl_generator_c/rbf_clap_b7_msgs/msg/detail/clap_data__functions.h:77)"
+    classname="rbf_clap_b7_msgs.cpplint"
+  >
+      <failure message="Lines should be &lt;= 100 characters long"/>
+  </testcase>
+  <testcase
+    name="whitespace/line_length [2] (/home/coskun/projects/delivery_robot_ws/src/rbf_clap_b7_driver/rbf_clap_b7_msgs/cmake-build-debug/rosidl_generator_c/rbf_clap_b7_msgs/msg/detail/clap_data__functions.h:109)"
+    classname="rbf_clap_b7_msgs.cpplint"
+  >
+      <failure message="Lines should be &lt;= 100 characters long"/>
+  </testcase>
+  <testcase
+    name="whitespace/line_length [2] (/home/coskun/projects/delivery_robot_ws/src/rbf_clap_b7_driver/rbf_clap_b7_msgs/cmake-build-debug/rosidl_generator_c/rbf_clap_b7_msgs/msg/detail/clap_data__functions.h:144)"
+    classname="rbf_clap_b7_msgs.cpplint"
+  >
+      <failure message="Lines should be &lt;= 100 characters long"/>
+  </testcase>
+  <testcase
+    name="whitespace/line_length [2] (/home/coskun/projects/delivery_robot_ws/src/rbf_clap_b7_driver/rbf_clap_b7_msgs/cmake-build-debug/rosidl_generator_c/rbf_clap_b7_msgs/msg/detail/clap_data__functions.h:154)"
+    classname="rbf_clap_b7_msgs.cpplint"
+  >
+      <failure message="Lines should be &lt;= 100 characters long"/>
+  </testcase>
+  <testcase
+    name="build/header_guard [5] (/home/coskun/projects/delivery_robot_ws/src/rbf_clap_b7_driver/rbf_clap_b7_msgs/cmake-build-debug/rosidl_generator_c/rbf_clap_b7_msgs/msg/detail/clap_data__struct.h:5)"
+    classname="rbf_clap_b7_msgs.cpplint"
+  >
+      <failure message="#ifndef header guard has wrong style, please use: RBF_CLAP_B7_MSGS__CMAKE_BUILD_DEBUG__ROSIDL_GENERATOR_C__RBF_CLAP_B7_MSGS__MSG__DETAIL__CLAP_DATA__STRUCT_H_"/>
+  </testcase>
+  <testcase
+    name="build/header_guard [5] (/home/coskun/projects/delivery_robot_ws/src/rbf_clap_b7_driver/rbf_clap_b7_msgs/cmake-build-debug/rosidl_generator_c/rbf_clap_b7_msgs/msg/detail/clap_data__struct.h:83)"
+    classname="rbf_clap_b7_msgs.cpplint"
+  >
+      <failure message='#endif line should be "#endif  // RBF_CLAP_B7_MSGS__CMAKE_BUILD_DEBUG__ROSIDL_GENERATOR_C__RBF_CLAP_B7_MSGS__MSG__DETAIL__CLAP_DATA__STRUCT_H_"'/>
+  </testcase>
+  <testcase
+    name="build/header_guard [5] (/home/coskun/projects/delivery_robot_ws/src/rbf_clap_b7_driver/rbf_clap_b7_msgs/cmake-build-debug/rosidl_generator_c/rbf_clap_b7_msgs/msg/detail/clap_data__type_support.h:5)"
+    classname="rbf_clap_b7_msgs.cpplint"
+  >
+      <failure message="#ifndef header guard has wrong style, please use: RBF_CLAP_B7_MSGS__CMAKE_BUILD_DEBUG__ROSIDL_GENERATOR_C__RBF_CLAP_B7_MSGS__MSG__DETAIL__CLAP_DATA__TYPE_SUPPORT_H_"/>
+  </testcase>
+  <testcase
+    name="build/header_guard [5] (/home/coskun/projects/delivery_robot_ws/src/rbf_clap_b7_driver/rbf_clap_b7_msgs/cmake-build-debug/rosidl_generator_c/rbf_clap_b7_msgs/msg/detail/clap_data__type_support.h:33)"
+    classname="rbf_clap_b7_msgs.cpplint"
+  >
+      <failure message='#endif line should be "#endif  // RBF_CLAP_B7_MSGS__CMAKE_BUILD_DEBUG__ROSIDL_GENERATOR_C__RBF_CLAP_B7_MSGS__MSG__DETAIL__CLAP_DATA__TYPE_SUPPORT_H_"'/>
+  </testcase>
+  <testcase
+    name="build/header_guard [5] (/home/coskun/projects/delivery_robot_ws/src/rbf_clap_b7_driver/rbf_clap_b7_msgs/cmake-build-debug/rosidl_generator_cpp/rbf_clap_b7_msgs/msg/clap_data.hpp:4)"
+    classname="rbf_clap_b7_msgs.cpplint"
+  >
+      <failure message="#ifndef header guard has wrong style, please use: RBF_CLAP_B7_MSGS__CMAKE_BUILD_DEBUG__ROSIDL_GENERATOR_CPP__RBF_CLAP_B7_MSGS__MSG__CLAP_DATA_HPP_"/>
+  </testcase>
+  <testcase
+    name="build/header_guard [5] (/home/coskun/projects/delivery_robot_ws/src/rbf_clap_b7_driver/rbf_clap_b7_msgs/cmake-build-debug/rosidl_generator_cpp/rbf_clap_b7_msgs/msg/clap_data.hpp:11)"
+    classname="rbf_clap_b7_msgs.cpplint"
+  >
+      <failure message='#endif line should be "#endif  // RBF_CLAP_B7_MSGS__CMAKE_BUILD_DEBUG__ROSIDL_GENERATOR_CPP__RBF_CLAP_B7_MSGS__MSG__CLAP_DATA_HPP_"'/>
+  </testcase>
+  <testcase
+    name="build/header_guard [5] (/home/coskun/projects/delivery_robot_ws/src/rbf_clap_b7_driver/rbf_clap_b7_msgs/cmake-build-debug/rosidl_generator_cpp/rbf_clap_b7_msgs/msg/detail/clap_data__builder.hpp:5)"
+    classname="rbf_clap_b7_msgs.cpplint"
+  >
+      <failure message="#ifndef header guard has wrong style, please use: RBF_CLAP_B7_MSGS__CMAKE_BUILD_DEBUG__ROSIDL_GENERATOR_CPP__RBF_CLAP_B7_MSGS__MSG__DETAIL__CLAP_DATA__BUILDER_HPP_"/>
+  </testcase>
+  <testcase
+    name="build/header_guard [5] (/home/coskun/projects/delivery_robot_ws/src/rbf_clap_b7_driver/rbf_clap_b7_msgs/cmake-build-debug/rosidl_generator_cpp/rbf_clap_b7_msgs/msg/detail/clap_data__builder.hpp:743)"
+    classname="rbf_clap_b7_msgs.cpplint"
+  >
+      <failure message='#endif line should be "#endif  // RBF_CLAP_B7_MSGS__CMAKE_BUILD_DEBUG__ROSIDL_GENERATOR_CPP__RBF_CLAP_B7_MSGS__MSG__DETAIL__CLAP_DATA__BUILDER_HPP_"'/>
+  </testcase>
+  <testcase
+    name="whitespace/line_length [2] (/home/coskun/projects/delivery_robot_ws/src/rbf_clap_b7_driver/rbf_clap_b7_msgs/cmake-build-debug/rosidl_generator_cpp/rbf_clap_b7_msgs/msg/detail/clap_data__builder.hpp:29)"
+    classname="rbf_clap_b7_msgs.cpplint"
+  >
+      <failure message="Lines should be &lt;= 100 characters long"/>
+  </testcase>
+  <testcase
+    name="whitespace/line_length [2] (/home/coskun/projects/delivery_robot_ws/src/rbf_clap_b7_driver/rbf_clap_b7_msgs/cmake-build-debug/rosidl_generator_cpp/rbf_clap_b7_msgs/msg/detail/clap_data__builder.hpp:45)"
+    classname="rbf_clap_b7_msgs.cpplint"
+  >
+      <failure message="Lines should be &lt;= 100 characters long"/>
+  </testcase>
+  <testcase
+    name="whitespace/line_length [2] (/home/coskun/projects/delivery_robot_ws/src/rbf_clap_b7_driver/rbf_clap_b7_msgs/cmake-build-debug/rosidl_generator_cpp/rbf_clap_b7_msgs/msg/detail/clap_data__builder.hpp:61)"
+    classname="rbf_clap_b7_msgs.cpplint"
+  >
+      <failure message="Lines should be &lt;= 100 characters long"/>
+  </testcase>
+  <testcase
+    name="whitespace/line_length [2] (/home/coskun/projects/delivery_robot_ws/src/rbf_clap_b7_driver/rbf_clap_b7_msgs/cmake-build-debug/rosidl_generator_cpp/rbf_clap_b7_msgs/msg/detail/clap_data__builder.hpp:77)"
+    classname="rbf_clap_b7_msgs.cpplint"
+  >
+      <failure message="Lines should be &lt;= 100 characters long"/>
+  </testcase>
+  <testcase
+    name="whitespace/line_length [2] (/home/coskun/projects/delivery_robot_ws/src/rbf_clap_b7_driver/rbf_clap_b7_msgs/cmake-build-debug/rosidl_generator_cpp/rbf_clap_b7_msgs/msg/detail/clap_data__builder.hpp:93)"
+    classname="rbf_clap_b7_msgs.cpplint"
+  >
+      <failure message="Lines should be &lt;= 100 characters long"/>
+  </testcase>
+  <testcase
+    name="whitespace/line_length [2] (/home/coskun/projects/delivery_robot_ws/src/rbf_clap_b7_driver/rbf_clap_b7_msgs/cmake-build-debug/rosidl_generator_cpp/rbf_clap_b7_msgs/msg/detail/clap_data__builder.hpp:109)"
+    classname="rbf_clap_b7_msgs.cpplint"
+  >
+      <failure message="Lines should be &lt;= 100 characters long"/>
+  </testcase>
+  <testcase
+    name="whitespace/line_length [2] (/home/coskun/projects/delivery_robot_ws/src/rbf_clap_b7_driver/rbf_clap_b7_msgs/cmake-build-debug/rosidl_generator_cpp/rbf_clap_b7_msgs/msg/detail/clap_data__builder.hpp:125)"
+    classname="rbf_clap_b7_msgs.cpplint"
+  >
+      <failure message="Lines should be &lt;= 100 characters long"/>
+  </testcase>
+  <testcase
+    name="whitespace/line_length [2] (/home/coskun/projects/delivery_robot_ws/src/rbf_clap_b7_driver/rbf_clap_b7_msgs/cmake-build-debug/rosidl_generator_cpp/rbf_clap_b7_msgs/msg/detail/clap_data__builder.hpp:237)"
+    classname="rbf_clap_b7_msgs.cpplint"
+  >
+      <failure message="Lines should be &lt;= 100 characters long"/>
+  </testcase>
+  <testcase
+    name="whitespace/line_length [2] (/home/coskun/projects/delivery_robot_ws/src/rbf_clap_b7_driver/rbf_clap_b7_msgs/cmake-build-debug/rosidl_generator_cpp/rbf_clap_b7_msgs/msg/detail/clap_data__builder.hpp:253)"
+    classname="rbf_clap_b7_msgs.cpplint"
+  >
+      <failure message="Lines should be &lt;= 100 characters long"/>
+  </testcase>
+  <testcase
+    name="whitespace/line_length [2] (/home/coskun/projects/delivery_robot_ws/src/rbf_clap_b7_driver/rbf_clap_b7_msgs/cmake-build-debug/rosidl_generator_cpp/rbf_clap_b7_msgs/msg/detail/clap_data__builder.hpp:269)"
+    classname="rbf_clap_b7_msgs.cpplint"
+  >
+      <failure message="Lines should be &lt;= 100 characters long"/>
+  </testcase>
+  <testcase
+    name="whitespace/line_length [2] (/home/coskun/projects/delivery_robot_ws/src/rbf_clap_b7_driver/rbf_clap_b7_msgs/cmake-build-debug/rosidl_generator_cpp/rbf_clap_b7_msgs/msg/detail/clap_data__builder.hpp:285)"
+    classname="rbf_clap_b7_msgs.cpplint"
+  >
+      <failure message="Lines should be &lt;= 100 characters long"/>
+  </testcase>
+  <testcase
+    name="whitespace/line_length [2] (/home/coskun/projects/delivery_robot_ws/src/rbf_clap_b7_driver/rbf_clap_b7_msgs/cmake-build-debug/rosidl_generator_cpp/rbf_clap_b7_msgs/msg/detail/clap_data__builder.hpp:301)"
+    classname="rbf_clap_b7_msgs.cpplint"
+  >
+      <failure message="Lines should be &lt;= 100 characters long"/>
+  </testcase>
+  <testcase
+    name="whitespace/line_length [2] (/home/coskun/projects/delivery_robot_ws/src/rbf_clap_b7_driver/rbf_clap_b7_msgs/cmake-build-debug/rosidl_generator_cpp/rbf_clap_b7_msgs/msg/detail/clap_data__builder.hpp:317)"
+    classname="rbf_clap_b7_msgs.cpplint"
+  >
+      <failure message="Lines should be &lt;= 100 characters long"/>
+  </testcase>
+  <testcase
+    name="whitespace/line_length [2] (/home/coskun/projects/delivery_robot_ws/src/rbf_clap_b7_driver/rbf_clap_b7_msgs/cmake-build-debug/rosidl_generator_cpp/rbf_clap_b7_msgs/msg/detail/clap_data__builder.hpp:365)"
+    classname="rbf_clap_b7_msgs.cpplint"
+  >
+      <failure message="Lines should be &lt;= 100 characters long"/>
+  </testcase>
+  <testcase
+    name="whitespace/line_length [2] (/home/coskun/projects/delivery_robot_ws/src/rbf_clap_b7_driver/rbf_clap_b7_msgs/cmake-build-debug/rosidl_generator_cpp/rbf_clap_b7_msgs/msg/detail/clap_data__builder.hpp:381)"
+    classname="rbf_clap_b7_msgs.cpplint"
+  >
+      <failure message="Lines should be &lt;= 100 characters long"/>
+  </testcase>
+  <testcase
+    name="whitespace/line_length [2] (/home/coskun/projects/delivery_robot_ws/src/rbf_clap_b7_driver/rbf_clap_b7_msgs/cmake-build-debug/rosidl_generator_cpp/rbf_clap_b7_msgs/msg/detail/clap_data__builder.hpp:397)"
+    classname="rbf_clap_b7_msgs.cpplint"
+  >
+      <failure message="Lines should be &lt;= 100 characters long"/>
+  </testcase>
+  <testcase
+    name="whitespace/line_length [2] (/home/coskun/projects/delivery_robot_ws/src/rbf_clap_b7_driver/rbf_clap_b7_msgs/cmake-build-debug/rosidl_generator_cpp/rbf_clap_b7_msgs/msg/detail/clap_data__builder.hpp:413)"
+    classname="rbf_clap_b7_msgs.cpplint"
+  >
+      <failure message="Lines should be &lt;= 100 characters long"/>
+  </testcase>
+  <testcase
+    name="whitespace/line_length [2] (/home/coskun/projects/delivery_robot_ws/src/rbf_clap_b7_driver/rbf_clap_b7_msgs/cmake-build-debug/rosidl_generator_cpp/rbf_clap_b7_msgs/msg/detail/clap_data__builder.hpp:429)"
+    classname="rbf_clap_b7_msgs.cpplint"
+  >
+      <failure message="Lines should be &lt;= 100 characters long"/>
+  </testcase>
+  <testcase
+    name="whitespace/line_length [2] (/home/coskun/projects/delivery_robot_ws/src/rbf_clap_b7_driver/rbf_clap_b7_msgs/cmake-build-debug/rosidl_generator_cpp/rbf_clap_b7_msgs/msg/detail/clap_data__builder.hpp:445)"
+    classname="rbf_clap_b7_msgs.cpplint"
+  >
+      <failure message="Lines should be &lt;= 100 characters long"/>
+  </testcase>
+  <testcase
+    name="whitespace/line_length [2] (/home/coskun/projects/delivery_robot_ws/src/rbf_clap_b7_driver/rbf_clap_b7_msgs/cmake-build-debug/rosidl_generator_cpp/rbf_clap_b7_msgs/msg/detail/clap_data__builder.hpp:461)"
+    classname="rbf_clap_b7_msgs.cpplint"
+  >
+      <failure message="Lines should be &lt;= 100 characters long"/>
+  </testcase>
+  <testcase
+    name="whitespace/line_length [2] (/home/coskun/projects/delivery_robot_ws/src/rbf_clap_b7_driver/rbf_clap_b7_msgs/cmake-build-debug/rosidl_generator_cpp/rbf_clap_b7_msgs/msg/detail/clap_data__builder.hpp:477)"
+    classname="rbf_clap_b7_msgs.cpplint"
+  >
+      <failure message="Lines should be &lt;= 100 characters long"/>
+  </testcase>
+  <testcase
+    name="whitespace/line_length [2] (/home/coskun/projects/delivery_robot_ws/src/rbf_clap_b7_driver/rbf_clap_b7_msgs/cmake-build-debug/rosidl_generator_cpp/rbf_clap_b7_msgs/msg/detail/clap_data__builder.hpp:493)"
+    classname="rbf_clap_b7_msgs.cpplint"
+  >
+      <failure message="Lines should be &lt;= 100 characters long"/>
+  </testcase>
+  <testcase
+    name="whitespace/line_length [2] (/home/coskun/projects/delivery_robot_ws/src/rbf_clap_b7_driver/rbf_clap_b7_msgs/cmake-build-debug/rosidl_generator_cpp/rbf_clap_b7_msgs/msg/detail/clap_data__builder.hpp:509)"
+    classname="rbf_clap_b7_msgs.cpplint"
+  >
+      <failure message="Lines should be &lt;= 100 characters long"/>
+  </testcase>
+  <testcase
+    name="whitespace/line_length [2] (/home/coskun/projects/delivery_robot_ws/src/rbf_clap_b7_driver/rbf_clap_b7_msgs/cmake-build-debug/rosidl_generator_cpp/rbf_clap_b7_msgs/msg/detail/clap_data__builder.hpp:525)"
+    classname="rbf_clap_b7_msgs.cpplint"
+  >
+      <failure message="Lines should be &lt;= 100 characters long"/>
+  </testcase>
+  <testcase
+    name="whitespace/line_length [2] (/home/coskun/projects/delivery_robot_ws/src/rbf_clap_b7_driver/rbf_clap_b7_msgs/cmake-build-debug/rosidl_generator_cpp/rbf_clap_b7_msgs/msg/detail/clap_data__builder.hpp:605)"
+    classname="rbf_clap_b7_msgs.cpplint"
+  >
+      <failure message="Lines should be &lt;= 100 characters long"/>
+  </testcase>
+  <testcase
+    name="whitespace/line_length [2] (/home/coskun/projects/delivery_robot_ws/src/rbf_clap_b7_driver/rbf_clap_b7_msgs/cmake-build-debug/rosidl_generator_cpp/rbf_clap_b7_msgs/msg/detail/clap_data__builder.hpp:621)"
+    classname="rbf_clap_b7_msgs.cpplint"
+  >
+      <failure message="Lines should be &lt;= 100 characters long"/>
+  </testcase>
+  <testcase
+    name="build/header_guard [5] (/home/coskun/projects/delivery_robot_ws/src/rbf_clap_b7_driver/rbf_clap_b7_msgs/cmake-build-debug/rosidl_generator_cpp/rbf_clap_b7_msgs/msg/detail/clap_data__struct.hpp:5)"
+    classname="rbf_clap_b7_msgs.cpplint"
+  >
+      <failure message="#ifndef header guard has wrong style, please use: RBF_CLAP_B7_MSGS__CMAKE_BUILD_DEBUG__ROSIDL_GENERATOR_CPP__RBF_CLAP_B7_MSGS__MSG__DETAIL__CLAP_DATA__STRUCT_HPP_"/>
+  </testcase>
+  <testcase
+    name="build/header_guard [5] (/home/coskun/projects/delivery_robot_ws/src/rbf_clap_b7_driver/rbf_clap_b7_msgs/cmake-build-debug/rosidl_generator_cpp/rbf_clap_b7_msgs/msg/detail/clap_data__struct.hpp:732)"
+    classname="rbf_clap_b7_msgs.cpplint"
+  >
+      <failure message='#endif line should be "#endif  // RBF_CLAP_B7_MSGS__CMAKE_BUILD_DEBUG__ROSIDL_GENERATOR_CPP__RBF_CLAP_B7_MSGS__MSG__DETAIL__CLAP_DATA__STRUCT_HPP_"'/>
+  </testcase>
+  <testcase
+    name="whitespace/line_length [2] (/home/coskun/projects/delivery_robot_ws/src/rbf_clap_b7_driver/rbf_clap_b7_msgs/cmake-build-debug/rosidl_generator_cpp/rbf_clap_b7_msgs/msg/detail/clap_data__struct.hpp:35)"
+    classname="rbf_clap_b7_msgs.cpplint"
+  >
+      <failure message="Lines should be &lt;= 100 characters long"/>
+  </testcase>
+  <testcase
+    name="whitespace/line_length [2] (/home/coskun/projects/delivery_robot_ws/src/rbf_clap_b7_driver/rbf_clap_b7_msgs/cmake-build-debug/rosidl_generator_cpp/rbf_clap_b7_msgs/msg/detail/clap_data__struct.hpp:87)"
+    classname="rbf_clap_b7_msgs.cpplint"
+  >
+      <failure message="Lines should be &lt;= 100 characters long"/>
+  </testcase>
+  <testcase
+    name="build/header_guard [5] (/home/coskun/projects/delivery_robot_ws/src/rbf_clap_b7_driver/rbf_clap_b7_msgs/cmake-build-debug/rosidl_generator_cpp/rbf_clap_b7_msgs/msg/detail/clap_data__traits.hpp:5)"
+    classname="rbf_clap_b7_msgs.cpplint"
+  >
+      <failure message="#ifndef header guard has wrong style, please use: RBF_CLAP_B7_MSGS__CMAKE_BUILD_DEBUG__ROSIDL_GENERATOR_CPP__RBF_CLAP_B7_MSGS__MSG__DETAIL__CLAP_DATA__TRAITS_HPP_"/>
+  </testcase>
+  <testcase
+    name="build/header_guard [5] (/home/coskun/projects/delivery_robot_ws/src/rbf_clap_b7_driver/rbf_clap_b7_msgs/cmake-build-debug/rosidl_generator_cpp/rbf_clap_b7_msgs/msg/detail/clap_data__traits.hpp:496)"
+    classname="rbf_clap_b7_msgs.cpplint"
+  >
+      <failure message='#endif line should be "#endif  // RBF_CLAP_B7_MSGS__CMAKE_BUILD_DEBUG__ROSIDL_GENERATOR_CPP__RBF_CLAP_B7_MSGS__MSG__DETAIL__CLAP_DATA__TRAITS_HPP_"'/>
+  </testcase>
+  <testcase
+    name="whitespace/line_length [2] (/home/coskun/projects/delivery_robot_ws/src/rbf_clap_b7_driver/rbf_clap_b7_msgs/cmake-build-debug/rosidl_generator_py/rbf_clap_b7_msgs/_rbf_clap_b7_msgs_s.ep.rosidl_typesupport_c.c:38)"
+    classname="rbf_clap_b7_msgs.cpplint"
+  >
+      <failure message="Lines should be &lt;= 100 characters long"/>
+  </testcase>
+  <testcase
+    name="whitespace/line_length [2] (/home/coskun/projects/delivery_robot_ws/src/rbf_clap_b7_driver/rbf_clap_b7_msgs/cmake-build-debug/rosidl_generator_py/rbf_clap_b7_msgs/_rbf_clap_b7_msgs_s.ep.rosidl_typesupport_fastrtps_c.c:38)"
+    classname="rbf_clap_b7_msgs.cpplint"
+  >
+      <failure message="Lines should be &lt;= 100 characters long"/>
+  </testcase>
+  <testcase
+    name="whitespace/line_length [2] (/home/coskun/projects/delivery_robot_ws/src/rbf_clap_b7_driver/rbf_clap_b7_msgs/cmake-build-debug/rosidl_generator_py/rbf_clap_b7_msgs/_rbf_clap_b7_msgs_s.ep.rosidl_typesupport_introspection_c.c:38)"
+    classname="rbf_clap_b7_msgs.cpplint"
+  >
+      <failure message="Lines should be &lt;= 100 characters long"/>
+  </testcase>
+  <testcase
+    name="whitespace/line_length [2] (/home/coskun/projects/delivery_robot_ws/src/rbf_clap_b7_driver/rbf_clap_b7_msgs/cmake-build-debug/rosidl_generator_py/rbf_clap_b7_msgs/msg/_clap_data_s.c:470)"
+    classname="rbf_clap_b7_msgs.cpplint"
+  >
+      <failure message="Lines should be &lt;= 100 characters long"/>
+  </testcase>
+  <testcase
+    name="whitespace/line_length [2] (/home/coskun/projects/delivery_robot_ws/src/rbf_clap_b7_driver/rbf_clap_b7_msgs/cmake-build-debug/rosidl_typesupport_c/rbf_clap_b7_msgs/msg/clap_data__type_support.cpp:32)"
+    classname="rbf_clap_b7_msgs.cpplint"
+  >
+      <failure message="Lines should be &lt;= 100 characters long"/>
+  </testcase>
+  <testcase
+    name="whitespace/line_length [2] (/home/coskun/projects/delivery_robot_ws/src/rbf_clap_b7_driver/rbf_clap_b7_msgs/cmake-build-debug/rosidl_typesupport_c/rbf_clap_b7_msgs/msg/clap_data__type_support.cpp:46)"
+    classname="rbf_clap_b7_msgs.cpplint"
+  >
+      <failure message="Lines should be &lt;= 100 characters long"/>
+  </testcase>
+  <testcase
+    name="whitespace/line_length [2] (/home/coskun/projects/delivery_robot_ws/src/rbf_clap_b7_driver/rbf_clap_b7_msgs/cmake-build-debug/rosidl_typesupport_c/rbf_clap_b7_msgs/msg/clap_data__type_support.cpp:47)"
+    classname="rbf_clap_b7_msgs.cpplint"
+  >
+      <failure message="Lines should be &lt;= 100 characters long"/>
+  </testcase>
+  <testcase
+    name="whitespace/line_length [2] (/home/coskun/projects/delivery_robot_ws/src/rbf_clap_b7_driver/rbf_clap_b7_msgs/cmake-build-debug/rosidl_typesupport_c/rbf_clap_b7_msgs/msg/clap_data__type_support.cpp:90)"
+    classname="rbf_clap_b7_msgs.cpplint"
+  >
+      <failure message="Lines should be &lt;= 100 characters long"/>
+  </testcase>
+  <testcase
+    name="build/header_guard [5] (/home/coskun/projects/delivery_robot_ws/src/rbf_clap_b7_driver/rbf_clap_b7_msgs/cmake-build-debug/rosidl_typesupport_c/rbf_clap_b7_msgs/msg/rosidl_typesupport_c__visibility_control.h:5)"
+    classname="rbf_clap_b7_msgs.cpplint"
+  >
+      <failure message="#ifndef header guard has wrong style, please use: RBF_CLAP_B7_MSGS__CMAKE_BUILD_DEBUG__ROSIDL_TYPESUPPORT_C__RBF_CLAP_B7_MSGS__MSG__ROSIDL_TYPESUPPORT_C__VISIBILITY_CONTROL_H_"/>
+  </testcase>
+  <testcase
+    name="build/header_guard [5] (/home/coskun/projects/delivery_robot_ws/src/rbf_clap_b7_driver/rbf_clap_b7_msgs/cmake-build-debug/rosidl_typesupport_c/rbf_clap_b7_msgs/msg/rosidl_typesupport_c__visibility_control.h:43)"
+    classname="rbf_clap_b7_msgs.cpplint"
+  >
+      <failure message='#endif line should be "#endif  // RBF_CLAP_B7_MSGS__CMAKE_BUILD_DEBUG__ROSIDL_TYPESUPPORT_C__RBF_CLAP_B7_MSGS__MSG__ROSIDL_TYPESUPPORT_C__VISIBILITY_CONTROL_H_"'/>
+  </testcase>
+  <testcase
+    name="whitespace/line_length [2] (/home/coskun/projects/delivery_robot_ws/src/rbf_clap_b7_driver/rbf_clap_b7_msgs/cmake-build-debug/rosidl_typesupport_c/rbf_clap_b7_msgs/msg/rosidl_typesupport_c__visibility_control.h:25)"
+    classname="rbf_clap_b7_msgs.cpplint"
+  >
+      <failure message="Lines should be &lt;= 100 characters long"/>
+  </testcase>
+  <testcase
+    name="whitespace/line_length [2] (/home/coskun/projects/delivery_robot_ws/src/rbf_clap_b7_driver/rbf_clap_b7_msgs/cmake-build-debug/rosidl_typesupport_c/rbf_clap_b7_msgs/msg/rosidl_typesupport_c__visibility_control.h:27)"
+    classname="rbf_clap_b7_msgs.cpplint"
+  >
+      <failure message="Lines should be &lt;= 100 characters long"/>
+  </testcase>
+  <testcase
+    name="whitespace/line_length [2] (/home/coskun/projects/delivery_robot_ws/src/rbf_clap_b7_driver/rbf_clap_b7_msgs/cmake-build-debug/rosidl_typesupport_cpp/rbf_clap_b7_msgs/msg/clap_data__type_support.cpp:31)"
+    classname="rbf_clap_b7_msgs.cpplint"
+  >
+      <failure message="Lines should be &lt;= 100 characters long"/>
+  </testcase>
+  <testcase
+    name="whitespace/line_length [2] (/home/coskun/projects/delivery_robot_ws/src/rbf_clap_b7_driver/rbf_clap_b7_msgs/cmake-build-debug/rosidl_typesupport_cpp/rbf_clap_b7_msgs/msg/clap_data__type_support.cpp:32)"
+    classname="rbf_clap_b7_msgs.cpplint"
+  >
+      <failure message="Lines should be &lt;= 100 characters long"/>
+  </testcase>
+  <testcase
+    name="whitespace/line_length [2] (/home/coskun/projects/delivery_robot_ws/src/rbf_clap_b7_driver/rbf_clap_b7_msgs/cmake-build-debug/rosidl_typesupport_cpp/rbf_clap_b7_msgs/msg/clap_data__type_support.cpp:46)"
+    classname="rbf_clap_b7_msgs.cpplint"
+  >
+      <failure message="Lines should be &lt;= 100 characters long"/>
+  </testcase>
+  <testcase
+    name="whitespace/line_length [2] (/home/coskun/projects/delivery_robot_ws/src/rbf_clap_b7_driver/rbf_clap_b7_msgs/cmake-build-debug/rosidl_typesupport_cpp/rbf_clap_b7_msgs/msg/clap_data__type_support.cpp:47)"
+    classname="rbf_clap_b7_msgs.cpplint"
+  >
+      <failure message="Lines should be &lt;= 100 characters long"/>
+  </testcase>
+  <testcase
+    name="whitespace/line_length [2] (/home/coskun/projects/delivery_robot_ws/src/rbf_clap_b7_driver/rbf_clap_b7_msgs/cmake-build-debug/rosidl_typesupport_cpp/rbf_clap_b7_msgs/msg/clap_data__type_support.cpp:101)"
+    classname="rbf_clap_b7_msgs.cpplint"
+  >
+      <failure message="Lines should be &lt;= 100 characters long"/>
+  </testcase>
+  <testcase
+    name="build/header_guard [5] (/home/coskun/projects/delivery_robot_ws/src/rbf_clap_b7_driver/rbf_clap_b7_msgs/cmake-build-debug/rosidl_typesupport_fastrtps_c/rbf_clap_b7_msgs/msg/rosidl_typesupport_fastrtps_c__visibility_control.h:5)"
+    classname="rbf_clap_b7_msgs.cpplint"
+  >
+      <failure message="#ifndef header guard has wrong style, please use: RBF_CLAP_B7_MSGS__CMAKE_BUILD_DEBUG__ROSIDL_TYPESUPPORT_FASTRTPS_C__RBF_CLAP_B7_MSGS__MSG__ROSIDL_TYPESUPPORT_FASTRTPS_C__VISIBILITY_CONTROL_H_"/>
+  </testcase>
+  <testcase
+    name="build/header_guard [5] (/home/coskun/projects/delivery_robot_ws/src/rbf_clap_b7_driver/rbf_clap_b7_msgs/cmake-build-debug/rosidl_typesupport_fastrtps_c/rbf_clap_b7_msgs/msg/rosidl_typesupport_fastrtps_c__visibility_control.h:43)"
+    classname="rbf_clap_b7_msgs.cpplint"
+  >
+      <failure message='#endif line should be "#endif  // RBF_CLAP_B7_MSGS__CMAKE_BUILD_DEBUG__ROSIDL_TYPESUPPORT_FASTRTPS_C__RBF_CLAP_B7_MSGS__MSG__ROSIDL_TYPESUPPORT_FASTRTPS_C__VISIBILITY_CONTROL_H_"'/>
+  </testcase>
+  <testcase
+    name="whitespace/line_length [2] (/home/coskun/projects/delivery_robot_ws/src/rbf_clap_b7_driver/rbf_clap_b7_msgs/cmake-build-debug/rosidl_typesupport_fastrtps_c/rbf_clap_b7_msgs/msg/rosidl_typesupport_fastrtps_c__visibility_control.h:25)"
+    classname="rbf_clap_b7_msgs.cpplint"
+  >
+      <failure message="Lines should be &lt;= 100 characters long"/>
+  </testcase>
+  <testcase
+    name="whitespace/line_length [2] (/home/coskun/projects/delivery_robot_ws/src/rbf_clap_b7_driver/rbf_clap_b7_msgs/cmake-build-debug/rosidl_typesupport_fastrtps_c/rbf_clap_b7_msgs/msg/rosidl_typesupport_fastrtps_c__visibility_control.h:27)"
+    classname="rbf_clap_b7_msgs.cpplint"
+  >
+      <failure message="Lines should be &lt;= 100 characters long"/>
+  </testcase>
+  <testcase
+    name="whitespace/line_length [2] (/home/coskun/projects/delivery_robot_ws/src/rbf_clap_b7_driver/rbf_clap_b7_msgs/cmake-build-debug/rosidl_typesupport_fastrtps_c/rbf_clap_b7_msgs/msg/rosidl_typesupport_fastrtps_c__visibility_control.h:30)"
+    classname="rbf_clap_b7_msgs.cpplint"
+  >
+      <failure message="Lines should be &lt;= 100 characters long"/>
+  </testcase>
+  <testcase
+    name="whitespace/line_length [2] (/home/coskun/projects/delivery_robot_ws/src/rbf_clap_b7_driver/rbf_clap_b7_msgs/cmake-build-debug/rosidl_typesupport_fastrtps_c/rbf_clap_b7_msgs/msg/rosidl_typesupport_fastrtps_c__visibility_control.h:33)"
+    classname="rbf_clap_b7_msgs.cpplint"
+  >
+      <failure message="Lines should be &lt;= 100 characters long"/>
+  </testcase>
+  <testcase
+    name="build/header_guard [5] (/home/coskun/projects/delivery_robot_ws/src/rbf_clap_b7_driver/rbf_clap_b7_msgs/cmake-build-debug/rosidl_typesupport_fastrtps_c/rbf_clap_b7_msgs/msg/detail/clap_data__rosidl_typesupport_fastrtps_c.h:4)"
+    classname="rbf_clap_b7_msgs.cpplint"
+  >
+      <failure message="#ifndef header guard has wrong style, please use: RBF_CLAP_B7_MSGS__CMAKE_BUILD_DEBUG__ROSIDL_TYPESUPPORT_FASTRTPS_C__RBF_CLAP_B7_MSGS__MSG__DETAIL__CLAP_DATA__ROSIDL_TYPESUPPORT_FASTRTPS_C_H_"/>
+  </testcase>
+  <testcase
+    name="build/header_guard [5] (/home/coskun/projects/delivery_robot_ws/src/rbf_clap_b7_driver/rbf_clap_b7_msgs/cmake-build-debug/rosidl_typesupport_fastrtps_c/rbf_clap_b7_msgs/msg/detail/clap_data__rosidl_typesupport_fastrtps_c.h:36)"
+    classname="rbf_clap_b7_msgs.cpplint"
+  >
+      <failure message='#endif line should be "#endif  // RBF_CLAP_B7_MSGS__CMAKE_BUILD_DEBUG__ROSIDL_TYPESUPPORT_FASTRTPS_C__RBF_CLAP_B7_MSGS__MSG__DETAIL__CLAP_DATA__ROSIDL_TYPESUPPORT_FASTRTPS_C_H_"'/>
+  </testcase>
+  <testcase
+    name="whitespace/line_length [2] (/home/coskun/projects/delivery_robot_ws/src/rbf_clap_b7_driver/rbf_clap_b7_msgs/cmake-build-debug/rosidl_typesupport_fastrtps_c/rbf_clap_b7_msgs/msg/detail/clap_data__rosidl_typesupport_fastrtps_c.h:30)"
+    classname="rbf_clap_b7_msgs.cpplint"
+  >
+      <failure message="Lines should be &lt;= 100 characters long"/>
+  </testcase>
+  <testcase
+    name="whitespace/line_length [2] (/home/coskun/projects/delivery_robot_ws/src/rbf_clap_b7_driver/rbf_clap_b7_msgs/cmake-build-debug/rosidl_typesupport_fastrtps_c/rbf_clap_b7_msgs/msg/detail/clap_data__type_support_c.cpp:51)"
+    classname="rbf_clap_b7_msgs.cpplint"
+  >
+      <failure message="Lines should be &lt;= 100 characters long"/>
+  </testcase>
+  <testcase
+    name="whitespace/line_length [2] (/home/coskun/projects/delivery_robot_ws/src/rbf_clap_b7_driver/rbf_clap_b7_msgs/cmake-build-debug/rosidl_typesupport_fastrtps_c/rbf_clap_b7_msgs/msg/detail/clap_data__type_support_c.cpp:283)"
+    classname="rbf_clap_b7_msgs.cpplint"
+  >
+      <failure message="Lines should be &lt;= 100 characters long"/>
+  </testcase>
+  <testcase
+    name="whitespace/line_length [2] (/home/coskun/projects/delivery_robot_ws/src/rbf_clap_b7_driver/rbf_clap_b7_msgs/cmake-build-debug/rosidl_typesupport_fastrtps_c/rbf_clap_b7_msgs/msg/detail/clap_data__type_support_c.cpp:512)"
+    classname="rbf_clap_b7_msgs.cpplint"
+  >
+      <failure message="Lines should be &lt;= 100 characters long"/>
+  </testcase>
+  <testcase
+    name="whitespace/line_length [2] (/home/coskun/projects/delivery_robot_ws/src/rbf_clap_b7_driver/rbf_clap_b7_msgs/cmake-build-debug/rosidl_typesupport_fastrtps_c/rbf_clap_b7_msgs/msg/detail/clap_data__type_support_c.cpp:1134)"
+    classname="rbf_clap_b7_msgs.cpplint"
+  >
+      <failure message="Lines should be &lt;= 100 characters long"/>
+  </testcase>
+  <testcase
+    name="build/header_guard [5] (/home/coskun/projects/delivery_robot_ws/src/rbf_clap_b7_driver/rbf_clap_b7_msgs/cmake-build-debug/rosidl_typesupport_fastrtps_cpp/rbf_clap_b7_msgs/msg/rosidl_typesupport_fastrtps_cpp__visibility_control.h:5)"
+    classname="rbf_clap_b7_msgs.cpplint"
+  >
+      <failure message="#ifndef header guard has wrong style, please use: RBF_CLAP_B7_MSGS__CMAKE_BUILD_DEBUG__ROSIDL_TYPESUPPORT_FASTRTPS_CPP__RBF_CLAP_B7_MSGS__MSG__ROSIDL_TYPESUPPORT_FASTRTPS_CPP__VISIBILITY_CONTROL_H_"/>
+  </testcase>
+  <testcase
+    name="build/header_guard [5] (/home/coskun/projects/delivery_robot_ws/src/rbf_clap_b7_driver/rbf_clap_b7_msgs/cmake-build-debug/rosidl_typesupport_fastrtps_cpp/rbf_clap_b7_msgs/msg/rosidl_typesupport_fastrtps_cpp__visibility_control.h:43)"
+    classname="rbf_clap_b7_msgs.cpplint"
+  >
+      <failure message='#endif line should be "#endif  // RBF_CLAP_B7_MSGS__CMAKE_BUILD_DEBUG__ROSIDL_TYPESUPPORT_FASTRTPS_CPP__RBF_CLAP_B7_MSGS__MSG__ROSIDL_TYPESUPPORT_FASTRTPS_CPP__VISIBILITY_CONTROL_H_"'/>
+  </testcase>
+  <testcase
+    name="whitespace/line_length [2] (/home/coskun/projects/delivery_robot_ws/src/rbf_clap_b7_driver/rbf_clap_b7_msgs/cmake-build-debug/rosidl_typesupport_fastrtps_cpp/rbf_clap_b7_msgs/msg/rosidl_typesupport_fastrtps_cpp__visibility_control.h:25)"
+    classname="rbf_clap_b7_msgs.cpplint"
+  >
+      <failure message="Lines should be &lt;= 100 characters long"/>
+  </testcase>
+  <testcase
+    name="whitespace/line_length [2] (/home/coskun/projects/delivery_robot_ws/src/rbf_clap_b7_driver/rbf_clap_b7_msgs/cmake-build-debug/rosidl_typesupport_fastrtps_cpp/rbf_clap_b7_msgs/msg/rosidl_typesupport_fastrtps_cpp__visibility_control.h:27)"
+    classname="rbf_clap_b7_msgs.cpplint"
+  >
+      <failure message="Lines should be &lt;= 100 characters long"/>
+  </testcase>
+  <testcase
+    name="whitespace/line_length [2] (/home/coskun/projects/delivery_robot_ws/src/rbf_clap_b7_driver/rbf_clap_b7_msgs/cmake-build-debug/rosidl_typesupport_fastrtps_cpp/rbf_clap_b7_msgs/msg/rosidl_typesupport_fastrtps_cpp__visibility_control.h:30)"
+    classname="rbf_clap_b7_msgs.cpplint"
+  >
+      <failure message="Lines should be &lt;= 100 characters long"/>
+  </testcase>
+  <testcase
+    name="whitespace/line_length [2] (/home/coskun/projects/delivery_robot_ws/src/rbf_clap_b7_driver/rbf_clap_b7_msgs/cmake-build-debug/rosidl_typesupport_fastrtps_cpp/rbf_clap_b7_msgs/msg/rosidl_typesupport_fastrtps_cpp__visibility_control.h:33)"
+    classname="rbf_clap_b7_msgs.cpplint"
+  >
+      <failure message="Lines should be &lt;= 100 characters long"/>
+  </testcase>
+  <testcase
+    name="build/header_guard [5] (/home/coskun/projects/delivery_robot_ws/src/rbf_clap_b7_driver/rbf_clap_b7_msgs/cmake-build-debug/rosidl_typesupport_fastrtps_cpp/rbf_clap_b7_msgs/msg/detail/clap_data__rosidl_typesupport_fastrtps_cpp.hpp:5)"
+    classname="rbf_clap_b7_msgs.cpplint"
+  >
+      <failure message="#ifndef header guard has wrong style, please use: RBF_CLAP_B7_MSGS__CMAKE_BUILD_DEBUG__ROSIDL_TYPESUPPORT_FASTRTPS_CPP__RBF_CLAP_B7_MSGS__MSG__DETAIL__CLAP_DATA__ROSIDL_TYPESUPPORT_FASTRTPS_CPP_HPP_"/>
+  </testcase>
+  <testcase
+    name="build/header_guard [5] (/home/coskun/projects/delivery_robot_ws/src/rbf_clap_b7_driver/rbf_clap_b7_msgs/cmake-build-debug/rosidl_typesupport_fastrtps_cpp/rbf_clap_b7_msgs/msg/detail/clap_data__rosidl_typesupport_fastrtps_cpp.hpp:79)"
+    classname="rbf_clap_b7_msgs.cpplint"
+  >
+      <failure message='#endif line should be "#endif  // RBF_CLAP_B7_MSGS__CMAKE_BUILD_DEBUG__ROSIDL_TYPESUPPORT_FASTRTPS_CPP__RBF_CLAP_B7_MSGS__MSG__DETAIL__CLAP_DATA__ROSIDL_TYPESUPPORT_FASTRTPS_CPP_HPP_"'/>
+  </testcase>
+  <testcase
+    name="whitespace/line_length [2] (/home/coskun/projects/delivery_robot_ws/src/rbf_clap_b7_driver/rbf_clap_b7_msgs/cmake-build-debug/rosidl_typesupport_fastrtps_cpp/rbf_clap_b7_msgs/msg/detail/clap_data__rosidl_typesupport_fastrtps_cpp.hpp:1)"
+    classname="rbf_clap_b7_msgs.cpplint"
+  >
+      <failure message="Lines should be &lt;= 100 characters long"/>
+  </testcase>
+  <testcase
+    name="whitespace/line_length [2] (/home/coskun/projects/delivery_robot_ws/src/rbf_clap_b7_driver/rbf_clap_b7_msgs/cmake-build-debug/rosidl_typesupport_fastrtps_cpp/rbf_clap_b7_msgs/msg/detail/clap_data__rosidl_typesupport_fastrtps_cpp.hpp:73)"
+    classname="rbf_clap_b7_msgs.cpplint"
+  >
+      <failure message="Lines should be &lt;= 100 characters long"/>
+  </testcase>
+  <testcase
+    name="whitespace/line_length [2] (/home/coskun/projects/delivery_robot_ws/src/rbf_clap_b7_driver/rbf_clap_b7_msgs/cmake-build-debug/rosidl_typesupport_fastrtps_cpp/rbf_clap_b7_msgs/msg/detail/dds_fastrtps/clap_data__type_support.cpp:982)"
+    classname="rbf_clap_b7_msgs.cpplint"
+  >
+      <failure message="Lines should be &lt;= 100 characters long"/>
+  </testcase>
+  <testcase
+    name="build/header_guard [5] (/home/coskun/projects/delivery_robot_ws/src/rbf_clap_b7_driver/rbf_clap_b7_msgs/cmake-build-debug/rosidl_typesupport_introspection_c/rbf_clap_b7_msgs/msg/rosidl_typesupport_introspection_c__visibility_control.h:5)"
+    classname="rbf_clap_b7_msgs.cpplint"
+  >
+      <failure message="#ifndef header guard has wrong style, please use: RBF_CLAP_B7_MSGS__CMAKE_BUILD_DEBUG__ROSIDL_TYPESUPPORT_INTROSPECTION_C__RBF_CLAP_B7_MSGS__MSG__ROSIDL_TYPESUPPORT_INTROSPECTION_C__VISIBILITY_CONTROL_H_"/>
+  </testcase>
+  <testcase
+    name="build/header_guard [5] (/home/coskun/projects/delivery_robot_ws/src/rbf_clap_b7_driver/rbf_clap_b7_msgs/cmake-build-debug/rosidl_typesupport_introspection_c/rbf_clap_b7_msgs/msg/rosidl_typesupport_introspection_c__visibility_control.h:43)"
+    classname="rbf_clap_b7_msgs.cpplint"
+  >
+      <failure message='#endif line should be "#endif  // RBF_CLAP_B7_MSGS__CMAKE_BUILD_DEBUG__ROSIDL_TYPESUPPORT_INTROSPECTION_C__RBF_CLAP_B7_MSGS__MSG__ROSIDL_TYPESUPPORT_INTROSPECTION_C__VISIBILITY_CONTROL_H_"'/>
+  </testcase>
+  <testcase
+    name="whitespace/line_length [2] (/home/coskun/projects/delivery_robot_ws/src/rbf_clap_b7_driver/rbf_clap_b7_msgs/cmake-build-debug/rosidl_typesupport_introspection_c/rbf_clap_b7_msgs/msg/rosidl_typesupport_introspection_c__visibility_control.h:25)"
+    classname="rbf_clap_b7_msgs.cpplint"
+  >
+      <failure message="Lines should be &lt;= 100 characters long"/>
+  </testcase>
+  <testcase
+    name="whitespace/line_length [2] (/home/coskun/projects/delivery_robot_ws/src/rbf_clap_b7_driver/rbf_clap_b7_msgs/cmake-build-debug/rosidl_typesupport_introspection_c/rbf_clap_b7_msgs/msg/rosidl_typesupport_introspection_c__visibility_control.h:27)"
+    classname="rbf_clap_b7_msgs.cpplint"
+  >
+      <failure message="Lines should be &lt;= 100 characters long"/>
+  </testcase>
+  <testcase
+    name="whitespace/line_length [2] (/home/coskun/projects/delivery_robot_ws/src/rbf_clap_b7_driver/rbf_clap_b7_msgs/cmake-build-debug/rosidl_typesupport_introspection_c/rbf_clap_b7_msgs/msg/rosidl_typesupport_introspection_c__visibility_control.h:30)"
+    classname="rbf_clap_b7_msgs.cpplint"
+  >
+      <failure message="Lines should be &lt;= 100 characters long"/>
+  </testcase>
+  <testcase
+    name="whitespace/line_length [2] (/home/coskun/projects/delivery_robot_ws/src/rbf_clap_b7_driver/rbf_clap_b7_msgs/cmake-build-debug/rosidl_typesupport_introspection_c/rbf_clap_b7_msgs/msg/rosidl_typesupport_introspection_c__visibility_control.h:33)"
+    classname="rbf_clap_b7_msgs.cpplint"
+  >
+      <failure message="Lines should be &lt;= 100 characters long"/>
+  </testcase>
+  <testcase
+    name="build/header_guard [5] (/home/coskun/projects/delivery_robot_ws/src/rbf_clap_b7_driver/rbf_clap_b7_msgs/cmake-build-debug/rosidl_typesupport_introspection_c/rbf_clap_b7_msgs/msg/detail/clap_data__rosidl_typesupport_introspection_c.h:5)"
+    classname="rbf_clap_b7_msgs.cpplint"
+  >
+      <failure message="#ifndef header guard has wrong style, please use: RBF_CLAP_B7_MSGS__CMAKE_BUILD_DEBUG__ROSIDL_TYPESUPPORT_INTROSPECTION_C__RBF_CLAP_B7_MSGS__MSG__DETAIL__CLAP_DATA__ROSIDL_TYPESUPPORT_INTROSPECTION_C_H_"/>
+  </testcase>
+  <testcase
+    name="build/header_guard [5] (/home/coskun/projects/delivery_robot_ws/src/rbf_clap_b7_driver/rbf_clap_b7_msgs/cmake-build-debug/rosidl_typesupport_introspection_c/rbf_clap_b7_msgs/msg/detail/clap_data__rosidl_typesupport_introspection_c.h:26)"
+    classname="rbf_clap_b7_msgs.cpplint"
+  >
+      <failure message='#endif line should be "#endif  // RBF_CLAP_B7_MSGS__CMAKE_BUILD_DEBUG__ROSIDL_TYPESUPPORT_INTROSPECTION_C__RBF_CLAP_B7_MSGS__MSG__DETAIL__CLAP_DATA__ROSIDL_TYPESUPPORT_INTROSPECTION_C_H_"'/>
+  </testcase>
+  <testcase
+    name="whitespace/line_length [2] (/home/coskun/projects/delivery_robot_ws/src/rbf_clap_b7_driver/rbf_clap_b7_msgs/cmake-build-debug/rosidl_typesupport_introspection_c/rbf_clap_b7_msgs/msg/detail/clap_data__rosidl_typesupport_introspection_c.h:1)"
+    classname="rbf_clap_b7_msgs.cpplint"
+  >
+      <failure message="Lines should be &lt;= 100 characters long"/>
+  </testcase>
+  <testcase
+    name="whitespace/line_length [2] (/home/coskun/projects/delivery_robot_ws/src/rbf_clap_b7_driver/rbf_clap_b7_msgs/cmake-build-debug/rosidl_typesupport_introspection_c/rbf_clap_b7_msgs/msg/detail/clap_data__rosidl_typesupport_introspection_c.h:20)"
+    classname="rbf_clap_b7_msgs.cpplint"
+  >
+      <failure message="Lines should be &lt;= 100 characters long"/>
+  </testcase>
+  <testcase
+    name="whitespace/line_length [2] (/home/coskun/projects/delivery_robot_ws/src/rbf_clap_b7_driver/rbf_clap_b7_msgs/cmake-build-debug/rosidl_typesupport_introspection_c/rbf_clap_b7_msgs/msg/detail/clap_data__type_support.c:34)"
+    classname="rbf_clap_b7_msgs.cpplint"
+  >
+      <failure message="Lines should be &lt;= 100 characters long"/>
+  </testcase>
+  <testcase
+    name="whitespace/line_length [2] (/home/coskun/projects/delivery_robot_ws/src/rbf_clap_b7_driver/rbf_clap_b7_msgs/cmake-build-debug/rosidl_typesupport_introspection_c/rbf_clap_b7_msgs/msg/detail/clap_data__type_support.c:697)"
+    classname="rbf_clap_b7_msgs.cpplint"
+  >
+      <failure message="Lines should be &lt;= 100 characters long"/>
+  </testcase>
+  <testcase
+    name="whitespace/line_length [2] (/home/coskun/projects/delivery_robot_ws/src/rbf_clap_b7_driver/rbf_clap_b7_msgs/cmake-build-debug/rosidl_typesupport_introspection_c/rbf_clap_b7_msgs/msg/detail/clap_data__type_support.c:703)"
+    classname="rbf_clap_b7_msgs.cpplint"
+  >
+      <failure message="Lines should be &lt;= 100 characters long"/>
+  </testcase>
+  <testcase
+    name="whitespace/line_length [2] (/home/coskun/projects/delivery_robot_ws/src/rbf_clap_b7_driver/rbf_clap_b7_msgs/cmake-build-debug/rosidl_typesupport_introspection_c/rbf_clap_b7_msgs/msg/detail/clap_data__type_support.c:704)"
+    classname="rbf_clap_b7_msgs.cpplint"
+  >
+      <failure message="Lines should be &lt;= 100 characters long"/>
+  </testcase>
+  <testcase
+    name="whitespace/line_length [2] (/home/coskun/projects/delivery_robot_ws/src/rbf_clap_b7_driver/rbf_clap_b7_msgs/cmake-build-debug/rosidl_typesupport_introspection_c/rbf_clap_b7_msgs/msg/detail/clap_data__type_support.c:709)"
+    classname="rbf_clap_b7_msgs.cpplint"
+  >
+      <failure message="Lines should be &lt;= 100 characters long"/>
+  </testcase>
+  <testcase
+    name="whitespace/line_length [2] (/home/coskun/projects/delivery_robot_ws/src/rbf_clap_b7_driver/rbf_clap_b7_msgs/cmake-build-debug/rosidl_typesupport_introspection_c/rbf_clap_b7_msgs/msg/detail/clap_data__type_support.c:717)"
+    classname="rbf_clap_b7_msgs.cpplint"
+  >
+      <failure message="Lines should be &lt;= 100 characters long"/>
+  </testcase>
+  <testcase
+    name="whitespace/line_length [2] (/home/coskun/projects/delivery_robot_ws/src/rbf_clap_b7_driver/rbf_clap_b7_msgs/cmake-build-debug/rosidl_typesupport_introspection_c/rbf_clap_b7_msgs/msg/detail/clap_data__type_support.c:718)"
+    classname="rbf_clap_b7_msgs.cpplint"
+  >
+      <failure message="Lines should be &lt;= 100 characters long"/>
+  </testcase>
+  <testcase
+    name="whitespace/line_length [2] (/home/coskun/projects/delivery_robot_ws/src/rbf_clap_b7_driver/rbf_clap_b7_msgs/cmake-build-debug/rosidl_typesupport_introspection_c/rbf_clap_b7_msgs/msg/detail/clap_data__type_support.c:719)"
+    classname="rbf_clap_b7_msgs.cpplint"
+  >
+      <failure message="Lines should be &lt;= 100 characters long"/>
+  </testcase>
+  <testcase
+    name="build/header_guard [5] (/home/coskun/projects/delivery_robot_ws/src/rbf_clap_b7_driver/rbf_clap_b7_msgs/cmake-build-debug/rosidl_typesupport_introspection_cpp/rbf_clap_b7_msgs/msg/detail/clap_data__rosidl_typesupport_introspection_cpp.hpp:5)"
+    classname="rbf_clap_b7_msgs.cpplint"
+  >
+      <failure message="#ifndef header guard has wrong style, please use: RBF_CLAP_B7_MSGS__CMAKE_BUILD_DEBUG__ROSIDL_TYPESUPPORT_INTROSPECTION_CPP__RBF_CLAP_B7_MSGS__MSG__DETAIL__CLAP_DATA__ROSIDL_TYPESUPPORT_INTROSPECTION_CPP_HPP_"/>
+  </testcase>
+  <testcase
+    name="build/header_guard [5] (/home/coskun/projects/delivery_robot_ws/src/rbf_clap_b7_driver/rbf_clap_b7_msgs/cmake-build-debug/rosidl_typesupport_introspection_cpp/rbf_clap_b7_msgs/msg/detail/clap_data__rosidl_typesupport_introspection_cpp.hpp:27)"
+    classname="rbf_clap_b7_msgs.cpplint"
+  >
+      <failure message='#endif line should be "#endif  // RBF_CLAP_B7_MSGS__CMAKE_BUILD_DEBUG__ROSIDL_TYPESUPPORT_INTROSPECTION_CPP__RBF_CLAP_B7_MSGS__MSG__DETAIL__CLAP_DATA__ROSIDL_TYPESUPPORT_INTROSPECTION_CPP_HPP_"'/>
+  </testcase>
+  <testcase
+    name="whitespace/line_length [2] (/home/coskun/projects/delivery_robot_ws/src/rbf_clap_b7_driver/rbf_clap_b7_msgs/cmake-build-debug/rosidl_typesupport_introspection_cpp/rbf_clap_b7_msgs/msg/detail/clap_data__rosidl_typesupport_introspection_cpp.hpp:1)"
+    classname="rbf_clap_b7_msgs.cpplint"
+  >
+      <failure message="Lines should be &lt;= 100 characters long"/>
+  </testcase>
+  <testcase
+    name="whitespace/line_length [2] (/home/coskun/projects/delivery_robot_ws/src/rbf_clap_b7_driver/rbf_clap_b7_msgs/cmake-build-debug/rosidl_typesupport_introspection_cpp/rbf_clap_b7_msgs/msg/detail/clap_data__rosidl_typesupport_introspection_cpp.hpp:21)"
+    classname="rbf_clap_b7_msgs.cpplint"
+  >
+      <failure message="Lines should be &lt;= 100 characters long"/>
+  </testcase>
+  <testcase
+    name="whitespace/line_length [2] (/home/coskun/projects/delivery_robot_ws/src/rbf_clap_b7_driver/rbf_clap_b7_msgs/cmake-build-debug/rosidl_typesupport_introspection_cpp/rbf_clap_b7_msgs/msg/detail/clap_data__type_support.cpp:40)"
+    classname="rbf_clap_b7_msgs.cpplint"
+  >
+      <failure message="Lines should be &lt;= 100 characters long"/>
+  </testcase>
+  <testcase
+    name="whitespace/line_length [2] (/home/coskun/projects/delivery_robot_ws/src/rbf_clap_b7_driver/rbf_clap_b7_msgs/cmake-build-debug/rosidl_typesupport_introspection_cpp/rbf_clap_b7_msgs/msg/detail/clap_data__type_support.cpp:734)"
+    classname="rbf_clap_b7_msgs.cpplint"
+  >
+      <failure message="Lines should be &lt;= 100 characters long"/>
+  </testcase>
+  <testcase
+    name="whitespace/line_length [2] (/home/coskun/projects/delivery_robot_ws/src/rbf_clap_b7_driver/rbf_clap_b7_msgs/cmake-build-debug/rosidl_typesupport_introspection_cpp/rbf_clap_b7_msgs/msg/detail/clap_data__type_support.cpp:746)"
+    classname="rbf_clap_b7_msgs.cpplint"
+  >
+      <failure message="Lines should be &lt;= 100 characters long"/>
+  </testcase>
+  <testcase
+    name="whitespace/line_length [2] (/home/coskun/projects/delivery_robot_ws/src/rbf_clap_b7_driver/rbf_clap_b7_msgs/cmake-build-debug/rosidl_typesupport_introspection_cpp/rbf_clap_b7_msgs/msg/detail/clap_data__type_support.cpp:747)"
+    classname="rbf_clap_b7_msgs.cpplint"
+  >
+      <failure message="Lines should be &lt;= 100 characters long"/>
+  </testcase>
+  <system-out>Checked files:
+* /home/coskun/projects/delivery_robot_ws/src/rbf_clap_b7_driver/rbf_clap_b7_msgs/cmake-build-debug/CMakeFiles/3.22.3/CompilerIdC/CMakeCCompilerId.c
+* /home/coskun/projects/delivery_robot_ws/src/rbf_clap_b7_driver/rbf_clap_b7_msgs/cmake-build-debug/CMakeFiles/3.22.3/CompilerIdCXX/CMakeCXXCompilerId.cpp
+* /home/coskun/projects/delivery_robot_ws/src/rbf_clap_b7_driver/rbf_clap_b7_msgs/cmake-build-debug/rosidl_generator_c/rbf_clap_b7_msgs/msg/clap_data.h
+* /home/coskun/projects/delivery_robot_ws/src/rbf_clap_b7_driver/rbf_clap_b7_msgs/cmake-build-debug/rosidl_generator_c/rbf_clap_b7_msgs/msg/rosidl_generator_c__visibility_control.h
+* /home/coskun/projects/delivery_robot_ws/src/rbf_clap_b7_driver/rbf_clap_b7_msgs/cmake-build-debug/rosidl_generator_c/rbf_clap_b7_msgs/msg/detail/clap_data__functions.c
+* /home/coskun/projects/delivery_robot_ws/src/rbf_clap_b7_driver/rbf_clap_b7_msgs/cmake-build-debug/rosidl_generator_c/rbf_clap_b7_msgs/msg/detail/clap_data__functions.h
+* /home/coskun/projects/delivery_robot_ws/src/rbf_clap_b7_driver/rbf_clap_b7_msgs/cmake-build-debug/rosidl_generator_c/rbf_clap_b7_msgs/msg/detail/clap_data__struct.h
+* /home/coskun/projects/delivery_robot_ws/src/rbf_clap_b7_driver/rbf_clap_b7_msgs/cmake-build-debug/rosidl_generator_c/rbf_clap_b7_msgs/msg/detail/clap_data__type_support.h
+* /home/coskun/projects/delivery_robot_ws/src/rbf_clap_b7_driver/rbf_clap_b7_msgs/cmake-build-debug/rosidl_generator_cpp/rbf_clap_b7_msgs/msg/clap_data.hpp
+* /home/coskun/projects/delivery_robot_ws/src/rbf_clap_b7_driver/rbf_clap_b7_msgs/cmake-build-debug/rosidl_generator_cpp/rbf_clap_b7_msgs/msg/detail/clap_data__builder.hpp
+* /home/coskun/projects/delivery_robot_ws/src/rbf_clap_b7_driver/rbf_clap_b7_msgs/cmake-build-debug/rosidl_generator_cpp/rbf_clap_b7_msgs/msg/detail/clap_data__struct.hpp
+* /home/coskun/projects/delivery_robot_ws/src/rbf_clap_b7_driver/rbf_clap_b7_msgs/cmake-build-debug/rosidl_generator_cpp/rbf_clap_b7_msgs/msg/detail/clap_data__traits.hpp
+* /home/coskun/projects/delivery_robot_ws/src/rbf_clap_b7_driver/rbf_clap_b7_msgs/cmake-build-debug/rosidl_generator_py/rbf_clap_b7_msgs/_rbf_clap_b7_msgs_s.ep.rosidl_typesupport_c.c
+* /home/coskun/projects/delivery_robot_ws/src/rbf_clap_b7_driver/rbf_clap_b7_msgs/cmake-build-debug/rosidl_generator_py/rbf_clap_b7_msgs/_rbf_clap_b7_msgs_s.ep.rosidl_typesupport_fastrtps_c.c
+* /home/coskun/projects/delivery_robot_ws/src/rbf_clap_b7_driver/rbf_clap_b7_msgs/cmake-build-debug/rosidl_generator_py/rbf_clap_b7_msgs/_rbf_clap_b7_msgs_s.ep.rosidl_typesupport_introspection_c.c
+* /home/coskun/projects/delivery_robot_ws/src/rbf_clap_b7_driver/rbf_clap_b7_msgs/cmake-build-debug/rosidl_generator_py/rbf_clap_b7_msgs/msg/_clap_data_s.c
+* /home/coskun/projects/delivery_robot_ws/src/rbf_clap_b7_driver/rbf_clap_b7_msgs/cmake-build-debug/rosidl_typesupport_c/rbf_clap_b7_msgs/msg/clap_data__type_support.cpp
+* /home/coskun/projects/delivery_robot_ws/src/rbf_clap_b7_driver/rbf_clap_b7_msgs/cmake-build-debug/rosidl_typesupport_c/rbf_clap_b7_msgs/msg/rosidl_typesupport_c__visibility_control.h
+* /home/coskun/projects/delivery_robot_ws/src/rbf_clap_b7_driver/rbf_clap_b7_msgs/cmake-build-debug/rosidl_typesupport_cpp/rbf_clap_b7_msgs/msg/clap_data__type_support.cpp
+* /home/coskun/projects/delivery_robot_ws/src/rbf_clap_b7_driver/rbf_clap_b7_msgs/cmake-build-debug/rosidl_typesupport_fastrtps_c/rbf_clap_b7_msgs/msg/rosidl_typesupport_fastrtps_c__visibility_control.h
+* /home/coskun/projects/delivery_robot_ws/src/rbf_clap_b7_driver/rbf_clap_b7_msgs/cmake-build-debug/rosidl_typesupport_fastrtps_c/rbf_clap_b7_msgs/msg/detail/clap_data__rosidl_typesupport_fastrtps_c.h
+* /home/coskun/projects/delivery_robot_ws/src/rbf_clap_b7_driver/rbf_clap_b7_msgs/cmake-build-debug/rosidl_typesupport_fastrtps_c/rbf_clap_b7_msgs/msg/detail/clap_data__type_support_c.cpp
+* /home/coskun/projects/delivery_robot_ws/src/rbf_clap_b7_driver/rbf_clap_b7_msgs/cmake-build-debug/rosidl_typesupport_fastrtps_cpp/rbf_clap_b7_msgs/msg/rosidl_typesupport_fastrtps_cpp__visibility_control.h
+* /home/coskun/projects/delivery_robot_ws/src/rbf_clap_b7_driver/rbf_clap_b7_msgs/cmake-build-debug/rosidl_typesupport_fastrtps_cpp/rbf_clap_b7_msgs/msg/detail/clap_data__rosidl_typesupport_fastrtps_cpp.hpp
+* /home/coskun/projects/delivery_robot_ws/src/rbf_clap_b7_driver/rbf_clap_b7_msgs/cmake-build-debug/rosidl_typesupport_fastrtps_cpp/rbf_clap_b7_msgs/msg/detail/dds_fastrtps/clap_data__type_support.cpp
+* /home/coskun/projects/delivery_robot_ws/src/rbf_clap_b7_driver/rbf_clap_b7_msgs/cmake-build-debug/rosidl_typesupport_introspection_c/rbf_clap_b7_msgs/msg/rosidl_typesupport_introspection_c__visibility_control.h
+* /home/coskun/projects/delivery_robot_ws/src/rbf_clap_b7_driver/rbf_clap_b7_msgs/cmake-build-debug/rosidl_typesupport_introspection_c/rbf_clap_b7_msgs/msg/detail/clap_data__rosidl_typesupport_introspection_c.h
+* /home/coskun/projects/delivery_robot_ws/src/rbf_clap_b7_driver/rbf_clap_b7_msgs/cmake-build-debug/rosidl_typesupport_introspection_c/rbf_clap_b7_msgs/msg/detail/clap_data__type_support.c
+* /home/coskun/projects/delivery_robot_ws/src/rbf_clap_b7_driver/rbf_clap_b7_msgs/cmake-build-debug/rosidl_typesupport_introspection_cpp/rbf_clap_b7_msgs/msg/detail/clap_data__rosidl_typesupport_introspection_cpp.hpp
+* /home/coskun/projects/delivery_robot_ws/src/rbf_clap_b7_driver/rbf_clap_b7_msgs/cmake-build-debug/rosidl_typesupport_introspection_cpp/rbf_clap_b7_msgs/msg/detail/clap_data__type_support.cpp</system-out>
+</testsuite>

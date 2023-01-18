@@ -1,0 +1,100 @@
+// generated from rosidl_adapter/resource/msg.idl.em
+// with input from rbf_clap_b7_msgs/msg/ClapData.msg
+// generated code does not contain a copyright notice
+
+
+module rbf_clap_b7_msgs {
+  module msg {
+    struct ClapData {
+      uint32 ins_status;
+
+      uint32 pos_type;
+
+      double latitude;
+
+      double longitude;
+
+      double height;
+
+      float undulation;
+
+      double north_velocity;
+
+      double east_velocity;
+
+      double up_velocity;
+
+      double roll;
+
+      double pitch;
+
+      double azimuth;
+
+      float std_dev_latitude;
+
+      float std_dev_longitude;
+
+      float std_dev_height;
+
+      float std_dev_north_velocity;
+
+      float std_dev_east_velocity;
+
+      float std_dev_up_velocity;
+
+      float std_dev_roll;
+
+      float std_dev_pitch;
+
+      float std_dev_azimuth;
+
+      uint32 extended_solution_stat;
+
+      uint16 time_since_update;
+
+      uint8 imu_error;
+
+      uint8 imu_type;
+
+      uint32 imu_status;
+
+      int32 z_accel_output;
+
+      int32 y_accel_output;
+
+      int32 x_accel_output;
+
+      int32 z_gyro_output;
+
+      int32 y_gyro_output;
+
+      int32 x_gyro_output;
+
+      uint8 gps_sat_num;
+
+      uint8 bd_sat_num;
+
+      uint8 glo_sat_num;
+
+      uint8 gal_sat_num;
+
+      float rtk_delay;
+
+      float gdop;
+
+      float remain_float_1;
+
+      float remain_float_2;
+
+      double remain_double;
+
+      uint8 remain_char_1;
+
+      uint8 remain_char_2;
+
+      uint8 remain_char_3;
+
+      uint8 remain_char_4;
+    };
+  };
+};

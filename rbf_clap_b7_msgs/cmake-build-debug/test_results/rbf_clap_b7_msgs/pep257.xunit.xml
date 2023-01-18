@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite
+  name="rbf_clap_b7_msgs.pep257"
+  tests="3"
+  errors="0"
+  failures="0"
+  time="0.094"
+>
+  <testcase
+    name="./cmake-build-debug/rosidl_generator_py/rbf_clap_b7_msgs/__init__.py"
+    classname="rbf_clap_b7_msgs.pep257"/>
+  <testcase
+    name="./cmake-build-debug/rosidl_generator_py/rbf_clap_b7_msgs/msg/__init__.py"
+    classname="rbf_clap_b7_msgs.pep257"/>
+  <testcase
+    name="./cmake-build-debug/rosidl_generator_py/rbf_clap_b7_msgs/msg/_clap_data.py"
+    classname="rbf_clap_b7_msgs.pep257"/>
+  <system-out>Checked files:
+* ./cmake-build-debug/rosidl_generator_py/rbf_clap_b7_msgs/__init__.py
+* ./cmake-build-debug/rosidl_generator_py/rbf_clap_b7_msgs/msg/__init__.py
+* ./cmake-build-debug/rosidl_generator_py/rbf_clap_b7_msgs/msg/_clap_data.py</system-out>
+</testsuite>

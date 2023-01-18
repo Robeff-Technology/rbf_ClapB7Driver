@@ -1,0 +1,1999 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite
+  name="rbf_clap_b7_msgs.lint_cmake"
+  tests="330"
+  errors="0"
+  failures="322"
+  time="0.039"
+>
+  <testcase
+    name="whitespace/mismatch (CMakeLists.txt:13)"
+    classname="rbf_clap_b7_msgs.lint_cmake"
+  >
+      <failure message="Mismatching spaces inside () after command"/>
+  </testcase>
+  <testcase
+    name="cmake-build-debug/CTestCustom.cmake"
+    classname="rbf_clap_b7_msgs.lint_cmake"/>
+  <testcase
+    name="whitespace/eol (cmake-build-debug/CTestTestfile.cmake:1)"
+    classname="rbf_clap_b7_msgs.lint_cmake"
+  >
+      <failure message="Line ends in whitespace"/>
+  </testcase>
+  <testcase
+    name="whitespace/eol (cmake-build-debug/CTestTestfile.cmake:4)"
+    classname="rbf_clap_b7_msgs.lint_cmake"
+  >
+      <failure message="Line ends in whitespace"/>
+  </testcase>
+  <testcase
+    name="whitespace/eol (cmake-build-debug/CTestTestfile.cmake:5)"
+    classname="rbf_clap_b7_msgs.lint_cmake"
+  >
+      <failure message="Line ends in whitespace"/>
+  </testcase>
+  <testcase
+    name="linelength (cmake-build-debug/CTestTestfile.cmake:7)"
+    classname="rbf_clap_b7_msgs.lint_cmake"
+  >
+      <failure message="Lines should be &lt;= 140 characters long"/>
+  </testcase>
+  <testcase
+    name="linelength (cmake-build-debug/CTestTestfile.cmake:8)"
+    classname="rbf_clap_b7_msgs.lint_cmake"
+  >
+      <failure message="Lines should be &lt;= 140 characters long"/>
+  </testcase>
+  <testcase
+    name="linelength (cmake-build-debug/CTestTestfile.cmake:9)"
+    classname="rbf_clap_b7_msgs.lint_cmake"
+  >
+      <failure message="Lines should be &lt;= 140 characters long"/>
+  </testcase>
+  <testcase
+    name="linelength (cmake-build-debug/CTestTestfile.cmake:10)"
+    classname="rbf_clap_b7_msgs.lint_cmake"
+  >
+      <failure message="Lines should be &lt;= 140 characters long"/>
+  </testcase>
+  <testcase
+    name="linelength (cmake-build-debug/CTestTestfile.cmake:11)"
+    classname="rbf_clap_b7_msgs.lint_cmake"
+  >
+      <failure message="Lines should be &lt;= 140 characters long"/>
+  </testcase>
+  <testcase
+    name="linelength (cmake-build-debug/CTestTestfile.cmake:12)"
+    classname="rbf_clap_b7_msgs.lint_cmake"
+  >
+      <failure message="Lines should be &lt;= 140 characters long"/>
+  </testcase>
+  <testcase
+    name="linelength (cmake-build-debug/CTestTestfile.cmake:13)"
+    classname="rbf_clap_b7_msgs.lint_cmake"
+  >
+      <failure message="Lines should be &lt;= 140 characters long"/>
+  </testcase>
+  <testcase
+    name="linelength (cmake-build-debug/CTestTestfile.cmake:14)"
+    classname="rbf_clap_b7_msgs.lint_cmake"
+  >
+      <failure message="Lines should be &lt;= 140 characters long"/>
+  </testcase>
+  <testcase
+    name="linelength (cmake-build-debug/CTestTestfile.cmake:15)"
+    classname="rbf_clap_b7_msgs.lint_cmake"
+  >
+      <failure message="Lines should be &lt;= 140 characters long"/>
+  </testcase>
+  <testcase
+    name="linelength (cmake-build-debug/CTestTestfile.cmake:16)"
+    classname="rbf_clap_b7_msgs.lint_cmake"
+  >
+      <failure message="Lines should be &lt;= 140 characters long"/>
+  </testcase>
+  <testcase
+    name="linelength (cmake-build-debug/CTestTestfile.cmake:17)"
+    classname="rbf_clap_b7_msgs.lint_cmake"
+  >
+      <failure message="Lines should be &lt;= 140 characters long"/>
+  </testcase>
+  <testcase
+    name="linelength (cmake-build-debug/CTestTestfile.cmake:18)"
+    classname="rbf_clap_b7_msgs.lint_cmake"
+  >
+      <failure message="Lines should be &lt;= 140 characters long"/>
+  </testcase>
+  <testcase
+    name="linelength (cmake-build-debug/CTestTestfile.cmake:19)"
+    classname="rbf_clap_b7_msgs.lint_cmake"
+  >
+      <failure message="Lines should be &lt;= 140 characters long"/>
+  </testcase>
+  <testcase
+    name="linelength (cmake-build-debug/CTestTestfile.cmake:20)"
+    classname="rbf_clap_b7_msgs.lint_cmake"
+  >
+      <failure message="Lines should be &lt;= 140 characters long"/>
+  </testcase>
+  <testcase
+    name="linelength (cmake-build-debug/CTestTestfile.cmake:21)"
+    classname="rbf_clap_b7_msgs.lint_cmake"
+  >
+      <failure message="Lines should be &lt;= 140 characters long"/>
+  </testcase>
+  <testcase
+    name="linelength (cmake-build-debug/CTestTestfile.cmake:22)"
+    classname="rbf_clap_b7_msgs.lint_cmake"
+  >
+      <failure message="Lines should be &lt;= 140 characters long"/>
+  </testcase>
+  <testcase
+    name="whitespace/indent (cmake-build-debug/cmake_install.cmake:13)"
+    classname="rbf_clap_b7_msgs.lint_cmake"
+  >
+      <failure message="Weird indentation; use 2 spaces"/>
+  </testcase>
+  <testcase
+    name="linelength (cmake-build-debug/cmake_install.cmake:46)"
+    classname="rbf_clap_b7_msgs.lint_cmake"
+  >
+      <failure message="Lines should be &lt;= 140 characters long"/>
+  </testcase>
+  <testcase
+    name="linelength (cmake-build-debug/cmake_install.cmake:50)"
+    classname="rbf_clap_b7_msgs.lint_cmake"
+  >
+      <failure message="Lines should be &lt;= 140 characters long"/>
+  </testcase>
+  <testcase
+    name="linelength (cmake-build-debug/cmake_install.cmake:54)"
+    classname="rbf_clap_b7_msgs.lint_cmake"
+  >
+      <failure message="Lines should be &lt;= 140 characters long"/>
+  </testcase>
+  <testcase
+    name="linelength (cmake-build-debug/cmake_install.cmake:58)"
+    classname="rbf_clap_b7_msgs.lint_cmake"
+  >
+      <failure message="Lines should be &lt;= 140 characters long"/>
+  </testcase>
+  <testcase
+    name="whitespace/indent (cmake-build-debug/cmake_install.cmake:63)"
+    classname="rbf_clap_b7_msgs.lint_cmake"
+  >
+      <failure message="Weird indentation; use 2 spaces"/>
+  </testcase>
+  <testcase
+    name="whitespace/indent (cmake-build-debug/cmake_install.cmake:65)"
+    classname="rbf_clap_b7_msgs.lint_cmake"
+  >
+      <failure message="Weird indentation; use 2 spaces"/>
+  </testcase>
+  <testcase
+    name="whitespace/indent (cmake-build-debug/cmake_install.cmake:66)"
+    classname="rbf_clap_b7_msgs.lint_cmake"
+  >
+      <failure message="Weird indentation; use 2 spaces"/>
+  </testcase>
+  <testcase
+    name="linelength (cmake-build-debug/cmake_install.cmake:68)"
+    classname="rbf_clap_b7_msgs.lint_cmake"
+  >
+      <failure message="Lines should be &lt;= 140 characters long"/>
+  </testcase>
+  <testcase
+    name="whitespace/indent (cmake-build-debug/cmake_install.cmake:70)"
+    classname="rbf_clap_b7_msgs.lint_cmake"
+  >
+      <failure message="Weird indentation; use 2 spaces"/>
+  </testcase>
+  <testcase
+    name="whitespace/indent (cmake-build-debug/cmake_install.cmake:72)"
+    classname="rbf_clap_b7_msgs.lint_cmake"
+  >
+      <failure message="Weird indentation; use 2 spaces"/>
+  </testcase>
+  <testcase
+    name="whitespace/indent (cmake-build-debug/cmake_install.cmake:73)"
+    classname="rbf_clap_b7_msgs.lint_cmake"
+  >
+      <failure message="Weird indentation; use 2 spaces"/>
+  </testcase>
+  <testcase
+    name="whitespace/indent (cmake-build-debug/cmake_install.cmake:74)"
+    classname="rbf_clap_b7_msgs.lint_cmake"
+  >
+      <failure message="Weird indentation; use 2 spaces"/>
+  </testcase>
+  <testcase
+    name="linelength (cmake-build-debug/cmake_install.cmake:85)"
+    classname="rbf_clap_b7_msgs.lint_cmake"
+  >
+      <failure message="Lines should be &lt;= 140 characters long"/>
+  </testcase>
+  <testcase
+    name="whitespace/indent (cmake-build-debug/cmake_install.cmake:90)"
+    classname="rbf_clap_b7_msgs.lint_cmake"
+  >
+      <failure message="Weird indentation; use 2 spaces"/>
+  </testcase>
+  <testcase
+    name="whitespace/indent (cmake-build-debug/cmake_install.cmake:92)"
+    classname="rbf_clap_b7_msgs.lint_cmake"
+  >
+      <failure message="Weird indentation; use 2 spaces"/>
+  </testcase>
+  <testcase
+    name="whitespace/indent (cmake-build-debug/cmake_install.cmake:93)"
+    classname="rbf_clap_b7_msgs.lint_cmake"
+  >
+      <failure message="Weird indentation; use 2 spaces"/>
+  </testcase>
+  <testcase
+    name="linelength (cmake-build-debug/cmake_install.cmake:95)"
+    classname="rbf_clap_b7_msgs.lint_cmake"
+  >
+      <failure message="Lines should be &lt;= 140 characters long"/>
+  </testcase>
+  <testcase
+    name="whitespace/indent (cmake-build-debug/cmake_install.cmake:97)"
+    classname="rbf_clap_b7_msgs.lint_cmake"
+  >
+      <failure message="Weird indentation; use 2 spaces"/>
+  </testcase>
+  <testcase
+    name="whitespace/indent (cmake-build-debug/cmake_install.cmake:99)"
+    classname="rbf_clap_b7_msgs.lint_cmake"
+  >
+      <failure message="Weird indentation; use 2 spaces"/>
+  </testcase>
+  <testcase
+    name="linelength (cmake-build-debug/cmake_install.cmake:100)"
+    classname="rbf_clap_b7_msgs.lint_cmake"
+  >
+      <failure message="Lines should be &lt;= 140 characters long"/>
+  </testcase>
+  <testcase
+    name="whitespace/indent (cmake-build-debug/cmake_install.cmake:100)"
+    classname="rbf_clap_b7_msgs.lint_cmake"
+  >
+      <failure message="Weird indentation; use 2 spaces"/>
+  </testcase>
+  <testcase
+    name="whitespace/indent (cmake-build-debug/cmake_install.cmake:101)"
+    classname="rbf_clap_b7_msgs.lint_cmake"
+  >
+      <failure message="Weird indentation; use 2 spaces"/>
+  </testcase>
+  <testcase
+    name="linelength (cmake-build-debug/cmake_install.cmake:103)"
+    classname="rbf_clap_b7_msgs.lint_cmake"
+  >
+      <failure message="Lines should be &lt;= 140 characters long"/>
+  </testcase>
+  <testcase
+    name="linelength (cmake-build-debug/cmake_install.cmake:112)"
+    classname="rbf_clap_b7_msgs.lint_cmake"
+  >
+      <failure message="Lines should be &lt;= 140 characters long"/>
+  </testcase>
+  <testcase
+    name="whitespace/indent (cmake-build-debug/cmake_install.cmake:117)"
+    classname="rbf_clap_b7_msgs.lint_cmake"
+  >
+      <failure message="Weird indentation; use 2 spaces"/>
+  </testcase>
+  <testcase
+    name="whitespace/indent (cmake-build-debug/cmake_install.cmake:119)"
+    classname="rbf_clap_b7_msgs.lint_cmake"
+  >
+      <failure message="Weird indentation; use 2 spaces"/>
+  </testcase>
+  <testcase
+    name="whitespace/indent (cmake-build-debug/cmake_install.cmake:120)"
+    classname="rbf_clap_b7_msgs.lint_cmake"
+  >
+      <failure message="Weird indentation; use 2 spaces"/>
+  </testcase>
+  <testcase
+    name="linelength (cmake-build-debug/cmake_install.cmake:122)"
+    classname="rbf_clap_b7_msgs.lint_cmake"
+  >
+      <failure message="Lines should be &lt;= 140 characters long"/>
+  </testcase>
+  <testcase
+    name="whitespace/indent (cmake-build-debug/cmake_install.cmake:124)"
+    classname="rbf_clap_b7_msgs.lint_cmake"
+  >
+      <failure message="Weird indentation; use 2 spaces"/>
+  </testcase>
+  <testcase
+    name="whitespace/indent (cmake-build-debug/cmake_install.cmake:126)"
+    classname="rbf_clap_b7_msgs.lint_cmake"
+  >
+      <failure message="Weird indentation; use 2 spaces"/>
+  </testcase>
+  <testcase
+    name="whitespace/indent (cmake-build-debug/cmake_install.cmake:127)"
+    classname="rbf_clap_b7_msgs.lint_cmake"
+  >
+      <failure message="Weird indentation; use 2 spaces"/>
+  </testcase>
+  <testcase
+    name="whitespace/indent (cmake-build-debug/cmake_install.cmake:128)"
+    classname="rbf_clap_b7_msgs.lint_cmake"
+  >
+      <failure message="Weird indentation; use 2 spaces"/>
+  </testcase>
+  <testcase
+    name="linelength (cmake-build-debug/cmake_install.cmake:130)"
+    classname="rbf_clap_b7_msgs.lint_cmake"
+  >
+      <failure message="Lines should be &lt;= 140 characters long"/>
+  </testcase>
+  <testcase
+    name="linelength (cmake-build-debug/cmake_install.cmake:139)"
+    classname="rbf_clap_b7_msgs.lint_cmake"
+  >
+      <failure message="Lines should be &lt;= 140 characters long"/>
+  </testcase>
+  <testcase
+    name="whitespace/indent (cmake-build-debug/cmake_install.cmake:144)"
+    classname="rbf_clap_b7_msgs.lint_cmake"
+  >
+      <failure message="Weird indentation; use 2 spaces"/>
+  </testcase>
+  <testcase
+    name="whitespace/indent (cmake-build-debug/cmake_install.cmake:146)"
+    classname="rbf_clap_b7_msgs.lint_cmake"
+  >
+      <failure message="Weird indentation; use 2 spaces"/>
+  </testcase>
+  <testcase
+    name="whitespace/indent (cmake-build-debug/cmake_install.cmake:147)"
+    classname="rbf_clap_b7_msgs.lint_cmake"
+  >
+      <failure message="Weird indentation; use 2 spaces"/>
+  </testcase>
+  <testcase
+    name="linelength (cmake-build-debug/cmake_install.cmake:149)"
+    classname="rbf_clap_b7_msgs.lint_cmake"
+  >
+      <failure message="Lines should be &lt;= 140 characters long"/>
+  </testcase>
+  <testcase
+    name="whitespace/indent (cmake-build-debug/cmake_install.cmake:151)"
+    classname="rbf_clap_b7_msgs.lint_cmake"
+  >
+      <failure message="Weird indentation; use 2 spaces"/>
+  </testcase>
+  <testcase
+    name="whitespace/indent (cmake-build-debug/cmake_install.cmake:153)"
+    classname="rbf_clap_b7_msgs.lint_cmake"
+  >
+      <failure message="Weird indentation; use 2 spaces"/>
+  </testcase>
+  <testcase
+    name="linelength (cmake-build-debug/cmake_install.cmake:154)"
+    classname="rbf_clap_b7_msgs.lint_cmake"
+  >
+      <failure message="Lines should be &lt;= 140 characters long"/>
+  </testcase>
+  <testcase
+    name="whitespace/indent (cmake-build-debug/cmake_install.cmake:154)"
+    classname="rbf_clap_b7_msgs.lint_cmake"
+  >
+      <failure message="Weird indentation; use 2 spaces"/>
+  </testcase>
+  <testcase
+    name="whitespace/indent (cmake-build-debug/cmake_install.cmake:155)"
+    classname="rbf_clap_b7_msgs.lint_cmake"
+  >
+      <failure message="Weird indentation; use 2 spaces"/>
+  </testcase>
+  <testcase
+    name="linelength (cmake-build-debug/cmake_install.cmake:157)"
+    classname="rbf_clap_b7_msgs.lint_cmake"
+  >
+      <failure message="Lines should be &lt;= 140 characters long"/>
+  </testcase>
+  <testcase
+    name="whitespace/indent (cmake-build-debug/cmake_install.cmake:167)"
+    classname="rbf_clap_b7_msgs.lint_cmake"
+  >
+      <failure message="Weird indentation; use 2 spaces"/>
+  </testcase>
+  <testcase
+    name="whitespace/indent (cmake-build-debug/cmake_install.cmake:169)"
+    classname="rbf_clap_b7_msgs.lint_cmake"
+  >
+      <failure message="Weird indentation; use 2 spaces"/>
+  </testcase>
+  <testcase
+    name="whitespace/indent (cmake-build-debug/cmake_install.cmake:170)"
+    classname="rbf_clap_b7_msgs.lint_cmake"
+  >
+      <failure message="Weird indentation; use 2 spaces"/>
+  </testcase>
+  <testcase
+    name="linelength (cmake-build-debug/cmake_install.cmake:172)"
+    classname="rbf_clap_b7_msgs.lint_cmake"
+  >
+      <failure message="Lines should be &lt;= 140 characters long"/>
+  </testcase>
+  <testcase
+    name="whitespace/indent (cmake-build-debug/cmake_install.cmake:174)"
+    classname="rbf_clap_b7_msgs.lint_cmake"
+  >
+      <failure message="Weird indentation; use 2 spaces"/>
+  </testcase>
+  <testcase
+    name="whitespace/indent (cmake-build-debug/cmake_install.cmake:176)"
+    classname="rbf_clap_b7_msgs.lint_cmake"
+  >
+      <failure message="Weird indentation; use 2 spaces"/>
+  </testcase>
+  <testcase
+    name="whitespace/indent (cmake-build-debug/cmake_install.cmake:177)"
+    classname="rbf_clap_b7_msgs.lint_cmake"
+  >
+      <failure message="Weird indentation; use 2 spaces"/>
+  </testcase>
+  <testcase
+    name="whitespace/indent (cmake-build-debug/cmake_install.cmake:178)"
+    classname="rbf_clap_b7_msgs.lint_cmake"
+  >
+      <failure message="Weird indentation; use 2 spaces"/>
+  </testcase>
+  <testcase
+    name="linelength (cmake-build-debug/cmake_install.cmake:189)"
+    classname="rbf_clap_b7_msgs.lint_cmake"
+  >
+      <failure message="Lines should be &lt;= 140 characters long"/>
+  </testcase>
+  <testcase
+    name="linelength (cmake-build-debug/cmake_install.cmake:193)"
+    classname="rbf_clap_b7_msgs.lint_cmake"
+  >
+      <failure message="Lines should be &lt;= 140 characters long"/>
+  </testcase>
+  <testcase
+    name="whitespace/indent (cmake-build-debug/cmake_install.cmake:198)"
+    classname="rbf_clap_b7_msgs.lint_cmake"
+  >
+      <failure message="Weird indentation; use 2 spaces"/>
+  </testcase>
+  <testcase
+    name="whitespace/indent (cmake-build-debug/cmake_install.cmake:200)"
+    classname="rbf_clap_b7_msgs.lint_cmake"
+  >
+      <failure message="Weird indentation; use 2 spaces"/>
+  </testcase>
+  <testcase
+    name="whitespace/indent (cmake-build-debug/cmake_install.cmake:201)"
+    classname="rbf_clap_b7_msgs.lint_cmake"
+  >
+      <failure message="Weird indentation; use 2 spaces"/>
+  </testcase>
+  <testcase
+    name="linelength (cmake-build-debug/cmake_install.cmake:203)"
+    classname="rbf_clap_b7_msgs.lint_cmake"
+  >
+      <failure message="Lines should be &lt;= 140 characters long"/>
+  </testcase>
+  <testcase
+    name="whitespace/indent (cmake-build-debug/cmake_install.cmake:205)"
+    classname="rbf_clap_b7_msgs.lint_cmake"
+  >
+      <failure message="Weird indentation; use 2 spaces"/>
+  </testcase>
+  <testcase
+    name="whitespace/indent (cmake-build-debug/cmake_install.cmake:207)"
+    classname="rbf_clap_b7_msgs.lint_cmake"
+  >
+      <failure message="Weird indentation; use 2 spaces"/>
+  </testcase>
+  <testcase
+    name="whitespace/indent (cmake-build-debug/cmake_install.cmake:208)"
+    classname="rbf_clap_b7_msgs.lint_cmake"
+  >
+      <failure message="Weird indentation; use 2 spaces"/>
+  </testcase>
+  <testcase
+    name="whitespace/indent (cmake-build-debug/cmake_install.cmake:209)"
+    classname="rbf_clap_b7_msgs.lint_cmake"
+  >
+      <failure message="Weird indentation; use 2 spaces"/>
+  </testcase>
+  <testcase
+    name="linelength (cmake-build-debug/cmake_install.cmake:211)"
+    classname="rbf_clap_b7_msgs.lint_cmake"
+  >
+      <failure message="Lines should be &lt;= 140 characters long"/>
+  </testcase>
+  <testcase
+    name="whitespace/indent (cmake-build-debug/cmake_install.cmake:221)"
+    classname="rbf_clap_b7_msgs.lint_cmake"
+  >
+      <failure message="Weird indentation; use 2 spaces"/>
+  </testcase>
+  <testcase
+    name="whitespace/indent (cmake-build-debug/cmake_install.cmake:223)"
+    classname="rbf_clap_b7_msgs.lint_cmake"
+  >
+      <failure message="Weird indentation; use 2 spaces"/>
+  </testcase>
+  <testcase
+    name="whitespace/indent (cmake-build-debug/cmake_install.cmake:224)"
+    classname="rbf_clap_b7_msgs.lint_cmake"
+  >
+      <failure message="Weird indentation; use 2 spaces"/>
+  </testcase>
+  <testcase
+    name="linelength (cmake-build-debug/cmake_install.cmake:226)"
+    classname="rbf_clap_b7_msgs.lint_cmake"
+  >
+      <failure message="Lines should be &lt;= 140 characters long"/>
+  </testcase>
+  <testcase
+    name="whitespace/indent (cmake-build-debug/cmake_install.cmake:228)"
+    classname="rbf_clap_b7_msgs.lint_cmake"
+  >
+      <failure message="Weird indentation; use 2 spaces"/>
+  </testcase>
+  <testcase
+    name="whitespace/indent (cmake-build-debug/cmake_install.cmake:230)"
+    classname="rbf_clap_b7_msgs.lint_cmake"
+  >
+      <failure message="Weird indentation; use 2 spaces"/>
+  </testcase>
+  <testcase
+    name="whitespace/indent (cmake-build-debug/cmake_install.cmake:231)"
+    classname="rbf_clap_b7_msgs.lint_cmake"
+  >
+      <failure message="Weird indentation; use 2 spaces"/>
+  </testcase>
+  <testcase
+    name="whitespace/indent (cmake-build-debug/cmake_install.cmake:232)"
+    classname="rbf_clap_b7_msgs.lint_cmake"
+  >
+      <failure message="Weird indentation; use 2 spaces"/>
+  </testcase>
+  <testcase
+    name="linelength (cmake-build-debug/cmake_install.cmake:243)"
+    classname="rbf_clap_b7_msgs.lint_cmake"
+  >
+      <failure message="Lines should be &lt;= 140 characters long"/>
+  </testcase>
+  <testcase
+    name="linelength (cmake-build-debug/cmake_install.cmake:247)"
+    classname="rbf_clap_b7_msgs.lint_cmake"
+  >
+      <failure message="Lines should be &lt;= 140 characters long"/>
+  </testcase>
+  <testcase
+    name="linelength (cmake-build-debug/cmake_install.cmake:251)"
+    classname="rbf_clap_b7_msgs.lint_cmake"
+  >
+      <failure message="Lines should be &lt;= 140 characters long"/>
+  </testcase>
+  <testcase
+    name="whitespace/mismatch (cmake-build-debug/cmake_install.cmake:255)"
+    classname="rbf_clap_b7_msgs.lint_cmake"
+  >
+      <failure message="Mismatching spaces inside () after command"/>
+  </testcase>
+  <testcase
+    name="linelength (cmake-build-debug/cmake_install.cmake:263)"
+    classname="rbf_clap_b7_msgs.lint_cmake"
+  >
+      <failure message="Lines should be &lt;= 140 characters long"/>
+  </testcase>
+  <testcase
+    name="linelength (cmake-build-debug/cmake_install.cmake:267)"
+    classname="rbf_clap_b7_msgs.lint_cmake"
+  >
+      <failure message="Lines should be &lt;= 140 characters long"/>
+  </testcase>
+  <testcase
+    name="linelength (cmake-build-debug/cmake_install.cmake:268)"
+    classname="rbf_clap_b7_msgs.lint_cmake"
+  >
+      <failure message="Lines should be &lt;= 140 characters long"/>
+  </testcase>
+  <testcase
+    name="whitespace/indent (cmake-build-debug/cmake_install.cmake:268)"
+    classname="rbf_clap_b7_msgs.lint_cmake"
+  >
+      <failure message="Weird indentation; use 2 spaces"/>
+  </testcase>
+  <testcase
+    name="linelength (cmake-build-debug/cmake_install.cmake:270)"
+    classname="rbf_clap_b7_msgs.lint_cmake"
+  >
+      <failure message="Lines should be &lt;= 140 characters long"/>
+  </testcase>
+  <testcase
+    name="whitespace/indent (cmake-build-debug/cmake_install.cmake:270)"
+    classname="rbf_clap_b7_msgs.lint_cmake"
+  >
+      <failure message="Weird indentation; use 2 spaces"/>
+  </testcase>
+  <testcase
+    name="whitespace/indent (cmake-build-debug/cmake_install.cmake:271)"
+    classname="rbf_clap_b7_msgs.lint_cmake"
+  >
+      <failure message="Weird indentation; use 2 spaces"/>
+  </testcase>
+  <testcase
+    name="linelength (cmake-build-debug/cmake_install.cmake:273)"
+    classname="rbf_clap_b7_msgs.lint_cmake"
+  >
+      <failure message="Lines should be &lt;= 140 characters long"/>
+  </testcase>
+  <testcase
+    name="linelength (cmake-build-debug/cmake_install.cmake:274)"
+    classname="rbf_clap_b7_msgs.lint_cmake"
+  >
+      <failure message="Lines should be &lt;= 140 characters long"/>
+  </testcase>
+  <testcase
+    name="linelength (cmake-build-debug/cmake_install.cmake:275)"
+    classname="rbf_clap_b7_msgs.lint_cmake"
+  >
+      <failure message="Lines should be &lt;= 140 characters long"/>
+  </testcase>
+  <testcase
+    name="whitespace/indent (cmake-build-debug/cmake_install.cmake:275)"
+    classname="rbf_clap_b7_msgs.lint_cmake"
+  >
+      <failure message="Weird indentation; use 2 spaces"/>
+  </testcase>
+  <testcase
+    name="linelength (cmake-build-debug/cmake_install.cmake:277)"
+    classname="rbf_clap_b7_msgs.lint_cmake"
+  >
+      <failure message="Lines should be &lt;= 140 characters long"/>
+  </testcase>
+  <testcase
+    name="whitespace/indent (cmake-build-debug/cmake_install.cmake:277)"
+    classname="rbf_clap_b7_msgs.lint_cmake"
+  >
+      <failure message="Weird indentation; use 2 spaces"/>
+  </testcase>
+  <testcase
+    name="linelength (cmake-build-debug/cmake_install.cmake:278)"
+    classname="rbf_clap_b7_msgs.lint_cmake"
+  >
+      <failure message="Lines should be &lt;= 140 characters long"/>
+  </testcase>
+  <testcase
+    name="whitespace/indent (cmake-build-debug/cmake_install.cmake:278)"
+    classname="rbf_clap_b7_msgs.lint_cmake"
+  >
+      <failure message="Weird indentation; use 2 spaces"/>
+  </testcase>
+  <testcase
+    name="whitespace/indent (cmake-build-debug/cmake_install.cmake:279)"
+    classname="rbf_clap_b7_msgs.lint_cmake"
+  >
+      <failure message="Weird indentation; use 2 spaces"/>
+  </testcase>
+  <testcase
+    name="linelength (cmake-build-debug/cmake_install.cmake:281)"
+    classname="rbf_clap_b7_msgs.lint_cmake"
+  >
+      <failure message="Lines should be &lt;= 140 characters long"/>
+  </testcase>
+  <testcase
+    name="linelength (cmake-build-debug/cmake_install.cmake:290)"
+    classname="rbf_clap_b7_msgs.lint_cmake"
+  >
+      <failure message="Lines should be &lt;= 140 characters long"/>
+  </testcase>
+  <testcase
+    name="linelength (cmake-build-debug/cmake_install.cmake:291)"
+    classname="rbf_clap_b7_msgs.lint_cmake"
+  >
+      <failure message="Lines should be &lt;= 140 characters long"/>
+  </testcase>
+  <testcase
+    name="whitespace/indent (cmake-build-debug/cmake_install.cmake:291)"
+    classname="rbf_clap_b7_msgs.lint_cmake"
+  >
+      <failure message="Weird indentation; use 2 spaces"/>
+  </testcase>
+  <testcase
+    name="linelength (cmake-build-debug/cmake_install.cmake:293)"
+    classname="rbf_clap_b7_msgs.lint_cmake"
+  >
+      <failure message="Lines should be &lt;= 140 characters long"/>
+  </testcase>
+  <testcase
+    name="whitespace/indent (cmake-build-debug/cmake_install.cmake:293)"
+    classname="rbf_clap_b7_msgs.lint_cmake"
+  >
+      <failure message="Weird indentation; use 2 spaces"/>
+  </testcase>
+  <testcase
+    name="whitespace/indent (cmake-build-debug/cmake_install.cmake:294)"
+    classname="rbf_clap_b7_msgs.lint_cmake"
+  >
+      <failure message="Weird indentation; use 2 spaces"/>
+  </testcase>
+  <testcase
+    name="linelength (cmake-build-debug/cmake_install.cmake:296)"
+    classname="rbf_clap_b7_msgs.lint_cmake"
+  >
+      <failure message="Lines should be &lt;= 140 characters long"/>
+  </testcase>
+  <testcase
+    name="linelength (cmake-build-debug/cmake_install.cmake:297)"
+    classname="rbf_clap_b7_msgs.lint_cmake"
+  >
+      <failure message="Lines should be &lt;= 140 characters long"/>
+  </testcase>
+  <testcase
+    name="linelength (cmake-build-debug/cmake_install.cmake:298)"
+    classname="rbf_clap_b7_msgs.lint_cmake"
+  >
+      <failure message="Lines should be &lt;= 140 characters long"/>
+  </testcase>
+  <testcase
+    name="whitespace/indent (cmake-build-debug/cmake_install.cmake:298)"
+    classname="rbf_clap_b7_msgs.lint_cmake"
+  >
+      <failure message="Weird indentation; use 2 spaces"/>
+  </testcase>
+  <testcase
+    name="linelength (cmake-build-debug/cmake_install.cmake:300)"
+    classname="rbf_clap_b7_msgs.lint_cmake"
+  >
+      <failure message="Lines should be &lt;= 140 characters long"/>
+  </testcase>
+  <testcase
+    name="whitespace/indent (cmake-build-debug/cmake_install.cmake:300)"
+    classname="rbf_clap_b7_msgs.lint_cmake"
+  >
+      <failure message="Weird indentation; use 2 spaces"/>
+  </testcase>
+  <testcase
+    name="linelength (cmake-build-debug/cmake_install.cmake:301)"
+    classname="rbf_clap_b7_msgs.lint_cmake"
+  >
+      <failure message="Lines should be &lt;= 140 characters long"/>
+  </testcase>
+  <testcase
+    name="whitespace/indent (cmake-build-debug/cmake_install.cmake:301)"
+    classname="rbf_clap_b7_msgs.lint_cmake"
+  >
+      <failure message="Weird indentation; use 2 spaces"/>
+  </testcase>
+  <testcase
+    name="whitespace/indent (cmake-build-debug/cmake_install.cmake:302)"
+    classname="rbf_clap_b7_msgs.lint_cmake"
+  >
+      <failure message="Weird indentation; use 2 spaces"/>
+  </testcase>
+  <testcase
+    name="linelength (cmake-build-debug/cmake_install.cmake:304)"
+    classname="rbf_clap_b7_msgs.lint_cmake"
+  >
+      <failure message="Lines should be &lt;= 140 characters long"/>
+  </testcase>
+  <testcase
+    name="linelength (cmake-build-debug/cmake_install.cmake:313)"
+    classname="rbf_clap_b7_msgs.lint_cmake"
+  >
+      <failure message="Lines should be &lt;= 140 characters long"/>
+  </testcase>
+  <testcase
+    name="linelength (cmake-build-debug/cmake_install.cmake:314)"
+    classname="rbf_clap_b7_msgs.lint_cmake"
+  >
+      <failure message="Lines should be &lt;= 140 characters long"/>
+  </testcase>
+  <testcase
+    name="whitespace/indent (cmake-build-debug/cmake_install.cmake:314)"
+    classname="rbf_clap_b7_msgs.lint_cmake"
+  >
+      <failure message="Weird indentation; use 2 spaces"/>
+  </testcase>
+  <testcase
+    name="linelength (cmake-build-debug/cmake_install.cmake:316)"
+    classname="rbf_clap_b7_msgs.lint_cmake"
+  >
+      <failure message="Lines should be &lt;= 140 characters long"/>
+  </testcase>
+  <testcase
+    name="whitespace/indent (cmake-build-debug/cmake_install.cmake:316)"
+    classname="rbf_clap_b7_msgs.lint_cmake"
+  >
+      <failure message="Weird indentation; use 2 spaces"/>
+  </testcase>
+  <testcase
+    name="whitespace/indent (cmake-build-debug/cmake_install.cmake:317)"
+    classname="rbf_clap_b7_msgs.lint_cmake"
+  >
+      <failure message="Weird indentation; use 2 spaces"/>
+  </testcase>
+  <testcase
+    name="linelength (cmake-build-debug/cmake_install.cmake:319)"
+    classname="rbf_clap_b7_msgs.lint_cmake"
+  >
+      <failure message="Lines should be &lt;= 140 characters long"/>
+  </testcase>
+  <testcase
+    name="linelength (cmake-build-debug/cmake_install.cmake:320)"
+    classname="rbf_clap_b7_msgs.lint_cmake"
+  >
+      <failure message="Lines should be &lt;= 140 characters long"/>
+  </testcase>
+  <testcase
+    name="linelength (cmake-build-debug/cmake_install.cmake:321)"
+    classname="rbf_clap_b7_msgs.lint_cmake"
+  >
+      <failure message="Lines should be &lt;= 140 characters long"/>
+  </testcase>
+  <testcase
+    name="whitespace/indent (cmake-build-debug/cmake_install.cmake:321)"
+    classname="rbf_clap_b7_msgs.lint_cmake"
+  >
+      <failure message="Weird indentation; use 2 spaces"/>
+  </testcase>
+  <testcase
+    name="linelength (cmake-build-debug/cmake_install.cmake:323)"
+    classname="rbf_clap_b7_msgs.lint_cmake"
+  >
+      <failure message="Lines should be &lt;= 140 characters long"/>
+  </testcase>
+  <testcase
+    name="whitespace/indent (cmake-build-debug/cmake_install.cmake:323)"
+    classname="rbf_clap_b7_msgs.lint_cmake"
+  >
+      <failure message="Weird indentation; use 2 spaces"/>
+  </testcase>
+  <testcase
+    name="linelength (cmake-build-debug/cmake_install.cmake:324)"
+    classname="rbf_clap_b7_msgs.lint_cmake"
+  >
+      <failure message="Lines should be &lt;= 140 characters long"/>
+  </testcase>
+  <testcase
+    name="whitespace/indent (cmake-build-debug/cmake_install.cmake:324)"
+    classname="rbf_clap_b7_msgs.lint_cmake"
+  >
+      <failure message="Weird indentation; use 2 spaces"/>
+  </testcase>
+  <testcase
+    name="whitespace/indent (cmake-build-debug/cmake_install.cmake:325)"
+    classname="rbf_clap_b7_msgs.lint_cmake"
+  >
+      <failure message="Weird indentation; use 2 spaces"/>
+  </testcase>
+  <testcase
+    name="linelength (cmake-build-debug/cmake_install.cmake:327)"
+    classname="rbf_clap_b7_msgs.lint_cmake"
+  >
+      <failure message="Lines should be &lt;= 140 characters long"/>
+  </testcase>
+  <testcase
+    name="whitespace/indent (cmake-build-debug/cmake_install.cmake:337)"
+    classname="rbf_clap_b7_msgs.lint_cmake"
+  >
+      <failure message="Weird indentation; use 2 spaces"/>
+  </testcase>
+  <testcase
+    name="whitespace/indent (cmake-build-debug/cmake_install.cmake:339)"
+    classname="rbf_clap_b7_msgs.lint_cmake"
+  >
+      <failure message="Weird indentation; use 2 spaces"/>
+  </testcase>
+  <testcase
+    name="whitespace/indent (cmake-build-debug/cmake_install.cmake:340)"
+    classname="rbf_clap_b7_msgs.lint_cmake"
+  >
+      <failure message="Weird indentation; use 2 spaces"/>
+  </testcase>
+  <testcase
+    name="linelength (cmake-build-debug/cmake_install.cmake:342)"
+    classname="rbf_clap_b7_msgs.lint_cmake"
+  >
+      <failure message="Lines should be &lt;= 140 characters long"/>
+  </testcase>
+  <testcase
+    name="whitespace/indent (cmake-build-debug/cmake_install.cmake:344)"
+    classname="rbf_clap_b7_msgs.lint_cmake"
+  >
+      <failure message="Weird indentation; use 2 spaces"/>
+  </testcase>
+  <testcase
+    name="whitespace/indent (cmake-build-debug/cmake_install.cmake:346)"
+    classname="rbf_clap_b7_msgs.lint_cmake"
+  >
+      <failure message="Weird indentation; use 2 spaces"/>
+  </testcase>
+  <testcase
+    name="linelength (cmake-build-debug/cmake_install.cmake:347)"
+    classname="rbf_clap_b7_msgs.lint_cmake"
+  >
+      <failure message="Lines should be &lt;= 140 characters long"/>
+  </testcase>
+  <testcase
+    name="whitespace/indent (cmake-build-debug/cmake_install.cmake:347)"
+    classname="rbf_clap_b7_msgs.lint_cmake"
+  >
+      <failure message="Weird indentation; use 2 spaces"/>
+  </testcase>
+  <testcase
+    name="whitespace/indent (cmake-build-debug/cmake_install.cmake:348)"
+    classname="rbf_clap_b7_msgs.lint_cmake"
+  >
+      <failure message="Weird indentation; use 2 spaces"/>
+  </testcase>
+  <testcase
+    name="linelength (cmake-build-debug/cmake_install.cmake:359)"
+    classname="rbf_clap_b7_msgs.lint_cmake"
+  >
+      <failure message="Lines should be &lt;= 140 characters long"/>
+  </testcase>
+  <testcase
+    name="linelength (cmake-build-debug/cmake_install.cmake:363)"
+    classname="rbf_clap_b7_msgs.lint_cmake"
+  >
+      <failure message="Lines should be &lt;= 140 characters long"/>
+  </testcase>
+  <testcase
+    name="linelength (cmake-build-debug/cmake_install.cmake:367)"
+    classname="rbf_clap_b7_msgs.lint_cmake"
+  >
+      <failure message="Lines should be &lt;= 140 characters long"/>
+  </testcase>
+  <testcase
+    name="linelength (cmake-build-debug/cmake_install.cmake:371)"
+    classname="rbf_clap_b7_msgs.lint_cmake"
+  >
+      <failure message="Lines should be &lt;= 140 characters long"/>
+  </testcase>
+  <testcase
+    name="linelength (cmake-build-debug/cmake_install.cmake:375)"
+    classname="rbf_clap_b7_msgs.lint_cmake"
+  >
+      <failure message="Lines should be &lt;= 140 characters long"/>
+  </testcase>
+  <testcase
+    name="linelength (cmake-build-debug/cmake_install.cmake:379)"
+    classname="rbf_clap_b7_msgs.lint_cmake"
+  >
+      <failure message="Lines should be &lt;= 140 characters long"/>
+  </testcase>
+  <testcase
+    name="linelength (cmake-build-debug/cmake_install.cmake:383)"
+    classname="rbf_clap_b7_msgs.lint_cmake"
+  >
+      <failure message="Lines should be &lt;= 140 characters long"/>
+  </testcase>
+  <testcase
+    name="linelength (cmake-build-debug/cmake_install.cmake:387)"
+    classname="rbf_clap_b7_msgs.lint_cmake"
+  >
+      <failure message="Lines should be &lt;= 140 characters long"/>
+  </testcase>
+  <testcase
+    name="linelength (cmake-build-debug/cmake_install.cmake:391)"
+    classname="rbf_clap_b7_msgs.lint_cmake"
+  >
+      <failure message="Lines should be &lt;= 140 characters long"/>
+  </testcase>
+  <testcase
+    name="linelength (cmake-build-debug/cmake_install.cmake:395)"
+    classname="rbf_clap_b7_msgs.lint_cmake"
+  >
+      <failure message="Lines should be &lt;= 140 characters long"/>
+  </testcase>
+  <testcase
+    name="linelength (cmake-build-debug/cmake_install.cmake:399)"
+    classname="rbf_clap_b7_msgs.lint_cmake"
+  >
+      <failure message="Lines should be &lt;= 140 characters long"/>
+  </testcase>
+  <testcase
+    name="linelength (cmake-build-debug/cmake_install.cmake:403)"
+    classname="rbf_clap_b7_msgs.lint_cmake"
+  >
+      <failure message="Lines should be &lt;= 140 characters long"/>
+  </testcase>
+  <testcase
+    name="linelength (cmake-build-debug/cmake_install.cmake:407)"
+    classname="rbf_clap_b7_msgs.lint_cmake"
+  >
+      <failure message="Lines should be &lt;= 140 characters long"/>
+  </testcase>
+  <testcase
+    name="linelength (cmake-build-debug/cmake_install.cmake:411)"
+    classname="rbf_clap_b7_msgs.lint_cmake"
+  >
+      <failure message="Lines should be &lt;= 140 characters long"/>
+  </testcase>
+  <testcase
+    name="whitespace/indent (cmake-build-debug/cmake_install.cmake:417)"
+    classname="rbf_clap_b7_msgs.lint_cmake"
+  >
+      <failure message="Weird indentation; use 2 spaces"/>
+  </testcase>
+  <testcase
+    name="whitespace/indent (cmake-build-debug/cmake_install.cmake:418)"
+    classname="rbf_clap_b7_msgs.lint_cmake"
+  >
+      <failure message="Weird indentation; use 2 spaces"/>
+  </testcase>
+  <testcase
+    name="linelength (cmake-build-debug/cmake_install.cmake:420)"
+    classname="rbf_clap_b7_msgs.lint_cmake"
+  >
+      <failure message="Lines should be &lt;= 140 characters long"/>
+  </testcase>
+  <testcase
+    name="linelength (cmake-build-debug/cmake_install.cmake:422)"
+    classname="rbf_clap_b7_msgs.lint_cmake"
+  >
+      <failure message="Lines should be &lt;= 140 characters long"/>
+  </testcase>
+  <testcase
+    name="linelength (cmake-build-debug/cmake_install.cmake:427)"
+    classname="rbf_clap_b7_msgs.lint_cmake"
+  >
+      <failure message="Lines should be &lt;= 140 characters long"/>
+  </testcase>
+  <testcase
+    name="linelength (cmake-build-debug/cmake_install.cmake:429)"
+    classname="rbf_clap_b7_msgs.lint_cmake"
+  >
+      <failure message="Lines should be &lt;= 140 characters long"/>
+  </testcase>
+  <testcase
+    name="linelength (cmake-build-debug/cmake_install.cmake:434)"
+    classname="rbf_clap_b7_msgs.lint_cmake"
+  >
+      <failure message="Lines should be &lt;= 140 characters long"/>
+  </testcase>
+  <testcase
+    name="whitespace/indent (cmake-build-debug/cmake_install.cmake:436)"
+    classname="rbf_clap_b7_msgs.lint_cmake"
+  >
+      <failure message="Weird indentation; use 2 spaces"/>
+  </testcase>
+  <testcase
+    name="whitespace/indent (cmake-build-debug/cmake_install.cmake:437)"
+    classname="rbf_clap_b7_msgs.lint_cmake"
+  >
+      <failure message="Weird indentation; use 2 spaces"/>
+  </testcase>
+  <testcase
+    name="linelength (cmake-build-debug/cmake_install.cmake:439)"
+    classname="rbf_clap_b7_msgs.lint_cmake"
+  >
+      <failure message="Lines should be &lt;= 140 characters long"/>
+  </testcase>
+  <testcase
+    name="linelength (cmake-build-debug/cmake_install.cmake:441)"
+    classname="rbf_clap_b7_msgs.lint_cmake"
+  >
+      <failure message="Lines should be &lt;= 140 characters long"/>
+  </testcase>
+  <testcase
+    name="linelength (cmake-build-debug/cmake_install.cmake:446)"
+    classname="rbf_clap_b7_msgs.lint_cmake"
+  >
+      <failure message="Lines should be &lt;= 140 characters long"/>
+  </testcase>
+  <testcase
+    name="linelength (cmake-build-debug/cmake_install.cmake:448)"
+    classname="rbf_clap_b7_msgs.lint_cmake"
+  >
+      <failure message="Lines should be &lt;= 140 characters long"/>
+  </testcase>
+  <testcase
+    name="whitespace/indent (cmake-build-debug/cmake_install.cmake:455)"
+    classname="rbf_clap_b7_msgs.lint_cmake"
+  >
+      <failure message="Weird indentation; use 2 spaces"/>
+  </testcase>
+  <testcase
+    name="whitespace/indent (cmake-build-debug/cmake_install.cmake:456)"
+    classname="rbf_clap_b7_msgs.lint_cmake"
+  >
+      <failure message="Weird indentation; use 2 spaces"/>
+  </testcase>
+  <testcase
+    name="linelength (cmake-build-debug/cmake_install.cmake:458)"
+    classname="rbf_clap_b7_msgs.lint_cmake"
+  >
+      <failure message="Lines should be &lt;= 140 characters long"/>
+  </testcase>
+  <testcase
+    name="linelength (cmake-build-debug/cmake_install.cmake:460)"
+    classname="rbf_clap_b7_msgs.lint_cmake"
+  >
+      <failure message="Lines should be &lt;= 140 characters long"/>
+  </testcase>
+  <testcase
+    name="linelength (cmake-build-debug/cmake_install.cmake:465)"
+    classname="rbf_clap_b7_msgs.lint_cmake"
+  >
+      <failure message="Lines should be &lt;= 140 characters long"/>
+  </testcase>
+  <testcase
+    name="linelength (cmake-build-debug/cmake_install.cmake:467)"
+    classname="rbf_clap_b7_msgs.lint_cmake"
+  >
+      <failure message="Lines should be &lt;= 140 characters long"/>
+  </testcase>
+  <testcase
+    name="whitespace/indent (cmake-build-debug/cmake_install.cmake:474)"
+    classname="rbf_clap_b7_msgs.lint_cmake"
+  >
+      <failure message="Weird indentation; use 2 spaces"/>
+  </testcase>
+  <testcase
+    name="whitespace/indent (cmake-build-debug/cmake_install.cmake:475)"
+    classname="rbf_clap_b7_msgs.lint_cmake"
+  >
+      <failure message="Weird indentation; use 2 spaces"/>
+  </testcase>
+  <testcase
+    name="linelength (cmake-build-debug/cmake_install.cmake:477)"
+    classname="rbf_clap_b7_msgs.lint_cmake"
+  >
+      <failure message="Lines should be &lt;= 140 characters long"/>
+  </testcase>
+  <testcase
+    name="linelength (cmake-build-debug/cmake_install.cmake:479)"
+    classname="rbf_clap_b7_msgs.lint_cmake"
+  >
+      <failure message="Lines should be &lt;= 140 characters long"/>
+  </testcase>
+  <testcase
+    name="linelength (cmake-build-debug/cmake_install.cmake:484)"
+    classname="rbf_clap_b7_msgs.lint_cmake"
+  >
+      <failure message="Lines should be &lt;= 140 characters long"/>
+  </testcase>
+  <testcase
+    name="linelength (cmake-build-debug/cmake_install.cmake:488)"
+    classname="rbf_clap_b7_msgs.lint_cmake"
+  >
+      <failure message="Lines should be &lt;= 140 characters long"/>
+  </testcase>
+  <testcase
+    name="whitespace/indent (cmake-build-debug/cmake_install.cmake:490)"
+    classname="rbf_clap_b7_msgs.lint_cmake"
+  >
+      <failure message="Weird indentation; use 2 spaces"/>
+  </testcase>
+  <testcase
+    name="whitespace/indent (cmake-build-debug/cmake_install.cmake:491)"
+    classname="rbf_clap_b7_msgs.lint_cmake"
+  >
+      <failure message="Weird indentation; use 2 spaces"/>
+  </testcase>
+  <testcase
+    name="linelength (cmake-build-debug/cmake_install.cmake:493)"
+    classname="rbf_clap_b7_msgs.lint_cmake"
+  >
+      <failure message="Lines should be &lt;= 140 characters long"/>
+  </testcase>
+  <testcase
+    name="linelength (cmake-build-debug/cmake_install.cmake:495)"
+    classname="rbf_clap_b7_msgs.lint_cmake"
+  >
+      <failure message="Lines should be &lt;= 140 characters long"/>
+  </testcase>
+  <testcase
+    name="linelength (cmake-build-debug/cmake_install.cmake:500)"
+    classname="rbf_clap_b7_msgs.lint_cmake"
+  >
+      <failure message="Lines should be &lt;= 140 characters long"/>
+  </testcase>
+  <testcase
+    name="linelength (cmake-build-debug/cmake_install.cmake:502)"
+    classname="rbf_clap_b7_msgs.lint_cmake"
+  >
+      <failure message="Lines should be &lt;= 140 characters long"/>
+  </testcase>
+  <testcase
+    name="whitespace/indent (cmake-build-debug/cmake_install.cmake:509)"
+    classname="rbf_clap_b7_msgs.lint_cmake"
+  >
+      <failure message="Weird indentation; use 2 spaces"/>
+  </testcase>
+  <testcase
+    name="whitespace/indent (cmake-build-debug/cmake_install.cmake:510)"
+    classname="rbf_clap_b7_msgs.lint_cmake"
+  >
+      <failure message="Weird indentation; use 2 spaces"/>
+  </testcase>
+  <testcase
+    name="linelength (cmake-build-debug/cmake_install.cmake:512)"
+    classname="rbf_clap_b7_msgs.lint_cmake"
+  >
+      <failure message="Lines should be &lt;= 140 characters long"/>
+  </testcase>
+  <testcase
+    name="linelength (cmake-build-debug/cmake_install.cmake:514)"
+    classname="rbf_clap_b7_msgs.lint_cmake"
+  >
+      <failure message="Lines should be &lt;= 140 characters long"/>
+  </testcase>
+  <testcase
+    name="linelength (cmake-build-debug/cmake_install.cmake:519)"
+    classname="rbf_clap_b7_msgs.lint_cmake"
+  >
+      <failure message="Lines should be &lt;= 140 characters long"/>
+  </testcase>
+  <testcase
+    name="linelength (cmake-build-debug/cmake_install.cmake:521)"
+    classname="rbf_clap_b7_msgs.lint_cmake"
+  >
+      <failure message="Lines should be &lt;= 140 characters long"/>
+  </testcase>
+  <testcase
+    name="linelength (cmake-build-debug/cmake_install.cmake:526)"
+    classname="rbf_clap_b7_msgs.lint_cmake"
+  >
+      <failure message="Lines should be &lt;= 140 characters long"/>
+  </testcase>
+  <testcase
+    name="linelength (cmake-build-debug/cmake_install.cmake:530)"
+    classname="rbf_clap_b7_msgs.lint_cmake"
+  >
+      <failure message="Lines should be &lt;= 140 characters long"/>
+  </testcase>
+  <testcase
+    name="linelength (cmake-build-debug/cmake_install.cmake:534)"
+    classname="rbf_clap_b7_msgs.lint_cmake"
+  >
+      <failure message="Lines should be &lt;= 140 characters long"/>
+  </testcase>
+  <testcase
+    name="linelength (cmake-build-debug/cmake_install.cmake:538)"
+    classname="rbf_clap_b7_msgs.lint_cmake"
+  >
+      <failure message="Lines should be &lt;= 140 characters long"/>
+  </testcase>
+  <testcase
+    name="linelength (cmake-build-debug/cmake_install.cmake:542)"
+    classname="rbf_clap_b7_msgs.lint_cmake"
+  >
+      <failure message="Lines should be &lt;= 140 characters long"/>
+  </testcase>
+  <testcase
+    name="linelength (cmake-build-debug/cmake_install.cmake:546)"
+    classname="rbf_clap_b7_msgs.lint_cmake"
+  >
+      <failure message="Lines should be &lt;= 140 characters long"/>
+  </testcase>
+  <testcase
+    name="linelength (cmake-build-debug/cmake_install.cmake:550)"
+    classname="rbf_clap_b7_msgs.lint_cmake"
+  >
+      <failure message="Lines should be &lt;= 140 characters long"/>
+  </testcase>
+  <testcase
+    name="whitespace/mismatch (cmake-build-debug/cmake_install.cmake:554)"
+    classname="rbf_clap_b7_msgs.lint_cmake"
+  >
+      <failure message="Mismatching spaces inside () after command"/>
+  </testcase>
+  <testcase
+    name="linelength (cmake-build-debug/cmake_install.cmake:561)"
+    classname="rbf_clap_b7_msgs.lint_cmake"
+  >
+      <failure message="Lines should be &lt;= 140 characters long"/>
+  </testcase>
+  <testcase
+    name="linelength (cmake-build-debug/cmake_install.cmake:566)"
+    classname="rbf_clap_b7_msgs.lint_cmake"
+  >
+      <failure message="Lines should be &lt;= 140 characters long"/>
+  </testcase>
+  <testcase
+    name="whitespace/indent (cmake-build-debug/cmake_install.cmake:577)"
+    classname="rbf_clap_b7_msgs.lint_cmake"
+  >
+      <failure message="Weird indentation; use 2 spaces"/>
+  </testcase>
+  <testcase
+    name="whitespace/indent (cmake-build-debug/cmake_install.cmake:579)"
+    classname="rbf_clap_b7_msgs.lint_cmake"
+  >
+      <failure message="Weird indentation; use 2 spaces"/>
+  </testcase>
+  <testcase
+    name="linelength (cmake-build-debug/CMakeFiles/3.22.3/CMakeCCompiler.cmake:9)"
+    classname="rbf_clap_b7_msgs.lint_cmake"
+  >
+      <failure message="Lines should be &lt;= 140 characters long"/>
+  </testcase>
+  <testcase
+    name="linelength (cmake-build-debug/CMakeFiles/3.22.3/CMakeCCompiler.cmake:69)"
+    classname="rbf_clap_b7_msgs.lint_cmake"
+  >
+      <failure message="Lines should be &lt;= 140 characters long"/>
+  </testcase>
+  <testcase
+    name="linelength (cmake-build-debug/CMakeFiles/3.22.3/CMakeCXXCompiler.cmake:9)"
+    classname="rbf_clap_b7_msgs.lint_cmake"
+  >
+      <failure message="Lines should be &lt;= 140 characters long"/>
+  </testcase>
+  <testcase
+    name="linelength (cmake-build-debug/CMakeFiles/3.22.3/CMakeCXXCompiler.cmake:11)"
+    classname="rbf_clap_b7_msgs.lint_cmake"
+  >
+      <failure message="Lines should be &lt;= 140 characters long"/>
+  </testcase>
+  <testcase
+    name="linelength (cmake-build-debug/CMakeFiles/3.22.3/CMakeCXXCompiler.cmake:12)"
+    classname="rbf_clap_b7_msgs.lint_cmake"
+  >
+      <failure message="Lines should be &lt;= 140 characters long"/>
+  </testcase>
+  <testcase
+    name="whitespace/extra (cmake-build-debug/CMakeFiles/3.22.3/CMakeCXXCompiler.cmake:42)"
+    classname="rbf_clap_b7_msgs.lint_cmake"
+  >
+      <failure message="Extra spaces between 'foreach' and its ()"/>
+  </testcase>
+  <testcase
+    name="whitespace/extra (cmake-build-debug/CMakeFiles/3.22.3/CMakeCXXCompiler.cmake:43)"
+    classname="rbf_clap_b7_msgs.lint_cmake"
+  >
+      <failure message="Extra spaces between 'if' and its ()"/>
+  </testcase>
+  <testcase
+    name="linelength (cmake-build-debug/CMakeFiles/3.22.3/CMakeCXXCompiler.cmake:80)"
+    classname="rbf_clap_b7_msgs.lint_cmake"
+  >
+      <failure message="Lines should be &lt;= 140 characters long"/>
+  </testcase>
+  <testcase
+    name="cmake-build-debug/CMakeFiles/3.22.3/CMakeSystem.cmake"
+    classname="rbf_clap_b7_msgs.lint_cmake"/>
+  <testcase
+    name="whitespace/mismatch (cmake-build-debug/CMakeFiles/Export/share/rbf_clap_b7_msgs/cmake/rbf_clap_b7_msgs__rosidl_generator_cExport-debug.cmake:10)"
+    classname="rbf_clap_b7_msgs.lint_cmake"
+  >
+      <failure message="Mismatching spaces inside () after command"/>
+  </testcase>
+  <testcase
+    name="whitespace/mismatch (cmake-build-debug/CMakeFiles/Export/share/rbf_clap_b7_msgs/cmake/rbf_clap_b7_msgs__rosidl_generator_cExport-debug.cmake:15)"
+    classname="rbf_clap_b7_msgs.lint_cmake"
+  >
+      <failure message="Mismatching spaces inside () after command"/>
+  </testcase>
+  <testcase
+    name="linelength (cmake-build-debug/CMakeFiles/Export/share/rbf_clap_b7_msgs/cmake/rbf_clap_b7_msgs__rosidl_generator_cExport-debug.cmake:16)"
+    classname="rbf_clap_b7_msgs.lint_cmake"
+  >
+      <failure message="Lines should be &lt;= 140 characters long"/>
+  </testcase>
+  <testcase
+    name="whitespace/mismatch (cmake-build-debug/CMakeFiles/Export/share/rbf_clap_b7_msgs/cmake/rbf_clap_b7_msgs__rosidl_generator_cExport-debug.cmake:16)"
+    classname="rbf_clap_b7_msgs.lint_cmake"
+  >
+      <failure message="Mismatching spaces inside () after command"/>
+  </testcase>
+  <testcase
+    name="whitespace/indent (cmake-build-debug/CMakeFiles/Export/share/rbf_clap_b7_msgs/cmake/rbf_clap_b7_msgs__rosidl_generator_cExport.cmake:4)"
+    classname="rbf_clap_b7_msgs.lint_cmake"
+  >
+      <failure message="Weird indentation; use 2 spaces"/>
+  </testcase>
+  <testcase
+    name="linelength (cmake-build-debug/CMakeFiles/Export/share/rbf_clap_b7_msgs/cmake/rbf_clap_b7_msgs__rosidl_generator_cExport.cmake:37)"
+    classname="rbf_clap_b7_msgs.lint_cmake"
+  >
+      <failure message="Lines should be &lt;= 140 characters long"/>
+  </testcase>
+  <testcase
+    name="whitespace/mismatch (cmake-build-debug/CMakeFiles/Export/share/rbf_clap_b7_msgs/cmake/rbf_clap_b7_msgs__rosidl_generator_cExport.cmake:76)"
+    classname="rbf_clap_b7_msgs.lint_cmake"
+  >
+      <failure message="Mismatching spaces inside () after command"/>
+  </testcase>
+  <testcase
+    name="whitespace/mismatch (cmake-build-debug/CMakeFiles/Export/share/rbf_clap_b7_msgs/cmake/rbf_clap_b7_msgs__rosidl_generator_cExport.cmake:77)"
+    classname="rbf_clap_b7_msgs.lint_cmake"
+  >
+      <failure message="Mismatching spaces inside () after command"/>
+  </testcase>
+  <testcase
+    name="whitespace/mismatch (cmake-build-debug/CMakeFiles/Export/share/rbf_clap_b7_msgs/cmake/rbf_clap_b7_msgs__rosidl_generator_cExport.cmake:78)"
+    classname="rbf_clap_b7_msgs.lint_cmake"
+  >
+      <failure message="Mismatching spaces inside () after command"/>
+  </testcase>
+  <testcase
+    name="whitespace/indent (cmake-build-debug/CMakeFiles/Export/share/rbf_clap_b7_msgs/cmake/rbf_clap_b7_msgs__rosidl_generator_cExport.cmake:80)"
+    classname="rbf_clap_b7_msgs.lint_cmake"
+  >
+      <failure message="Weird indentation; use 2 spaces"/>
+  </testcase>
+  <testcase
+    name="whitespace/indent (cmake-build-debug/CMakeFiles/Export/share/rbf_clap_b7_msgs/cmake/rbf_clap_b7_msgs__rosidl_generator_cExport.cmake:85)"
+    classname="rbf_clap_b7_msgs.lint_cmake"
+  >
+      <failure message="Weird indentation; use 2 spaces"/>
+  </testcase>
+  <testcase
+    name="whitespace/indent (cmake-build-debug/CMakeFiles/Export/share/rbf_clap_b7_msgs/cmake/rbf_clap_b7_msgs__rosidl_generator_cppExport.cmake:4)"
+    classname="rbf_clap_b7_msgs.lint_cmake"
+  >
+      <failure message="Weird indentation; use 2 spaces"/>
+  </testcase>
+  <testcase
+    name="linelength (cmake-build-debug/CMakeFiles/Export/share/rbf_clap_b7_msgs/cmake/rbf_clap_b7_msgs__rosidl_generator_cppExport.cmake:37)"
+    classname="rbf_clap_b7_msgs.lint_cmake"
+  >
+      <failure message="Lines should be &lt;= 140 characters long"/>
+  </testcase>
+  <testcase
+    name="whitespace/mismatch (cmake-build-debug/CMakeFiles/Export/share/rbf_clap_b7_msgs/cmake/rbf_clap_b7_msgs__rosidl_generator_cppExport.cmake:76)"
+    classname="rbf_clap_b7_msgs.lint_cmake"
+  >
+      <failure message="Mismatching spaces inside () after command"/>
+  </testcase>
+  <testcase
+    name="whitespace/mismatch (cmake-build-debug/CMakeFiles/Export/share/rbf_clap_b7_msgs/cmake/rbf_clap_b7_msgs__rosidl_generator_cppExport.cmake:77)"
+    classname="rbf_clap_b7_msgs.lint_cmake"
+  >
+      <failure message="Mismatching spaces inside () after command"/>
+  </testcase>
+  <testcase
+    name="whitespace/mismatch (cmake-build-debug/CMakeFiles/Export/share/rbf_clap_b7_msgs/cmake/rbf_clap_b7_msgs__rosidl_generator_cppExport.cmake:78)"
+    classname="rbf_clap_b7_msgs.lint_cmake"
+  >
+      <failure message="Mismatching spaces inside () after command"/>
+  </testcase>
+  <testcase
+    name="whitespace/indent (cmake-build-debug/CMakeFiles/Export/share/rbf_clap_b7_msgs/cmake/rbf_clap_b7_msgs__rosidl_generator_cppExport.cmake:80)"
+    classname="rbf_clap_b7_msgs.lint_cmake"
+  >
+      <failure message="Weird indentation; use 2 spaces"/>
+  </testcase>
+  <testcase
+    name="whitespace/indent (cmake-build-debug/CMakeFiles/Export/share/rbf_clap_b7_msgs/cmake/rbf_clap_b7_msgs__rosidl_generator_cppExport.cmake:85)"
+    classname="rbf_clap_b7_msgs.lint_cmake"
+  >
+      <failure message="Weird indentation; use 2 spaces"/>
+  </testcase>
+  <testcase
+    name="whitespace/mismatch (cmake-build-debug/CMakeFiles/Export/share/rbf_clap_b7_msgs/cmake/rbf_clap_b7_msgs__rosidl_typesupport_cExport-debug.cmake:10)"
+    classname="rbf_clap_b7_msgs.lint_cmake"
+  >
+      <failure message="Mismatching spaces inside () after command"/>
+  </testcase>
+  <testcase
+    name="whitespace/mismatch (cmake-build-debug/CMakeFiles/Export/share/rbf_clap_b7_msgs/cmake/rbf_clap_b7_msgs__rosidl_typesupport_cExport-debug.cmake:15)"
+    classname="rbf_clap_b7_msgs.lint_cmake"
+  >
+      <failure message="Mismatching spaces inside () after command"/>
+  </testcase>
+  <testcase
+    name="linelength (cmake-build-debug/CMakeFiles/Export/share/rbf_clap_b7_msgs/cmake/rbf_clap_b7_msgs__rosidl_typesupport_cExport-debug.cmake:16)"
+    classname="rbf_clap_b7_msgs.lint_cmake"
+  >
+      <failure message="Lines should be &lt;= 140 characters long"/>
+  </testcase>
+  <testcase
+    name="whitespace/mismatch (cmake-build-debug/CMakeFiles/Export/share/rbf_clap_b7_msgs/cmake/rbf_clap_b7_msgs__rosidl_typesupport_cExport-debug.cmake:16)"
+    classname="rbf_clap_b7_msgs.lint_cmake"
+  >
+      <failure message="Mismatching spaces inside () after command"/>
+  </testcase>
+  <testcase
+    name="whitespace/indent (cmake-build-debug/CMakeFiles/Export/share/rbf_clap_b7_msgs/cmake/rbf_clap_b7_msgs__rosidl_typesupport_cExport.cmake:4)"
+    classname="rbf_clap_b7_msgs.lint_cmake"
+  >
+      <failure message="Weird indentation; use 2 spaces"/>
+  </testcase>
+  <testcase
+    name="linelength (cmake-build-debug/CMakeFiles/Export/share/rbf_clap_b7_msgs/cmake/rbf_clap_b7_msgs__rosidl_typesupport_cExport.cmake:37)"
+    classname="rbf_clap_b7_msgs.lint_cmake"
+  >
+      <failure message="Lines should be &lt;= 140 characters long"/>
+  </testcase>
+  <testcase
+    name="linelength (cmake-build-debug/CMakeFiles/Export/share/rbf_clap_b7_msgs/cmake/rbf_clap_b7_msgs__rosidl_typesupport_cExport.cmake:58)"
+    classname="rbf_clap_b7_msgs.lint_cmake"
+  >
+      <failure message="Lines should be &lt;= 140 characters long"/>
+  </testcase>
+  <testcase
+    name="whitespace/mismatch (cmake-build-debug/CMakeFiles/Export/share/rbf_clap_b7_msgs/cmake/rbf_clap_b7_msgs__rosidl_typesupport_cExport.cmake:76)"
+    classname="rbf_clap_b7_msgs.lint_cmake"
+  >
+      <failure message="Mismatching spaces inside () after command"/>
+  </testcase>
+  <testcase
+    name="whitespace/mismatch (cmake-build-debug/CMakeFiles/Export/share/rbf_clap_b7_msgs/cmake/rbf_clap_b7_msgs__rosidl_typesupport_cExport.cmake:77)"
+    classname="rbf_clap_b7_msgs.lint_cmake"
+  >
+      <failure message="Mismatching spaces inside () after command"/>
+  </testcase>
+  <testcase
+    name="whitespace/mismatch (cmake-build-debug/CMakeFiles/Export/share/rbf_clap_b7_msgs/cmake/rbf_clap_b7_msgs__rosidl_typesupport_cExport.cmake:78)"
+    classname="rbf_clap_b7_msgs.lint_cmake"
+  >
+      <failure message="Mismatching spaces inside () after command"/>
+  </testcase>
+  <testcase
+    name="whitespace/indent (cmake-build-debug/CMakeFiles/Export/share/rbf_clap_b7_msgs/cmake/rbf_clap_b7_msgs__rosidl_typesupport_cExport.cmake:80)"
+    classname="rbf_clap_b7_msgs.lint_cmake"
+  >
+      <failure message="Weird indentation; use 2 spaces"/>
+  </testcase>
+  <testcase
+    name="whitespace/indent (cmake-build-debug/CMakeFiles/Export/share/rbf_clap_b7_msgs/cmake/rbf_clap_b7_msgs__rosidl_typesupport_cExport.cmake:85)"
+    classname="rbf_clap_b7_msgs.lint_cmake"
+  >
+      <failure message="Weird indentation; use 2 spaces"/>
+  </testcase>
+  <testcase
+    name="whitespace/mismatch (cmake-build-debug/CMakeFiles/Export/share/rbf_clap_b7_msgs/cmake/rbf_clap_b7_msgs__rosidl_typesupport_cppExport-debug.cmake:10)"
+    classname="rbf_clap_b7_msgs.lint_cmake"
+  >
+      <failure message="Mismatching spaces inside () after command"/>
+  </testcase>
+  <testcase
+    name="whitespace/mismatch (cmake-build-debug/CMakeFiles/Export/share/rbf_clap_b7_msgs/cmake/rbf_clap_b7_msgs__rosidl_typesupport_cppExport-debug.cmake:15)"
+    classname="rbf_clap_b7_msgs.lint_cmake"
+  >
+      <failure message="Mismatching spaces inside () after command"/>
+  </testcase>
+  <testcase
+    name="linelength (cmake-build-debug/CMakeFiles/Export/share/rbf_clap_b7_msgs/cmake/rbf_clap_b7_msgs__rosidl_typesupport_cppExport-debug.cmake:16)"
+    classname="rbf_clap_b7_msgs.lint_cmake"
+  >
+      <failure message="Lines should be &lt;= 140 characters long"/>
+  </testcase>
+  <testcase
+    name="whitespace/mismatch (cmake-build-debug/CMakeFiles/Export/share/rbf_clap_b7_msgs/cmake/rbf_clap_b7_msgs__rosidl_typesupport_cppExport-debug.cmake:16)"
+    classname="rbf_clap_b7_msgs.lint_cmake"
+  >
+      <failure message="Mismatching spaces inside () after command"/>
+  </testcase>
+  <testcase
+    name="whitespace/indent (cmake-build-debug/CMakeFiles/Export/share/rbf_clap_b7_msgs/cmake/rbf_clap_b7_msgs__rosidl_typesupport_cppExport.cmake:4)"
+    classname="rbf_clap_b7_msgs.lint_cmake"
+  >
+      <failure message="Weird indentation; use 2 spaces"/>
+  </testcase>
+  <testcase
+    name="linelength (cmake-build-debug/CMakeFiles/Export/share/rbf_clap_b7_msgs/cmake/rbf_clap_b7_msgs__rosidl_typesupport_cppExport.cmake:37)"
+    classname="rbf_clap_b7_msgs.lint_cmake"
+  >
+      <failure message="Lines should be &lt;= 140 characters long"/>
+  </testcase>
+  <testcase
+    name="linelength (cmake-build-debug/CMakeFiles/Export/share/rbf_clap_b7_msgs/cmake/rbf_clap_b7_msgs__rosidl_typesupport_cppExport.cmake:58)"
+    classname="rbf_clap_b7_msgs.lint_cmake"
+  >
+      <failure message="Lines should be &lt;= 140 characters long"/>
+  </testcase>
+  <testcase
+    name="whitespace/mismatch (cmake-build-debug/CMakeFiles/Export/share/rbf_clap_b7_msgs/cmake/rbf_clap_b7_msgs__rosidl_typesupport_cppExport.cmake:76)"
+    classname="rbf_clap_b7_msgs.lint_cmake"
+  >
+      <failure message="Mismatching spaces inside () after command"/>
+  </testcase>
+  <testcase
+    name="whitespace/mismatch (cmake-build-debug/CMakeFiles/Export/share/rbf_clap_b7_msgs/cmake/rbf_clap_b7_msgs__rosidl_typesupport_cppExport.cmake:77)"
+    classname="rbf_clap_b7_msgs.lint_cmake"
+  >
+      <failure message="Mismatching spaces inside () after command"/>
+  </testcase>
+  <testcase
+    name="whitespace/mismatch (cmake-build-debug/CMakeFiles/Export/share/rbf_clap_b7_msgs/cmake/rbf_clap_b7_msgs__rosidl_typesupport_cppExport.cmake:78)"
+    classname="rbf_clap_b7_msgs.lint_cmake"
+  >
+      <failure message="Mismatching spaces inside () after command"/>
+  </testcase>
+  <testcase
+    name="whitespace/indent (cmake-build-debug/CMakeFiles/Export/share/rbf_clap_b7_msgs/cmake/rbf_clap_b7_msgs__rosidl_typesupport_cppExport.cmake:80)"
+    classname="rbf_clap_b7_msgs.lint_cmake"
+  >
+      <failure message="Weird indentation; use 2 spaces"/>
+  </testcase>
+  <testcase
+    name="whitespace/indent (cmake-build-debug/CMakeFiles/Export/share/rbf_clap_b7_msgs/cmake/rbf_clap_b7_msgs__rosidl_typesupport_cppExport.cmake:85)"
+    classname="rbf_clap_b7_msgs.lint_cmake"
+  >
+      <failure message="Weird indentation; use 2 spaces"/>
+  </testcase>
+  <testcase
+    name="whitespace/mismatch (cmake-build-debug/CMakeFiles/Export/share/rbf_clap_b7_msgs/cmake/rbf_clap_b7_msgs__rosidl_typesupport_introspection_cExport-debug.cmake:10)"
+    classname="rbf_clap_b7_msgs.lint_cmake"
+  >
+      <failure message="Mismatching spaces inside () after command"/>
+  </testcase>
+  <testcase
+    name="whitespace/mismatch (cmake-build-debug/CMakeFiles/Export/share/rbf_clap_b7_msgs/cmake/rbf_clap_b7_msgs__rosidl_typesupport_introspection_cExport-debug.cmake:15)"
+    classname="rbf_clap_b7_msgs.lint_cmake"
+  >
+      <failure message="Mismatching spaces inside () after command"/>
+  </testcase>
+  <testcase
+    name="linelength (cmake-build-debug/CMakeFiles/Export/share/rbf_clap_b7_msgs/cmake/rbf_clap_b7_msgs__rosidl_typesupport_introspection_cExport-debug.cmake:16)"
+    classname="rbf_clap_b7_msgs.lint_cmake"
+  >
+      <failure message="Lines should be &lt;= 140 characters long"/>
+  </testcase>
+  <testcase
+    name="whitespace/mismatch (cmake-build-debug/CMakeFiles/Export/share/rbf_clap_b7_msgs/cmake/rbf_clap_b7_msgs__rosidl_typesupport_introspection_cExport-debug.cmake:16)"
+    classname="rbf_clap_b7_msgs.lint_cmake"
+  >
+      <failure message="Mismatching spaces inside () after command"/>
+  </testcase>
+  <testcase
+    name="whitespace/indent (cmake-build-debug/CMakeFiles/Export/share/rbf_clap_b7_msgs/cmake/rbf_clap_b7_msgs__rosidl_typesupport_introspection_cExport.cmake:4)"
+    classname="rbf_clap_b7_msgs.lint_cmake"
+  >
+      <failure message="Weird indentation; use 2 spaces"/>
+  </testcase>
+  <testcase
+    name="linelength (cmake-build-debug/CMakeFiles/Export/share/rbf_clap_b7_msgs/cmake/rbf_clap_b7_msgs__rosidl_typesupport_introspection_cExport.cmake:37)"
+    classname="rbf_clap_b7_msgs.lint_cmake"
+  >
+      <failure message="Lines should be &lt;= 140 characters long"/>
+  </testcase>
+  <testcase
+    name="linelength (cmake-build-debug/CMakeFiles/Export/share/rbf_clap_b7_msgs/cmake/rbf_clap_b7_msgs__rosidl_typesupport_introspection_cExport.cmake:57)"
+    classname="rbf_clap_b7_msgs.lint_cmake"
+  >
+      <failure message="Lines should be &lt;= 140 characters long"/>
+  </testcase>
+  <testcase
+    name="whitespace/mismatch (cmake-build-debug/CMakeFiles/Export/share/rbf_clap_b7_msgs/cmake/rbf_clap_b7_msgs__rosidl_typesupport_introspection_cExport.cmake:75)"
+    classname="rbf_clap_b7_msgs.lint_cmake"
+  >
+      <failure message="Mismatching spaces inside () after command"/>
+  </testcase>
+  <testcase
+    name="whitespace/mismatch (cmake-build-debug/CMakeFiles/Export/share/rbf_clap_b7_msgs/cmake/rbf_clap_b7_msgs__rosidl_typesupport_introspection_cExport.cmake:76)"
+    classname="rbf_clap_b7_msgs.lint_cmake"
+  >
+      <failure message="Mismatching spaces inside () after command"/>
+  </testcase>
+  <testcase
+    name="whitespace/mismatch (cmake-build-debug/CMakeFiles/Export/share/rbf_clap_b7_msgs/cmake/rbf_clap_b7_msgs__rosidl_typesupport_introspection_cExport.cmake:77)"
+    classname="rbf_clap_b7_msgs.lint_cmake"
+  >
+      <failure message="Mismatching spaces inside () after command"/>
+  </testcase>
+  <testcase
+    name="whitespace/indent (cmake-build-debug/CMakeFiles/Export/share/rbf_clap_b7_msgs/cmake/rbf_clap_b7_msgs__rosidl_typesupport_introspection_cExport.cmake:79)"
+    classname="rbf_clap_b7_msgs.lint_cmake"
+  >
+      <failure message="Weird indentation; use 2 spaces"/>
+  </testcase>
+  <testcase
+    name="whitespace/indent (cmake-build-debug/CMakeFiles/Export/share/rbf_clap_b7_msgs/cmake/rbf_clap_b7_msgs__rosidl_typesupport_introspection_cExport.cmake:84)"
+    classname="rbf_clap_b7_msgs.lint_cmake"
+  >
+      <failure message="Weird indentation; use 2 spaces"/>
+  </testcase>
+  <testcase
+    name="whitespace/mismatch (cmake-build-debug/CMakeFiles/Export/share/rbf_clap_b7_msgs/cmake/rbf_clap_b7_msgs__rosidl_typesupport_introspection_cExport.cmake:96)"
+    classname="rbf_clap_b7_msgs.lint_cmake"
+  >
+      <failure message="Mismatching spaces inside () after command"/>
+  </testcase>
+  <testcase
+    name="whitespace/mismatch (cmake-build-debug/CMakeFiles/Export/share/rbf_clap_b7_msgs/cmake/rbf_clap_b7_msgs__rosidl_typesupport_introspection_cExport.cmake:97)"
+    classname="rbf_clap_b7_msgs.lint_cmake"
+  >
+      <failure message="Mismatching spaces inside () after command"/>
+  </testcase>
+  <testcase
+    name="whitespace/mismatch (cmake-build-debug/CMakeFiles/Export/share/rbf_clap_b7_msgs/cmake/rbf_clap_b7_msgs__rosidl_typesupport_introspection_cExport.cmake:104)"
+    classname="rbf_clap_b7_msgs.lint_cmake"
+  >
+      <failure message="Mismatching spaces inside () after command"/>
+  </testcase>
+  <testcase
+    name="linelength (cmake-build-debug/CMakeFiles/Export/share/rbf_clap_b7_msgs/cmake/rbf_clap_b7_msgs__rosidl_typesupport_introspection_cExport.cmake:105)"
+    classname="rbf_clap_b7_msgs.lint_cmake"
+  >
+      <failure message="Lines should be &lt;= 140 characters long"/>
+  </testcase>
+  <testcase
+    name="whitespace/mismatch (cmake-build-debug/CMakeFiles/Export/share/rbf_clap_b7_msgs/cmake/rbf_clap_b7_msgs__rosidl_typesupport_introspection_cExport.cmake:105)"
+    classname="rbf_clap_b7_msgs.lint_cmake"
+  >
+      <failure message="Mismatching spaces inside () after command"/>
+  </testcase>
+  <testcase
+    name="linelength (cmake-build-debug/CMakeFiles/Export/share/rbf_clap_b7_msgs/cmake/rbf_clap_b7_msgs__rosidl_typesupport_introspection_cExport.cmake:107)"
+    classname="rbf_clap_b7_msgs.lint_cmake"
+  >
+      <failure message="Lines should be &lt;= 140 characters long"/>
+  </testcase>
+  <testcase
+    name="whitespace/mismatch (cmake-build-debug/CMakeFiles/Export/share/rbf_clap_b7_msgs/cmake/rbf_clap_b7_msgs__rosidl_typesupport_introspection_cppExport-debug.cmake:10)"
+    classname="rbf_clap_b7_msgs.lint_cmake"
+  >
+      <failure message="Mismatching spaces inside () after command"/>
+  </testcase>
+  <testcase
+    name="whitespace/mismatch (cmake-build-debug/CMakeFiles/Export/share/rbf_clap_b7_msgs/cmake/rbf_clap_b7_msgs__rosidl_typesupport_introspection_cppExport-debug.cmake:15)"
+    classname="rbf_clap_b7_msgs.lint_cmake"
+  >
+      <failure message="Mismatching spaces inside () after command"/>
+  </testcase>
+  <testcase
+    name="linelength (cmake-build-debug/CMakeFiles/Export/share/rbf_clap_b7_msgs/cmake/rbf_clap_b7_msgs__rosidl_typesupport_introspection_cppExport-debug.cmake:16)"
+    classname="rbf_clap_b7_msgs.lint_cmake"
+  >
+      <failure message="Lines should be &lt;= 140 characters long"/>
+  </testcase>
+  <testcase
+    name="whitespace/mismatch (cmake-build-debug/CMakeFiles/Export/share/rbf_clap_b7_msgs/cmake/rbf_clap_b7_msgs__rosidl_typesupport_introspection_cppExport-debug.cmake:16)"
+    classname="rbf_clap_b7_msgs.lint_cmake"
+  >
+      <failure message="Mismatching spaces inside () after command"/>
+  </testcase>
+  <testcase
+    name="whitespace/indent (cmake-build-debug/CMakeFiles/Export/share/rbf_clap_b7_msgs/cmake/rbf_clap_b7_msgs__rosidl_typesupport_introspection_cppExport.cmake:4)"
+    classname="rbf_clap_b7_msgs.lint_cmake"
+  >
+      <failure message="Weird indentation; use 2 spaces"/>
+  </testcase>
+  <testcase
+    name="linelength (cmake-build-debug/CMakeFiles/Export/share/rbf_clap_b7_msgs/cmake/rbf_clap_b7_msgs__rosidl_typesupport_introspection_cppExport.cmake:37)"
+    classname="rbf_clap_b7_msgs.lint_cmake"
+  >
+      <failure message="Lines should be &lt;= 140 characters long"/>
+  </testcase>
+  <testcase
+    name="linelength (cmake-build-debug/CMakeFiles/Export/share/rbf_clap_b7_msgs/cmake/rbf_clap_b7_msgs__rosidl_typesupport_introspection_cppExport.cmake:57)"
+    classname="rbf_clap_b7_msgs.lint_cmake"
+  >
+      <failure message="Lines should be &lt;= 140 characters long"/>
+  </testcase>
+  <testcase
+    name="whitespace/mismatch (cmake-build-debug/CMakeFiles/Export/share/rbf_clap_b7_msgs/cmake/rbf_clap_b7_msgs__rosidl_typesupport_introspection_cppExport.cmake:75)"
+    classname="rbf_clap_b7_msgs.lint_cmake"
+  >
+      <failure message="Mismatching spaces inside () after command"/>
+  </testcase>
+  <testcase
+    name="whitespace/mismatch (cmake-build-debug/CMakeFiles/Export/share/rbf_clap_b7_msgs/cmake/rbf_clap_b7_msgs__rosidl_typesupport_introspection_cppExport.cmake:76)"
+    classname="rbf_clap_b7_msgs.lint_cmake"
+  >
+      <failure message="Mismatching spaces inside () after command"/>
+  </testcase>
+  <testcase
+    name="whitespace/mismatch (cmake-build-debug/CMakeFiles/Export/share/rbf_clap_b7_msgs/cmake/rbf_clap_b7_msgs__rosidl_typesupport_introspection_cppExport.cmake:77)"
+    classname="rbf_clap_b7_msgs.lint_cmake"
+  >
+      <failure message="Mismatching spaces inside () after command"/>
+  </testcase>
+  <testcase
+    name="whitespace/indent (cmake-build-debug/CMakeFiles/Export/share/rbf_clap_b7_msgs/cmake/rbf_clap_b7_msgs__rosidl_typesupport_introspection_cppExport.cmake:79)"
+    classname="rbf_clap_b7_msgs.lint_cmake"
+  >
+      <failure message="Weird indentation; use 2 spaces"/>
+  </testcase>
+  <testcase
+    name="whitespace/indent (cmake-build-debug/CMakeFiles/Export/share/rbf_clap_b7_msgs/cmake/rbf_clap_b7_msgs__rosidl_typesupport_introspection_cppExport.cmake:84)"
+    classname="rbf_clap_b7_msgs.lint_cmake"
+  >
+      <failure message="Weird indentation; use 2 spaces"/>
+  </testcase>
+  <testcase
+    name="whitespace/mismatch (cmake-build-debug/ament_cmake_core/package.cmake:7)"
+    classname="rbf_clap_b7_msgs.lint_cmake"
+  >
+      <failure message="Mismatching spaces inside () after command"/>
+  </testcase>
+  <testcase
+    name="whitespace/mismatch (cmake-build-debug/ament_cmake_core/package.cmake:10)"
+    classname="rbf_clap_b7_msgs.lint_cmake"
+  >
+      <failure message="Mismatching spaces inside () after command"/>
+  </testcase>
+  <testcase
+    name="cmake-build-debug/ament_cmake_core/rbf_clap_b7_msgsConfig-version.cmake"
+    classname="rbf_clap_b7_msgs.lint_cmake"/>
+  <testcase
+    name="linelength (cmake-build-debug/ament_cmake_core/rbf_clap_b7_msgsConfig.cmake:39)"
+    classname="rbf_clap_b7_msgs.lint_cmake"
+  >
+      <failure message="Lines should be &lt;= 140 characters long"/>
+  </testcase>
+  <testcase
+    name="whitespace/eol (cmake-build-debug/ament_cmake_export_dependencies/ament_cmake_export_dependencies-extras.cmake:59)"
+    classname="rbf_clap_b7_msgs.lint_cmake"
+  >
+      <failure message="Line ends in whitespace"/>
+  </testcase>
+  <testcase
+    name="cmake-build-debug/ament_cmake_export_include_directories/ament_cmake_export_include_directories-extras.cmake"
+    classname="rbf_clap_b7_msgs.lint_cmake"/>
+  <testcase
+    name="linelength (cmake-build-debug/ament_cmake_export_libraries/ament_cmake_export_libraries-extras.cmake:3)"
+    classname="rbf_clap_b7_msgs.lint_cmake"
+  >
+      <failure message="Lines should be &lt;= 140 characters long"/>
+  </testcase>
+  <testcase
+    name="linelength (cmake-build-debug/ament_cmake_export_libraries/ament_cmake_export_libraries-extras.cmake:128)"
+    classname="rbf_clap_b7_msgs.lint_cmake"
+  >
+      <failure message="Lines should be &lt;= 140 characters long"/>
+  </testcase>
+  <testcase
+    name="linelength (cmake-build-debug/ament_cmake_export_targets/ament_cmake_export_targets-extras.cmake:3)"
+    classname="rbf_clap_b7_msgs.lint_cmake"
+  >
+      <failure message="Lines should be &lt;= 140 characters long"/>
+  </testcase>
+  <testcase
+    name="linelength (cmake-build-debug/ament_cmake_package_templates/templates.cmake:1)"
+    classname="rbf_clap_b7_msgs.lint_cmake"
+  >
+      <failure message="Lines should be &lt;= 140 characters long"/>
+  </testcase>
+  <testcase
+    name="linelength (cmake-build-debug/ament_cmake_package_templates/templates.cmake:2)"
+    classname="rbf_clap_b7_msgs.lint_cmake"
+  >
+      <failure message="Lines should be &lt;= 140 characters long"/>
+  </testcase>
+  <testcase
+    name="linelength (cmake-build-debug/ament_cmake_package_templates/templates.cmake:4)"
+    classname="rbf_clap_b7_msgs.lint_cmake"
+  >
+      <failure message="Lines should be &lt;= 140 characters long"/>
+  </testcase>
+  <testcase
+    name="linelength (cmake-build-debug/ament_cmake_package_templates/templates.cmake:5)"
+    classname="rbf_clap_b7_msgs.lint_cmake"
+  >
+      <failure message="Lines should be &lt;= 140 characters long"/>
+  </testcase>
+  <testcase
+    name="linelength (cmake-build-debug/ament_cmake_package_templates/templates.cmake:6)"
+    classname="rbf_clap_b7_msgs.lint_cmake"
+  >
+      <failure message="Lines should be &lt;= 140 characters long"/>
+  </testcase>
+  <testcase
+    name="linelength (cmake-build-debug/ament_cmake_package_templates/templates.cmake:8)"
+    classname="rbf_clap_b7_msgs.lint_cmake"
+  >
+      <failure message="Lines should be &lt;= 140 characters long"/>
+  </testcase>
+  <testcase
+    name="linelength (cmake-build-debug/ament_cmake_package_templates/templates.cmake:9)"
+    classname="rbf_clap_b7_msgs.lint_cmake"
+  >
+      <failure message="Lines should be &lt;= 140 characters long"/>
+  </testcase>
+  <testcase
+    name="linelength (cmake-build-debug/ament_cmake_package_templates/templates.cmake:10)"
+    classname="rbf_clap_b7_msgs.lint_cmake"
+  >
+      <failure message="Lines should be &lt;= 140 characters long"/>
+  </testcase>
+  <testcase
+    name="linelength (cmake-build-debug/ament_cmake_package_templates/templates.cmake:11)"
+    classname="rbf_clap_b7_msgs.lint_cmake"
+  >
+      <failure message="Lines should be &lt;= 140 characters long"/>
+  </testcase>
+  <testcase
+    name="linelength (cmake-build-debug/ament_cmake_package_templates/templates.cmake:12)"
+    classname="rbf_clap_b7_msgs.lint_cmake"
+  >
+      <failure message="Lines should be &lt;= 140 characters long"/>
+  </testcase>
+  <testcase
+    name="linelength (cmake-build-debug/ament_cmake_package_templates/templates.cmake:13)"
+    classname="rbf_clap_b7_msgs.lint_cmake"
+  >
+      <failure message="Lines should be &lt;= 140 characters long"/>
+  </testcase>
+  <testcase
+    name="linelength (cmake-build-debug/ament_cmake_package_templates/templates.cmake:14)"
+    classname="rbf_clap_b7_msgs.lint_cmake"
+  >
+      <failure message="Lines should be &lt;= 140 characters long"/>
+  </testcase>
+  <testcase
+    name="linelength (cmake-build-debug/ament_cmake_uninstall_target/ament_cmake_uninstall_target.cmake:32)"
+    classname="rbf_clap_b7_msgs.lint_cmake"
+  >
+      <failure message="Lines should be &lt;= 140 characters long"/>
+  </testcase>
+  <testcase
+    name="cmake-build-debug/rbf_clap_b7_msgs__py/CMakeLists.txt"
+    classname="rbf_clap_b7_msgs.lint_cmake"/>
+  <testcase
+    name="whitespace/eol (cmake-build-debug/rbf_clap_b7_msgs__py/CTestTestfile.cmake:1)"
+    classname="rbf_clap_b7_msgs.lint_cmake"
+  >
+      <failure message="Line ends in whitespace"/>
+  </testcase>
+  <testcase
+    name="whitespace/eol (cmake-build-debug/rbf_clap_b7_msgs__py/CTestTestfile.cmake:4)"
+    classname="rbf_clap_b7_msgs.lint_cmake"
+  >
+      <failure message="Line ends in whitespace"/>
+  </testcase>
+  <testcase
+    name="whitespace/eol (cmake-build-debug/rbf_clap_b7_msgs__py/CTestTestfile.cmake:5)"
+    classname="rbf_clap_b7_msgs.lint_cmake"
+  >
+      <failure message="Line ends in whitespace"/>
+  </testcase>
+  <testcase
+    name="linelength (cmake-build-debug/rbf_clap_b7_msgs__py/cmake_install.cmake:1)"
+    classname="rbf_clap_b7_msgs.lint_cmake"
+  >
+      <failure message="Lines should be &lt;= 140 characters long"/>
+  </testcase>
+  <testcase
+    name="whitespace/indent (cmake-build-debug/rbf_clap_b7_msgs__py/cmake_install.cmake:13)"
+    classname="rbf_clap_b7_msgs.lint_cmake"
+  >
+      <failure message="Weird indentation; use 2 spaces"/>
+  </testcase>
+  <testcase
+    name="cmake-build-debug/rosidl_cmake/rosidl_cmake-extras.cmake"
+    classname="rbf_clap_b7_msgs.lint_cmake"/>
+  <testcase
+    name="cmake-build-debug/rosidl_cmake/rosidl_cmake_export_typesupport_libraries-extras.cmake"
+    classname="rbf_clap_b7_msgs.lint_cmake"/>
+  <testcase
+    name="cmake-build-debug/rosidl_cmake/rosidl_cmake_export_typesupport_targets-extras.cmake"
+    classname="rbf_clap_b7_msgs.lint_cmake"/>
+  <system-out>Checked files:
+* CMakeLists.txt
+* cmake-build-debug/CTestCustom.cmake
+* cmake-build-debug/CTestTestfile.cmake
+* cmake-build-debug/cmake_install.cmake
+* cmake-build-debug/CMakeFiles/3.22.3/CMakeCCompiler.cmake
+* cmake-build-debug/CMakeFiles/3.22.3/CMakeCXXCompiler.cmake
+* cmake-build-debug/CMakeFiles/3.22.3/CMakeSystem.cmake
+* cmake-build-debug/CMakeFiles/Export/share/rbf_clap_b7_msgs/cmake/rbf_clap_b7_msgs__rosidl_generator_cExport-debug.cmake
+* cmake-build-debug/CMakeFiles/Export/share/rbf_clap_b7_msgs/cmake/rbf_clap_b7_msgs__rosidl_generator_cExport.cmake
+* cmake-build-debug/CMakeFiles/Export/share/rbf_clap_b7_msgs/cmake/rbf_clap_b7_msgs__rosidl_generator_cppExport.cmake
+* cmake-build-debug/CMakeFiles/Export/share/rbf_clap_b7_msgs/cmake/rbf_clap_b7_msgs__rosidl_typesupport_cExport-debug.cmake
+* cmake-build-debug/CMakeFiles/Export/share/rbf_clap_b7_msgs/cmake/rbf_clap_b7_msgs__rosidl_typesupport_cExport.cmake
+* cmake-build-debug/CMakeFiles/Export/share/rbf_clap_b7_msgs/cmake/rbf_clap_b7_msgs__rosidl_typesupport_cppExport-debug.cmake
+* cmake-build-debug/CMakeFiles/Export/share/rbf_clap_b7_msgs/cmake/rbf_clap_b7_msgs__rosidl_typesupport_cppExport.cmake
+* cmake-build-debug/CMakeFiles/Export/share/rbf_clap_b7_msgs/cmake/rbf_clap_b7_msgs__rosidl_typesupport_introspection_cExport-debug.cmake
+* cmake-build-debug/CMakeFiles/Export/share/rbf_clap_b7_msgs/cmake/rbf_clap_b7_msgs__rosidl_typesupport_introspection_cExport.cmake
+* cmake-build-debug/CMakeFiles/Export/share/rbf_clap_b7_msgs/cmake/rbf_clap_b7_msgs__rosidl_typesupport_introspection_cppExport-debug.cmake
+* cmake-build-debug/CMakeFiles/Export/share/rbf_clap_b7_msgs/cmake/rbf_clap_b7_msgs__rosidl_typesupport_introspection_cppExport.cmake
+* cmake-build-debug/ament_cmake_core/package.cmake
+* cmake-build-debug/ament_cmake_core/rbf_clap_b7_msgsConfig-version.cmake
+* cmake-build-debug/ament_cmake_core/rbf_clap_b7_msgsConfig.cmake
+* cmake-build-debug/ament_cmake_export_dependencies/ament_cmake_export_dependencies-extras.cmake
+* cmake-build-debug/ament_cmake_export_include_directories/ament_cmake_export_include_directories-extras.cmake
+* cmake-build-debug/ament_cmake_export_libraries/ament_cmake_export_libraries-extras.cmake
+* cmake-build-debug/ament_cmake_export_targets/ament_cmake_export_targets-extras.cmake
+* cmake-build-debug/ament_cmake_package_templates/templates.cmake
+* cmake-build-debug/ament_cmake_uninstall_target/ament_cmake_uninstall_target.cmake
+* cmake-build-debug/rbf_clap_b7_msgs__py/CMakeLists.txt
+* cmake-build-debug/rbf_clap_b7_msgs__py/CTestTestfile.cmake
+* cmake-build-debug/rbf_clap_b7_msgs__py/cmake_install.cmake
+* cmake-build-debug/rosidl_cmake/rosidl_cmake-extras.cmake
+* cmake-build-debug/rosidl_cmake/rosidl_cmake_export_typesupport_libraries-extras.cmake
+* cmake-build-debug/rosidl_cmake/rosidl_cmake_export_typesupport_targets-extras.cmake</system-out>
+</testsuite>

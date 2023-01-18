@@ -1,0 +1,3 @@
+-- run_test.py: invoking following command in '/home/coskun/projects/delivery_robot_ws/src/rbf_clap_b7_driver/rbf_clap_b7_msgs':
+ - /opt/ros/galactic/bin/ament_xmllint --xunit-file /home/coskun/projects/delivery_robot_ws/src/rbf_clap_b7_driver/rbf_clap_b7_msgs/cmake-build-debug/test_results/rbf_clap_b7_msgs/xmllint.xunit.xml
+

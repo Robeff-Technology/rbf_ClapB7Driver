@@ -1,0 +1,6 @@
+{
+  "package_name": "rbf_clap_b7_msgs",
+  "non_idl_tuples": [
+    "/home/coskun/projects/delivery_robot_ws/src/rbf_clap_b7_driver/rbf_clap_b7_msgs:msg/ClapData.msg"
+  ]
+}

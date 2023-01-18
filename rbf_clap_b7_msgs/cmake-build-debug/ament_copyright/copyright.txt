@@ -1,0 +1,71 @@
+-- run_test.py: invoking following command in '/home/coskun/projects/delivery_robot_ws/src/rbf_clap_b7_driver/rbf_clap_b7_msgs':
+ - /opt/ros/galactic/bin/ament_copyright --xunit-file /home/coskun/projects/delivery_robot_ws/src/rbf_clap_b7_driver/rbf_clap_b7_msgs/cmake-build-debug/test_results/rbf_clap_b7_msgs/copyright.xunit.xml
+
+cmake-build-debug/CMakeFiles/3.22.3/CMakeCCompiler.cmake: could not find copyright notice
+cmake-build-debug/CMakeFiles/3.22.3/CMakeCXXCompiler.cmake: could not find copyright notice
+cmake-build-debug/CMakeFiles/3.22.3/CMakeSystem.cmake: could not find copyright notice
+cmake-build-debug/CMakeFiles/3.22.3/CompilerIdC/CMakeCCompilerId.c: could not find copyright notice
+cmake-build-debug/CMakeFiles/3.22.3/CompilerIdCXX/CMakeCXXCompilerId.cpp: could not find copyright notice
+cmake-build-debug/CMakeFiles/Export/share/rbf_clap_b7_msgs/cmake/rbf_clap_b7_msgs__rosidl_generator_cExport-debug.cmake: could not find copyright notice
+cmake-build-debug/CMakeFiles/Export/share/rbf_clap_b7_msgs/cmake/rbf_clap_b7_msgs__rosidl_generator_cExport.cmake: could not find copyright notice
+cmake-build-debug/CMakeFiles/Export/share/rbf_clap_b7_msgs/cmake/rbf_clap_b7_msgs__rosidl_generator_cppExport.cmake: could not find copyright notice
+cmake-build-debug/CMakeFiles/Export/share/rbf_clap_b7_msgs/cmake/rbf_clap_b7_msgs__rosidl_typesupport_cExport-debug.cmake: could not find copyright notice
+cmake-build-debug/CMakeFiles/Export/share/rbf_clap_b7_msgs/cmake/rbf_clap_b7_msgs__rosidl_typesupport_cExport.cmake: could not find copyright notice
+cmake-build-debug/CMakeFiles/Export/share/rbf_clap_b7_msgs/cmake/rbf_clap_b7_msgs__rosidl_typesupport_cppExport-debug.cmake: could not find copyright notice
+cmake-build-debug/CMakeFiles/Export/share/rbf_clap_b7_msgs/cmake/rbf_clap_b7_msgs__rosidl_typesupport_cppExport.cmake: could not find copyright notice
+cmake-build-debug/CMakeFiles/Export/share/rbf_clap_b7_msgs/cmake/rbf_clap_b7_msgs__rosidl_typesupport_introspection_cExport-debug.cmake: could not find copyright notice
+cmake-build-debug/CMakeFiles/Export/share/rbf_clap_b7_msgs/cmake/rbf_clap_b7_msgs__rosidl_typesupport_introspection_cExport.cmake: could not find copyright notice
+cmake-build-debug/CMakeFiles/Export/share/rbf_clap_b7_msgs/cmake/rbf_clap_b7_msgs__rosidl_typesupport_introspection_cppExport-debug.cmake: could not find copyright notice
+cmake-build-debug/CMakeFiles/Export/share/rbf_clap_b7_msgs/cmake/rbf_clap_b7_msgs__rosidl_typesupport_introspection_cppExport.cmake: could not find copyright notice
+cmake-build-debug/CTestCustom.cmake: could not find copyright notice
+cmake-build-debug/CTestTestfile.cmake: could not find copyright notice
+cmake-build-debug/ament_cmake_core/package.cmake: could not find copyright notice
+cmake-build-debug/ament_cmake_core/rbf_clap_b7_msgsConfig-version.cmake: could not find copyright notice
+cmake-build-debug/ament_cmake_core/rbf_clap_b7_msgsConfig.cmake: could not find copyright notice
+cmake-build-debug/ament_cmake_export_dependencies/ament_cmake_export_dependencies-extras.cmake: could not find copyright notice
+cmake-build-debug/ament_cmake_export_include_directories/ament_cmake_export_include_directories-extras.cmake: could not find copyright notice
+cmake-build-debug/ament_cmake_export_libraries/ament_cmake_export_libraries-extras.cmake: could not find copyright notice
+cmake-build-debug/ament_cmake_export_targets/ament_cmake_export_targets-extras.cmake: could not find copyright notice
+cmake-build-debug/ament_cmake_package_templates/templates.cmake: could not find copyright notice
+cmake-build-debug/ament_cmake_uninstall_target/ament_cmake_uninstall_target.cmake: could not find copyright notice
+cmake-build-debug/cmake_install.cmake: could not find copyright notice
+cmake-build-debug/rbf_clap_b7_msgs__py/CTestTestfile.cmake: could not find copyright notice
+cmake-build-debug/rbf_clap_b7_msgs__py/cmake_install.cmake: could not find copyright notice
+cmake-build-debug/rosidl_cmake/rosidl_cmake-extras.cmake: could not find copyright notice
+cmake-build-debug/rosidl_cmake/rosidl_cmake_export_typesupport_libraries-extras.cmake: could not find copyright notice
+cmake-build-debug/rosidl_cmake/rosidl_cmake_export_typesupport_targets-extras.cmake: could not find copyright notice
+cmake-build-debug/rosidl_generator_c/rbf_clap_b7_msgs/msg/clap_data.h: could not find copyright notice
+cmake-build-debug/rosidl_generator_c/rbf_clap_b7_msgs/msg/detail/clap_data__functions.c: could not find copyright notice
+cmake-build-debug/rosidl_generator_c/rbf_clap_b7_msgs/msg/detail/clap_data__functions.h: could not find copyright notice
+cmake-build-debug/rosidl_generator_c/rbf_clap_b7_msgs/msg/detail/clap_data__struct.h: could not find copyright notice
+cmake-build-debug/rosidl_generator_c/rbf_clap_b7_msgs/msg/detail/clap_data__type_support.h: could not find copyright notice
+cmake-build-debug/rosidl_generator_c/rbf_clap_b7_msgs/msg/rosidl_generator_c__visibility_control.h: could not find copyright notice
+cmake-build-debug/rosidl_generator_cpp/rbf_clap_b7_msgs/msg/clap_data.hpp: could not find copyright notice
+cmake-build-debug/rosidl_generator_cpp/rbf_clap_b7_msgs/msg/detail/clap_data__builder.hpp: could not find copyright notice
+cmake-build-debug/rosidl_generator_cpp/rbf_clap_b7_msgs/msg/detail/clap_data__struct.hpp: could not find copyright notice
+cmake-build-debug/rosidl_generator_cpp/rbf_clap_b7_msgs/msg/detail/clap_data__traits.hpp: could not find copyright notice
+cmake-build-debug/rosidl_generator_py/rbf_clap_b7_msgs/_rbf_clap_b7_msgs_s.ep.rosidl_typesupport_c.c: could not find copyright notice
+cmake-build-debug/rosidl_generator_py/rbf_clap_b7_msgs/_rbf_clap_b7_msgs_s.ep.rosidl_typesupport_fastrtps_c.c: could not find copyright notice
+cmake-build-debug/rosidl_generator_py/rbf_clap_b7_msgs/_rbf_clap_b7_msgs_s.ep.rosidl_typesupport_introspection_c.c: could not find copyright notice
+cmake-build-debug/rosidl_generator_py/rbf_clap_b7_msgs/msg/__init__.py: could not find copyright notice
+cmake-build-debug/rosidl_generator_py/rbf_clap_b7_msgs/msg/_clap_data.py: could not find copyright notice
+cmake-build-debug/rosidl_generator_py/rbf_clap_b7_msgs/msg/_clap_data_s.c: could not find copyright notice
+cmake-build-debug/rosidl_typesupport_c/rbf_clap_b7_msgs/msg/clap_data__type_support.cpp: could not find copyright notice
+cmake-build-debug/rosidl_typesupport_c/rbf_clap_b7_msgs/msg/rosidl_typesupport_c__visibility_control.h: could not find copyright notice
+cmake-build-debug/rosidl_typesupport_cpp/rbf_clap_b7_msgs/msg/clap_data__type_support.cpp: could not find copyright notice
+cmake-build-debug/rosidl_typesupport_fastrtps_c/rbf_clap_b7_msgs/msg/detail/clap_data__rosidl_typesupport_fastrtps_c.h: could not find copyright notice
+cmake-build-debug/rosidl_typesupport_fastrtps_c/rbf_clap_b7_msgs/msg/detail/clap_data__type_support_c.cpp: could not find copyright notice
+cmake-build-debug/rosidl_typesupport_fastrtps_c/rbf_clap_b7_msgs/msg/rosidl_typesupport_fastrtps_c__visibility_control.h: could not find copyright notice
+cmake-build-debug/rosidl_typesupport_fastrtps_cpp/rbf_clap_b7_msgs/msg/detail/clap_data__rosidl_typesupport_fastrtps_cpp.hpp: could not find copyright notice
+cmake-build-debug/rosidl_typesupport_fastrtps_cpp/rbf_clap_b7_msgs/msg/detail/dds_fastrtps/clap_data__type_support.cpp: could not find copyright notice
+cmake-build-debug/rosidl_typesupport_fastrtps_cpp/rbf_clap_b7_msgs/msg/rosidl_typesupport_fastrtps_cpp__visibility_control.h: could not find copyright notice
+cmake-build-debug/rosidl_typesupport_introspection_c/rbf_clap_b7_msgs/msg/detail/clap_data__rosidl_typesupport_introspection_c.h: could not find copyright notice
+cmake-build-debug/rosidl_typesupport_introspection_c/rbf_clap_b7_msgs/msg/detail/clap_data__type_support.c: could not find copyright notice
+cmake-build-debug/rosidl_typesupport_introspection_c/rbf_clap_b7_msgs/msg/rosidl_typesupport_introspection_c__visibility_control.h: could not find copyright notice
+cmake-build-debug/rosidl_typesupport_introspection_cpp/rbf_clap_b7_msgs/msg/detail/clap_data__rosidl_typesupport_introspection_cpp.hpp: could not find copyright notice
+cmake-build-debug/rosidl_typesupport_introspection_cpp/rbf_clap_b7_msgs/msg/detail/clap_data__type_support.cpp: could not find copyright notice
+63 errors, checked 64 files
+
+
+-- run_test.py: return code 1
+-- run_test.py: verify result file '/home/coskun/projects/delivery_robot_ws/src/rbf_clap_b7_driver/rbf_clap_b7_msgs/cmake-build-debug/test_results/rbf_clap_b7_msgs/copyright.xunit.xml'

@@ -1,0 +1,11 @@
+-- run_test.py: invoking following command in '/home/coskun/projects/delivery_robot_ws/src/rbf_clap_b7_driver/rbf_clap_b7_msgs':
+ - /opt/ros/galactic/bin/ament_pep257 --xunit-file /home/coskun/projects/delivery_robot_ws/src/rbf_clap_b7_driver/rbf_clap_b7_msgs/cmake-build-debug/test_results/rbf_clap_b7_msgs/pep257.xunit.xml
+
+checking ./cmake-build-debug/rosidl_generator_py/rbf_clap_b7_msgs/__init__.py
+checking ./cmake-build-debug/rosidl_generator_py/rbf_clap_b7_msgs/msg/__init__.py
+checking ./cmake-build-debug/rosidl_generator_py/rbf_clap_b7_msgs/msg/_clap_data.py
+No problems found
+
+
+-- run_test.py: return code 0
+-- run_test.py: verify result file '/home/coskun/projects/delivery_robot_ws/src/rbf_clap_b7_driver/rbf_clap_b7_msgs/cmake-build-debug/test_results/rbf_clap_b7_msgs/pep257.xunit.xml'

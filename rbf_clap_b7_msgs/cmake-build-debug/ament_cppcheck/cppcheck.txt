@@ -1,0 +1,8 @@
+-- run_test.py: invoking following command in '/home/coskun/projects/delivery_robot_ws/src/rbf_clap_b7_driver/rbf_clap_b7_msgs':
+ - /opt/ros/galactic/bin/ament_cppcheck --xunit-file /home/coskun/projects/delivery_robot_ws/src/rbf_clap_b7_driver/rbf_clap_b7_msgs/cmake-build-debug/test_results/rbf_clap_b7_msgs/cppcheck.xunit.xml --include_dirs /home/coskun/projects/delivery_robot_ws/src/rbf_clap_b7_driver/rbf_clap_b7_msgs/cmake-build-debug/rosidl_generator_c /home/coskun/projects/delivery_robot_ws/src/rbf_clap_b7_driver/rbf_clap_b7_msgs/cmake-build-debug/rosidl_generator_c /home/coskun/projects/delivery_robot_ws/src/rbf_clap_b7_driver/rbf_clap_b7_msgs/cmake-build-debug/rosidl_generator_cpp /home/coskun/projects/delivery_robot_ws/src/rbf_clap_b7_driver/rbf_clap_b7_msgs/cmake-build-debug/rosidl_typesupport_fastrtps_c /home/coskun/projects/delivery_robot_ws/src/rbf_clap_b7_driver/rbf_clap_b7_msgs/cmake-build-debug/rosidl_typesupport_fastrtps_cpp /home/coskun/projects/delivery_robot_ws/src/rbf_clap_b7_driver/rbf_clap_b7_msgs/cmake-build-debug/rosidl_typesupport_introspection_c /home/coskun/projects/delivery_robot_ws/src/rbf_clap_b7_driver/rbf_clap_b7_msgs/cmake-build-debug/rosidl_typesupport_c /home/coskun/projects/delivery_robot_ws/src/rbf_clap_b7_driver/rbf_clap_b7_msgs/cmake-build-debug/rosidl_generator_cpp /home/coskun/projects/delivery_robot_ws/src/rbf_clap_b7_driver/rbf_clap_b7_msgs/cmake-build-debug/rosidl_generator_py
+
+No problems found
+
+
+-- run_test.py: return code 0
+-- run_test.py: verify result file '/home/coskun/projects/delivery_robot_ws/src/rbf_clap_b7_driver/rbf_clap_b7_msgs/cmake-build-debug/test_results/rbf_clap_b7_msgs/cppcheck.xunit.xml'

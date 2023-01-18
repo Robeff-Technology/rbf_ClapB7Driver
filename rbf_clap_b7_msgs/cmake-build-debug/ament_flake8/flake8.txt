@@ -1,0 +1,24 @@
+-- run_test.py: invoking following command in '/home/coskun/projects/delivery_robot_ws/src/rbf_clap_b7_driver/rbf_clap_b7_msgs':
+ - /opt/ros/galactic/bin/ament_flake8 --xunit-file /home/coskun/projects/delivery_robot_ws/src/rbf_clap_b7_driver/rbf_clap_b7_msgs/cmake-build-debug/test_results/rbf_clap_b7_msgs/flake8.xunit.xml
+
+
+./cmake-build-debug/rosidl_generator_py/rbf_clap_b7_msgs/msg/_clap_data.py:259:100: E501 line too long (134 > 99 characters)
+                t.value_type.typename in ['float', 'double', 'int8', 'uint8', 'int16', 'uint16', 'int32', 'uint32', 'int64', 'uint64']
+                                                                                                   ^
+
+1     E501 line too long (134 > 99 characters)
+
+3 files checked
+1 errors
+
+'E'-type errors: 1
+
+Checked files:
+
+* ./cmake-build-debug/rosidl_generator_py/rbf_clap_b7_msgs/__init__.py
+* ./cmake-build-debug/rosidl_generator_py/rbf_clap_b7_msgs/msg/__init__.py
+* ./cmake-build-debug/rosidl_generator_py/rbf_clap_b7_msgs/msg/_clap_data.py
+
+
+-- run_test.py: return code 1
+-- run_test.py: verify result file '/home/coskun/projects/delivery_robot_ws/src/rbf_clap_b7_driver/rbf_clap_b7_msgs/cmake-build-debug/test_results/rbf_clap_b7_msgs/flake8.xunit.xml'
